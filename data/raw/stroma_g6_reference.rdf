@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Coats/Short_Coats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Gilets_&amp;_Waistcoats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Cocktail_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tops/T-Shirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties/Waistcoats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Coats/Trench_Coats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Knee_High_Socks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Swimwear_/Dressing_Gowns__"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/T-Shirts_/Basic_T-Shirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tops/Tops_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sweaters_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Fleece_Jumpers_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Swim"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Swimwear_/Swimming_Trunks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Fleece_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Down_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Dressing_Gowns"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Down_Coats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Sweaters"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Cardigans"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Gilets_&amp;_Waistcoats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Shirt_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Shorts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Denim_Shorts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Socks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Bras"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Capes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Denim_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/T-Shirts_/Long_Sleeve_Tops_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Fashion_Hoodies_&amp;_Sweatshirts_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Hoodies_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Pants_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Cargo_Trousers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Pencil_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Pants_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Joggers_&amp;_Sweats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Mini_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Coats/Down_Coats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Athletic_Jackets___"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Socks"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Socks_/Knee_high_socks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Pants"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Chinos"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Tigh_High_Socks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Fleece_Jumpers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Outdoor_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Underwear/Dressing_Gowns_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Active"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Joggers_&amp;_Sweats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Blazers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jumpsuits,_Rompers_&amp;_Overalls"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Playsuits_&amp;_Jumpsuits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Lightweight_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shorts_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Shorts_"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Leggings"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Leggings"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jeans"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Straight_Leg"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jeans"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Bootcut"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jeans_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Bootcut_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Swimsuits_&amp;_Cover_Ups"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Swimwear/Bikinis"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Pants_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Chinos_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Down_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Underwear"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Underwear/Underpants"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Swimsuits_&amp;_Cover_Ups"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Swimwear/Swimsuits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/T-Shirts_/Print_T-Shirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Maxi_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Sweaters"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Fleece_Jumpers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Pleated_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Coats/Wool_Coats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Jersey_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Shapewear"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Suit_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Lightweight_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tops/Long_Sleeve_Tops"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Sports_Socks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Suspenders_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jeans_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Slim_Fit_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Trench_Coats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Pants_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Trousers_"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Tunics"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jeans_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Loose_Fit_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Leather_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Fleece_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sweaters_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Cardigans_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Winter_Coats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Athletic_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Leather_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/T-Shirts_/Polo_Shirts_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/A-Line_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Denim_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Underwear/Nightwear_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sweaters_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Knitted_Jumpers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Athletic_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Winter_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Blouses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Active"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Athletic_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Sweaters_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Sweatshirts_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Athletic_Jackets__"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Fashion_Hoodies_&amp;_Sweatshirts_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Sweatshirts_"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jeans"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Slim_Fit"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Pants"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Joggers_&amp;_Sweats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Vests_&amp;_Camisoles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Denim_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jeans_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Denim_Shorts_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Socks"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Socks_/Sports_Socks_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Vests_&amp;_Camisoles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Underwear"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Underwear/Vests"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Knitted_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Coats/Winter_Coats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Suspenders"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Knickers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Parkas"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Winter_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tops/Polo_Shirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Casual_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jeans"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Denim_Shorts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Tights"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Active_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Joggers_&amp;_Sweats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Sweaters"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Jumpers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Leggings"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Leggings_"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jackets_/Denim_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Active"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Athletic_Jackets_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Fashion_Hoodies_&amp;_Sweatshirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Sweatshirts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shorts_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Denim_Shorts_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Suits_&amp;_Sport_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties/Suits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Work_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Outdoor_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Fashion_Hoodies_&amp;_Sweatshirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Hoodies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Jeans"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jeans/Loose_Fit"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shorts_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Chinos_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Wool_Coats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Dresses"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Dresses/Maxi_Dresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Socks"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Socks_/Socks__"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Nightwear"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Shorts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Shorts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Sweaters"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Sweatshirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Shirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Shirts_/Business"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Shirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jeans_"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jeans_/Straight_Leg_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Pants"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Trousers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Suits_&amp;_Blazers"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Blazers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks/Leg_Warmers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Coats_/Short_Coats_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Fleece_Jumpers_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Jackets/Leather_Jackets"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonClothing.com/Women_Clothing/Skirts"/>
+      <entity2 rdf:resource="http://ebayClothing.com/Women/Skirts/Bubble_Hem_Skirts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

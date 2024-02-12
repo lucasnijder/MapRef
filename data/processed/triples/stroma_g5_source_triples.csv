@@ -1,0 +1,115 @@
+head;tail;relation
+bread;owl#thing;broadmatch
+coffee;owl#thing;broadmatch
+drink mixes;owl#thing;broadmatch
+seasonal candy;candy, gum & chocolate;broadmatch
+candy, gum & chocolate;owl#thing;broadmatch
+licorice;candy, gum & chocolate;broadmatch
+water flavor enhancers;owl#thing;broadmatch
+chewing gum;candy, gum & chocolate;broadmatch
+coconut water;owl#thing;broadmatch
+cereals & breakfast food;owl#thing;broadmatch
+candy ingredients;candy, gum & chocolate;broadmatch
+ground coffee;coffee;broadmatch
+fudge;candy, gum & chocolate;broadmatch
+water;owl#thing;broadmatch
+meat, poultry & seafood;owl#thing;broadmatch
+chewy candy;candy, gum & chocolate;broadmatch
+international food;owl#thing;broadmatch
+sugar free candy & chocolate;candy, gum & chocolate;broadmatch
+coffee & soda syrups;owl#thing;broadmatch
+mushrooms & truffles;owl#thing;broadmatch
+jams, jellies & preserves;owl#thing;broadmatch
+vegetables;owl#thing;broadmatch
+spices, seasonings & extracts;owl#thing;broadmatch
+milk & non-dairy milks;owl#thing;broadmatch
+flavored coffee;coffee;broadmatch
+cookies & biscotti;owl#thing;broadmatch
+wine;owl#thing;broadmatch
+beer & wine making;owl#thing;broadmatch
+food coupons;owl#thing;broadmatch
+grains & pasta;owl#thing;broadmatch
+condiments;owl#thing;broadmatch
+fruit juices;owl#thing;broadmatch
+oils;owl#thing;broadmatch
+snack foods;owl#thing;broadmatch
+chocolate;candy, gum & chocolate;broadmatch
+buffalo, beef & turkey jerky;candy, gum & chocolate;broadmatch
+tea;owl#thing;broadmatch
+soups & stews;owl#thing;broadmatch
+baking mixes;owl#thing;broadmatch
+trail mix;owl#thing;broadmatch
+cheese;owl#thing;broadmatch
+fondant & gum paste;candy, gum & chocolate;broadmatch
+jelly beans;candy, gum & chocolate;broadmatch
+desserts;owl#thing;broadmatch
+fake food;owl#thing;broadmatch
+sauces;owl#thing;broadmatch
+coffee beans;coffee;broadmatch
+fruits;owl#thing;broadmatch
+soft drinks;owl#thing;broadmatch
+gummy candy;candy, gum & chocolate;broadmatch
+hard candy & lollipops;candy, gum & chocolate;broadmatch
+chocolate covered fruit;candy, gum & chocolate;broadmatch
+nuts & seeds;owl#thing;broadmatch
+honey & syrup & sweeteners;owl#thing;broadmatch
+mints;candy, gum & chocolate;broadmatch
+baking chocolate;owl#thing;broadmatch
+coffee pods & k-cups;coffee;broadmatch
+owl#thing;bread;narrowmatch
+owl#thing;coffee;narrowmatch
+owl#thing;drink mixes;narrowmatch
+candy, gum & chocolate;seasonal candy;narrowmatch
+owl#thing;candy, gum & chocolate;narrowmatch
+candy, gum & chocolate;licorice;narrowmatch
+owl#thing;water flavor enhancers;narrowmatch
+candy, gum & chocolate;chewing gum;narrowmatch
+owl#thing;coconut water;narrowmatch
+owl#thing;cereals & breakfast food;narrowmatch
+candy, gum & chocolate;candy ingredients;narrowmatch
+coffee;ground coffee;narrowmatch
+candy, gum & chocolate;fudge;narrowmatch
+owl#thing;water;narrowmatch
+owl#thing;meat, poultry & seafood;narrowmatch
+candy, gum & chocolate;chewy candy;narrowmatch
+owl#thing;international food;narrowmatch
+candy, gum & chocolate;sugar free candy & chocolate;narrowmatch
+owl#thing;coffee & soda syrups;narrowmatch
+owl#thing;mushrooms & truffles;narrowmatch
+owl#thing;jams, jellies & preserves;narrowmatch
+owl#thing;vegetables;narrowmatch
+owl#thing;spices, seasonings & extracts;narrowmatch
+owl#thing;milk & non-dairy milks;narrowmatch
+coffee;flavored coffee;narrowmatch
+owl#thing;cookies & biscotti;narrowmatch
+owl#thing;wine;narrowmatch
+owl#thing;beer & wine making;narrowmatch
+owl#thing;food coupons;narrowmatch
+owl#thing;grains & pasta;narrowmatch
+owl#thing;condiments;narrowmatch
+owl#thing;fruit juices;narrowmatch
+owl#thing;oils;narrowmatch
+owl#thing;snack foods;narrowmatch
+candy, gum & chocolate;chocolate;narrowmatch
+candy, gum & chocolate;buffalo, beef & turkey jerky;narrowmatch
+owl#thing;tea;narrowmatch
+owl#thing;soups & stews;narrowmatch
+owl#thing;baking mixes;narrowmatch
+owl#thing;trail mix;narrowmatch
+owl#thing;cheese;narrowmatch
+candy, gum & chocolate;fondant & gum paste;narrowmatch
+candy, gum & chocolate;jelly beans;narrowmatch
+owl#thing;desserts;narrowmatch
+owl#thing;fake food;narrowmatch
+owl#thing;sauces;narrowmatch
+coffee;coffee beans;narrowmatch
+owl#thing;fruits;narrowmatch
+owl#thing;soft drinks;narrowmatch
+candy, gum & chocolate;gummy candy;narrowmatch
+candy, gum & chocolate;hard candy & lollipops;narrowmatch
+candy, gum & chocolate;chocolate covered fruit;narrowmatch
+owl#thing;nuts & seeds;narrowmatch
+owl#thing;honey & syrup & sweeteners;narrowmatch
+candy, gum & chocolate;mints;narrowmatch
+owl#thing;baking chocolate;narrowmatch
+coffee;coffee pods & k-cups;narrowmatch

@@ -1,0 +1,303 @@
+head;tail;relation
+slim fit ;jeans ;broadmatch
+jeans ;men;broadmatch
+jackets;women;broadmatch
+bathrobes;swimwear;broadmatch
+swimwear;women;broadmatch
+down coats;coats;broadmatch
+coats;women;broadmatch
+denim jackets;jackets;broadmatch
+bikinis;swimwear;broadmatch
+shirts ;men;broadmatch
+mini skirts;skirts;broadmatch
+skirts;women;broadmatch
+cardigans ;jumpers & cardigans ;broadmatch
+jumpers & cardigans ;men;broadmatch
+winter coats ;coats ;broadmatch
+coats ;men;broadmatch
+denim dresses;dresses;broadmatch
+dresses;women;broadmatch
+gilets & waistcoats ;jackets ;broadmatch
+jackets ;men;broadmatch
+leg warmers;tights & socks;broadmatch
+tights & socks;women;broadmatch
+suit jackets;suits & ties;broadmatch
+suits & ties;men;broadmatch
+joggers & sweats ;trousers & chinos;broadmatch
+trousers & chinos;men;broadmatch
+winter jackets;jackets;broadmatch
+underwear;men;broadmatch
+sports socks ;socks ;broadmatch
+socks ;men;broadmatch
+short coats ;coats ;broadmatch
+cargo trousers;trousers & chinos;broadmatch
+leggings ;trousers & leggings;broadmatch
+trousers & leggings;women;broadmatch
+swimming trunks;swimwear ;broadmatch
+swimwear ;men;broadmatch
+suits;suits & ties;broadmatch
+nightwear ;underwear;broadmatch
+dressing gowns;lingerie & nightware;broadmatch
+lingerie & nightware;women;broadmatch
+trench coats;coats;broadmatch
+denim skirts;skirts;broadmatch
+vests;underwear;broadmatch
+socks;tights & socks;broadmatch
+hoodies;jumpers & cardigans;broadmatch
+jumpers & cardigans;women;broadmatch
+shapewear;lingerie & nightware;broadmatch
+pencil skirts;skirts;broadmatch
+print t-shirts;t-shirts ;broadmatch
+t-shirts ;men;broadmatch
+blazers;jackets;broadmatch
+swimsuits;swimwear;broadmatch
+basic t-shirts;t-shirts ;broadmatch
+loose fit ;jeans ;broadmatch
+athletic jackets  ;jumpers & cardigans ;broadmatch
+parkas;coats ;broadmatch
+jersey dresses;dresses;broadmatch
+blouses & tunics;women;broadmatch
+denim shorts;jeans;broadmatch
+jeans;women;broadmatch
+knee high socks;tights & socks;broadmatch
+down jackets;jackets;broadmatch
+casual;shirts ;broadmatch
+tops ;tops;broadmatch
+tops;women;broadmatch
+cardigans;jumpers & cardigans;broadmatch
+suit jackets ;jackets ;broadmatch
+denim jackets ;jackets ;broadmatch
+athletic jackets   ;jackets ;broadmatch
+business;shirts ;broadmatch
+wool coats;coats;broadmatch
+beach accessories;swimwear;broadmatch
+sweatshirts ;jumpers & cardigans ;broadmatch
+winter coats;coats;broadmatch
+tigh high socks;tights & socks;broadmatch
+fleece jackets ;jackets ;broadmatch
+t-shirts;tops;broadmatch
+hoodies ;jumpers & cardigans ;broadmatch
+bootcut;jeans;broadmatch
+leather skirts;skirts;broadmatch
+fleece jumpers ;jumpers & cardigans ;broadmatch
+suspenders;lingerie & nightware;broadmatch
+bras;lingerie & nightware;broadmatch
+socks  ;socks ;broadmatch
+joggers & sweats;trousers & leggings;broadmatch
+knee high socks;socks ;broadmatch
+shorts;trousers & leggings;broadmatch
+shirt dresses;dresses;broadmatch
+straight leg;jeans;broadmatch
+wool coats ;coats ;broadmatch
+outdoor jackets;jackets;broadmatch
+casual dresses;dresses;broadmatch
+loose fit;jeans;broadmatch
+slim fit;jeans;broadmatch
+playsuits & jumpsuits;trousers & leggings;broadmatch
+business shirts;suits & ties;broadmatch
+a-line skirts;skirts;broadmatch
+trench coats ;coats ;broadmatch
+pleated skirts;skirts;broadmatch
+sweatshirts;jumpers & cardigans;broadmatch
+lightweight jackets ;jackets ;broadmatch
+trousers ;trousers & chinos;broadmatch
+nightwear;lingerie & nightware;broadmatch
+suit trousers;suits & ties;broadmatch
+dressing gowns ;underwear;broadmatch
+lightweight jackets;jackets;broadmatch
+denim shorts ;jeans ;broadmatch
+sports socks;tights & socks;broadmatch
+blouses;blouses & tunics;broadmatch
+dressing gowns  ;swimwear ;broadmatch
+bootcut ;jeans ;broadmatch
+underpants;underwear;broadmatch
+athletic jackets;jackets;broadmatch
+tights;tights & socks;broadmatch
+polo shirts ;t-shirts ;broadmatch
+fleece jackets;jackets;broadmatch
+waistcoats;suits & ties;broadmatch
+fleece jumpers;jumpers & cardigans;broadmatch
+cocktail dresses;dresses;broadmatch
+knitted dresses;dresses;broadmatch
+straight leg ;jeans ;broadmatch
+polo shirts;tops;broadmatch
+gilets & waistcoats;jackets;broadmatch
+long sleeve tops ;t-shirts ;broadmatch
+trousers;trousers & leggings;broadmatch
+capes;jackets;broadmatch
+maxi dresses;dresses;broadmatch
+leggings;tights & socks;broadmatch
+work dresses;dresses;broadmatch
+athletic jackets ;jumpers & cardigans;broadmatch
+knitted jumpers;jumpers & cardigans ;broadmatch
+long sleeve tops;tops;broadmatch
+short coats;coats;broadmatch
+tunics;blouses & tunics;broadmatch
+shorts ;trousers & chinos;broadmatch
+leather jackets ;jackets ;broadmatch
+chinos;trousers & leggings;broadmatch
+suspenders ;tights & socks;broadmatch
+vests & camisoles;lingerie & nightware;broadmatch
+down jackets ;jackets ;broadmatch
+outdoor jackets ;jackets ;broadmatch
+winter jackets ;jackets ;broadmatch
+leather jackets;jackets;broadmatch
+down coats ;coats ;broadmatch
+knickers;lingerie & nightware;broadmatch
+ties & accessories;suits & ties;broadmatch
+bubble hem skirts;skirts;broadmatch
+jumpers;jumpers & cardigans;broadmatch
+chinos ;trousers & chinos;broadmatch
+shirts;blouses & tunics;broadmatch
+maxi skirts;skirts;broadmatch
+jeans ;slim fit ;narrowmatch
+men;jeans ;narrowmatch
+women;jackets;narrowmatch
+swimwear;bathrobes;narrowmatch
+women;swimwear;narrowmatch
+coats;down coats;narrowmatch
+women;coats;narrowmatch
+jackets;denim jackets;narrowmatch
+swimwear;bikinis;narrowmatch
+men;shirts ;narrowmatch
+skirts;mini skirts;narrowmatch
+women;skirts;narrowmatch
+jumpers & cardigans ;cardigans ;narrowmatch
+men;jumpers & cardigans ;narrowmatch
+coats ;winter coats ;narrowmatch
+men;coats ;narrowmatch
+dresses;denim dresses;narrowmatch
+women;dresses;narrowmatch
+jackets ;gilets & waistcoats ;narrowmatch
+men;jackets ;narrowmatch
+tights & socks;leg warmers;narrowmatch
+women;tights & socks;narrowmatch
+suits & ties;suit jackets;narrowmatch
+men;suits & ties;narrowmatch
+trousers & chinos;joggers & sweats ;narrowmatch
+men;trousers & chinos;narrowmatch
+jackets;winter jackets;narrowmatch
+men;underwear;narrowmatch
+socks ;sports socks ;narrowmatch
+men;socks ;narrowmatch
+coats ;short coats ;narrowmatch
+trousers & chinos;cargo trousers;narrowmatch
+trousers & leggings;leggings ;narrowmatch
+women;trousers & leggings;narrowmatch
+swimwear ;swimming trunks;narrowmatch
+men;swimwear ;narrowmatch
+suits & ties;suits;narrowmatch
+underwear;nightwear ;narrowmatch
+lingerie & nightware;dressing gowns;narrowmatch
+women;lingerie & nightware;narrowmatch
+coats;trench coats;narrowmatch
+skirts;denim skirts;narrowmatch
+underwear;vests;narrowmatch
+tights & socks;socks;narrowmatch
+jumpers & cardigans;hoodies;narrowmatch
+women;jumpers & cardigans;narrowmatch
+lingerie & nightware;shapewear;narrowmatch
+skirts;pencil skirts;narrowmatch
+t-shirts ;print t-shirts;narrowmatch
+men;t-shirts ;narrowmatch
+jackets;blazers;narrowmatch
+swimwear;swimsuits;narrowmatch
+t-shirts ;basic t-shirts;narrowmatch
+jeans ;loose fit ;narrowmatch
+jumpers & cardigans ;athletic jackets  ;narrowmatch
+coats ;parkas;narrowmatch
+dresses;jersey dresses;narrowmatch
+women;blouses & tunics;narrowmatch
+jeans;denim shorts;narrowmatch
+women;jeans;narrowmatch
+tights & socks;knee high socks;narrowmatch
+jackets;down jackets;narrowmatch
+shirts ;casual;narrowmatch
+tops;tops ;narrowmatch
+women;tops;narrowmatch
+jumpers & cardigans;cardigans;narrowmatch
+jackets ;suit jackets ;narrowmatch
+jackets ;denim jackets ;narrowmatch
+jackets ;athletic jackets   ;narrowmatch
+shirts ;business;narrowmatch
+coats;wool coats;narrowmatch
+swimwear;beach accessories;narrowmatch
+jumpers & cardigans ;sweatshirts ;narrowmatch
+coats;winter coats;narrowmatch
+tights & socks;tigh high socks;narrowmatch
+jackets ;fleece jackets ;narrowmatch
+tops;t-shirts;narrowmatch
+jumpers & cardigans ;hoodies ;narrowmatch
+jeans;bootcut;narrowmatch
+skirts;leather skirts;narrowmatch
+jumpers & cardigans ;fleece jumpers ;narrowmatch
+lingerie & nightware;suspenders;narrowmatch
+lingerie & nightware;bras;narrowmatch
+socks ;socks  ;narrowmatch
+trousers & leggings;joggers & sweats;narrowmatch
+socks ;knee high socks;narrowmatch
+trousers & leggings;shorts;narrowmatch
+dresses;shirt dresses;narrowmatch
+jeans;straight leg;narrowmatch
+coats ;wool coats ;narrowmatch
+jackets;outdoor jackets;narrowmatch
+dresses;casual dresses;narrowmatch
+jeans;loose fit;narrowmatch
+jeans;slim fit;narrowmatch
+trousers & leggings;playsuits & jumpsuits;narrowmatch
+suits & ties;business shirts;narrowmatch
+skirts;a-line skirts;narrowmatch
+coats ;trench coats ;narrowmatch
+skirts;pleated skirts;narrowmatch
+jumpers & cardigans;sweatshirts;narrowmatch
+jackets ;lightweight jackets ;narrowmatch
+trousers & chinos;trousers ;narrowmatch
+lingerie & nightware;nightwear;narrowmatch
+suits & ties;suit trousers;narrowmatch
+underwear;dressing gowns ;narrowmatch
+jackets;lightweight jackets;narrowmatch
+jeans ;denim shorts ;narrowmatch
+tights & socks;sports socks;narrowmatch
+blouses & tunics;blouses;narrowmatch
+swimwear ;dressing gowns  ;narrowmatch
+jeans ;bootcut ;narrowmatch
+underwear;underpants;narrowmatch
+jackets;athletic jackets;narrowmatch
+tights & socks;tights;narrowmatch
+t-shirts ;polo shirts ;narrowmatch
+jackets;fleece jackets;narrowmatch
+suits & ties;waistcoats;narrowmatch
+jumpers & cardigans;fleece jumpers;narrowmatch
+dresses;cocktail dresses;narrowmatch
+dresses;knitted dresses;narrowmatch
+jeans ;straight leg ;narrowmatch
+tops;polo shirts;narrowmatch
+jackets;gilets & waistcoats;narrowmatch
+t-shirts ;long sleeve tops ;narrowmatch
+trousers & leggings;trousers;narrowmatch
+jackets;capes;narrowmatch
+dresses;maxi dresses;narrowmatch
+tights & socks;leggings;narrowmatch
+dresses;work dresses;narrowmatch
+jumpers & cardigans;athletic jackets ;narrowmatch
+jumpers & cardigans ;knitted jumpers;narrowmatch
+tops;long sleeve tops;narrowmatch
+coats;short coats;narrowmatch
+blouses & tunics;tunics;narrowmatch
+trousers & chinos;shorts ;narrowmatch
+jackets ;leather jackets ;narrowmatch
+trousers & leggings;chinos;narrowmatch
+tights & socks;suspenders ;narrowmatch
+lingerie & nightware;vests & camisoles;narrowmatch
+jackets ;down jackets ;narrowmatch
+jackets ;outdoor jackets ;narrowmatch
+jackets ;winter jackets ;narrowmatch
+jackets;leather jackets;narrowmatch
+coats ;down coats ;narrowmatch
+lingerie & nightware;knickers;narrowmatch
+suits & ties;ties & accessories;narrowmatch
+skirts;bubble hem skirts;narrowmatch
+jumpers & cardigans;jumpers;narrowmatch
+trousers & chinos;chinos ;narrowmatch
+blouses & tunics;shirts;narrowmatch
+skirts;maxi skirts;narrowmatch

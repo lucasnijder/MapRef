@@ -1,0 +1,157 @@
+head;tail;relation
+sauces;salsas, dips & spreads;narrowmatch
+snack foods;rice cakes, chips & crackers;narrowmatch
+water flavor enhancers;iced tea & lemonade;narrowmatch
+oils;oils;exactmatch
+snack foods;popcorn;narrowmatch
+baking chocolate;chocolates;exactmatch
+vegetables;beans;narrowmatch
+desserts;pie crusts;narrowmatch
+mushrooms & truffles;chocolate truffels;narrowmatch
+hard candy & lollipops;suckers & lollipops;narrowmatch
+nuts & seeds;nuts & seeds;exactmatch
+desserts;glazes;narrowmatch
+meat, poultry & seafood;seafood gifts;narrowmatch
+sauces;marinades & seasoning mixes;narrowmatch
+jams, jellies & preserves;marmalades;narrowmatch
+snack foods;pretzels;narrowmatch
+fruits;fruit leather;narrowmatch
+water flavor enhancers;flavored & enhanced water;exactmatch
+drink mixes;hot cocoa;narrowmatch
+sauces;non-stick cooking oil sprays;narrowmatch
+fruits;fruits;exactmatch
+candy, gum & chocolate;party mix;narrowmatch
+sauces;gravies;narrowmatch
+meat, poultry & seafood;meat & seafood;exactmatch
+desserts;dessert gifts;narrowmatch
+desserts;ice cream cones & toppings;narrowmatch
+spices, seasonings & extracts;spices gifts;narrowmatch
+snack foods;snack gifts;narrowmatch
+candy, gum & chocolate;chocolate gifts;narrowmatch
+international food;mexican dinner kits;narrowmatch
+snack foods;fruit snacks;narrowmatch
+oils;oils, vinegars & salad dressings;broadmatch
+baking mixes;pudding;narrowmatch
+drink mixes;meal replacement drinks;narrowmatch
+bread;breads;exactmatch
+meat, poultry & seafood;jerky & dried meats;narrowmatch
+coffee & soda syrups;flavoring syrup;exactmatch
+coffee & soda syrups;syrup, sugars & sweeteners;broadmatch
+international food;indian dishes;narrowmatch
+grains & pasta;rice dishes;narrowmatch
+chocolate;candy & chocolate;broadmatch
+cookies & biscotti;cakes;narrowmatch
+hard candy & lollipops;hard candy;narrowmatch
+condiments;condiments, pickles & relishes;broadmatch
+international food;asian dishes;narrowmatch
+coffee beans;unroasted beans;narrowmatch
+snack foods;puffed snacks;narrowmatch
+candy, gum & chocolate;marshmallow spread;narrowmatch
+cereals & breakfast food;breakfast foods;exactmatch
+fruits;fruits ;exactmatch
+water;sparkling & mineral water;narrowmatch
+chewing gum;chewing gum;exactmatch
+grains & pasta;grains & rice;narrowmatch
+desserts;pudding;narrowmatch
+water;seltzer & tonic water;narrowmatch
+jams, jellies & preserves;jams, jellies & preserves;exactmatch
+spices, seasonings & extracts;wasabi;narrowmatch
+licorice;licorice;exactmatch
+cookies & biscotti;muffins;narrowmatch
+fondant & gum paste;food coloring;broadmatch
+grains & pasta;potatoes & stuffings;narrowmatch
+baking mixes;thickeners;narrowmatch
+candy, gum & chocolate;candy gifts;narrowmatch
+spices, seasonings & extracts;leaveners & yeasts;narrowmatch
+chewy candy;caramels;narrowmatch
+grains & pasta;pancakes & waffles;narrowmatch
+drink mixes;protein drinks;narrowmatch
+jelly beans;jelly beans;exactmatch
+candy, gum & chocolate;cocoa;narrowmatch
+honey & syrup & sweeteners;sugar substitutes;narrowmatch
+seasonal candy;candy & chocolate;broadmatch
+sugar free candy & chocolate;candy & chocolate;broadmatch
+cookies & biscotti;biscuits;narrowmatch
+sauces;sauces;exactmatch
+fruits;dried fruit & raisins;narrowmatch
+baking mixes;pie & pastry fillings;narrowmatch
+grains & pasta;breadcrumbs & seasoned coatings;narrowmatch
+sauces;steak sauce;narrowmatch
+candy, gum & chocolate;pretzels;narrowmatch
+baking chips;baking mixes;broadmatch
+coconut water;coconut water;exactmatch
+sauces;vinegars;narrowmatch
+soups & stews;soups, stews & chili;broadmatch
+wine;cooking wine;narrowmatch
+ground coffee;ground coffee;exactmatch
+vegetables;peas;narrowmatch
+cookies & biscotti;glazes;narrowmatch
+coffee & soda syrups;soda syrups;narrowmatch
+cookies & biscotti;brownies;narrowmatch
+international food;dried seaweed & nori;narrowmatch
+vegetables;beans ;narrowmatch
+fruit juices;fruit juice;exactmatch
+cheese;cheese gifts;narrowmatch
+gummy candy;gummy candy;exactmatch
+drink mixes;ciders;narrowmatch
+chewy candy;gummy candy;narrowmatch
+drink mixes;energy drinks;narrowmatch
+grains & pasta;flours & meals;narrowmatch
+cookies & biscotti;fruit butters;narrowmatch
+mints;mints;exactmatch
+trail mix;trail mix;exactmatch
+honey & syrup & sweeteners;pancakes & waffles;narrowmatch
+baking mixes;baking mixes;exactmatch
+sauces;tartar sauce;narrowmatch
+fudge;fudge;exactmatch
+desserts;pudding & gelatin;narrowmatch
+sauces;worcestershire sauce;narrowmatch
+candy, gum & chocolate;coconut flakes;narrowmatch
+spices, seasonings & extracts;carob;narrowmatch
+vegetables;lentils;narrowmatch
+candy, gum & chocolate;dried fruit & raisins;narrowmatch
+cookies & biscotti;cookies;narrowmatch
+nuts & seeds;wasabi peas;narrowmatch
+desserts;frostings & icings;narrowmatch
+oils;lard & shortening;narrowmatch
+jams, jellies & preserves;pectin;narrowmatch
+drink mixes;powdered drink mixes;narrowmatch
+chewy candy;fruit candy;narrowmatch
+coffee beans;whole beans;narrowmatch
+sauces;hot sauces;narrowmatch
+condiments;vinegars;narrowmatch
+milk & non-dairy milks;condensed & powdered milk;narrowmatch
+buffalo, beef & turkey jerky;jerky & dried meats;broadmatch
+candy, gum & chocolate;marzipan & almond paste;narrowmatch
+cookies & biscotti;doughs, shells & crusts;narrowmatch
+desserts;dessert syrups & sauces;narrowmatch
+grains & pasta;pasta & noodle dinner kits;narrowmatch
+grains & pasta;pasta & noodles;narrowmatch
+tea;tea;exactmatch
+wine;wine;exactmatch
+coffee pods & k-cups;coffee;broadmatch
+sauces;sauces gifts;narrowmatch
+chewy candy;taffy;narrowmatch
+desserts;pie & pastry fillings;narrowmatch
+jams, jellies & preserves;jams & preserves gifts ;narrowmatch
+drink mixes;iced tea & lemonade;narrowmatch
+cookies & biscotti;nut butters;narrowmatch
+fruits;fruit gifts;narrowmatch
+grains & pasta;macaroni & cheese;narrowmatch
+nuts & seeds;nuts, seeds;exactmatch
+spices, seasonings & extracts;marinades & seasoning mixes;exactmatch
+drink mixes;sports drinks;narrowmatch
+soft drinks;soft drinks;exactmatch
+sauces;glazes;narrowmatch
+drink mixes;smoothies;narrowmatch
+soups & stews;stocks, broths & bouillon;narrowmatch
+fondant & gum paste;frosting, icing & decorations;broadmatch
+candy, gum & chocolate;nut butters;narrowmatch
+flavored coffee;coffee;broadmatch
+spices, seasonings & extracts;gravies;narrowmatch
+tea;tea gifts;narrowmatch
+trail mix;granola & trail mix;broadmatch
+desserts;gelantine;narrowmatch
+snack foods;snack foods;exactmatch
+jams, jellies & preserves;hazelnut spread;narrowmatch
+coffee;coffee gifts;narrowmatch

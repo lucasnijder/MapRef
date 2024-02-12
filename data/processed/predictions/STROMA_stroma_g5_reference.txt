@@ -1,0 +1,154 @@
+sauces  ::  salsas, dips & spreads :: 1
+snack foods  ::  rice cakes, chips & crackers :: 6
+water flavor enhancers  ::  iced tea & lemonade :: 1
+oils  ::  oils :: 0
+snack foods  ::  popcorn :: 6
+baking chocolate  ::  chocolates :: 1
+desserts  ::  pie crusts :: 2
+mushrooms & truffles  ::  chocolate truffels :: 2
+hard candy & lollipops  ::  suckers & lollipops :: 6
+nuts & seeds  ::  nuts & seeds :: 0
+desserts  ::  glazes :: 6
+meat, poultry & seafood  ::  seafood gifts :: 6
+sauces  ::  marinades & seasoning mixes :: 6
+jams, jellies & preserves  ::  marmalades :: 2
+snack foods  ::  pretzels :: 6
+fruits  ::  fruit leather :: 2
+water flavor enhancers  ::  flavored & enhanced water :: 1
+drink mixes  ::  hot cocoa :: 6
+sauces  ::  non-stick cooking oil sprays :: 2
+fruits  ::  fruits :: 0
+candy, gum & chocolate  ::  party mix :: 2
+sauces  ::  gravies :: 2
+meat, poultry & seafood  ::  meat & seafood :: 2
+desserts  ::  dessert gifts :: 4
+desserts  ::  ice cream cones & toppings :: 2
+spices, seasonings & extracts  ::  spices gifts :: 6
+snack foods  ::  snack gifts :: 6
+candy, gum & chocolate  ::  chocolate gifts :: 6
+international food  ::  mexican dinner kits :: 6
+snack foods  ::  fruit snacks :: 6
+oils  ::  oils, vinegars & salad dressings :: 1
+baking mixes  ::  pudding :: 6
+drink mixes  ::  meal replacement drinks :: 6
+bread  ::  breads :: 0
+meat, poultry & seafood  ::  jerky & dried meats :: 2
+coffee & soda syrups  ::  flavoring syrup :: 2
+coffee & soda syrups  ::  syrup, sugars & sweeteners :: 2
+international food  ::  indian dishes :: 6
+grains & pasta  ::  rice dishes :: 6
+chocolate  ::  candy & chocolate :: 1
+cookies & biscotti  ::  cakes :: 1
+hard candy & lollipops  ::  hard candy :: 2
+condiments  ::  condiments, pickles & relishes :: 1
+international food  ::  asian dishes :: 6
+coffee beans  ::  unroasted beans :: 6
+snack foods  ::  puffed snacks :: 6
+candy, gum & chocolate  ::  marshmallow spread :: 6
+cereals & breakfast food  ::  breakfast foods :: 2
+water  ::  sparkling & mineral water :: 2
+chewing gum  ::  chewing gum :: 0
+grains & pasta  ::  grains & rice :: 1
+desserts  ::  pudding :: 6
+water  ::  seltzer & tonic water :: 2
+jams, jellies & preserves  ::  jams, jellies & preserves :: 0
+spices, seasonings & extracts  ::  wasabi :: 2
+licorice  ::  licorice :: 0
+cookies & biscotti  ::  muffins :: 2
+fondant & gum paste  ::  food coloring :: 6
+grains & pasta  ::  potatoes & stuffings :: 6
+baking mixes  ::  thickeners :: 6
+candy, gum & chocolate  ::  candy gifts :: 6
+spices, seasonings & extracts  ::  leaveners & yeasts :: 6
+chewy candy  ::  caramels :: 6
+grains & pasta  ::  pancakes & waffles :: 2
+drink mixes  ::  protein drinks :: 6
+jelly beans  ::  jelly beans :: 0
+candy, gum & chocolate  ::  cocoa :: 2
+honey & syrup & sweeteners  ::  sugar substitutes :: 2
+seasonal candy  ::  candy & chocolate :: 1
+sugar free candy & chocolate  ::  candy & chocolate :: 1
+cookies & biscotti  ::  biscuits :: 2
+sauces  ::  sauces :: 0
+fruits  ::  dried fruit & raisins :: 2
+baking mixes  ::  pie & pastry fillings :: 1
+grains & pasta  ::  breadcrumbs & seasoned coatings :: 2
+sauces  ::  steak sauce :: 2
+candy, gum & chocolate  ::  pretzels :: 2
+baking chips  ::  baking mixes :: 6
+coconut water  ::  coconut water :: 0
+sauces  ::  vinegars :: 2
+soups & stews  ::  soups, stews & chili :: 1
+wine  ::  cooking wine :: 2
+ground coffee  ::  ground coffee :: 0
+vegetables  ::  peas :: 6
+cookies & biscotti  ::  glazes :: 6
+coffee & soda syrups  ::  soda syrups :: 2
+cookies & biscotti  ::  brownies :: 2
+international food  ::  dried seaweed & nori :: 6
+vegetables  ::  beans :: 6
+fruit juices  ::  fruit juice :: 0
+cheese  ::  cheese gifts :: 4
+gummy candy  ::  gummy candy :: 0
+drink mixes  ::  ciders :: 6
+chewy candy  ::  gummy candy :: 6
+drink mixes  ::  energy drinks :: 6
+grains & pasta  ::  flours & meals :: 1
+cookies & biscotti  ::  fruit butters :: 6
+mints  ::  mints :: 0
+trail mix  ::  trail mix :: 0
+honey & syrup & sweeteners  ::  pancakes & waffles :: 2
+baking mixes  ::  baking mixes :: 0
+sauces  ::  tartar sauce :: 2
+fudge  ::  fudge :: 0
+desserts  ::  pudding & gelatin :: 6
+sauces  ::  worcestershire sauce :: 2
+candy, gum & chocolate  ::  coconut flakes :: 2
+spices, seasonings & extracts  ::  carob :: 2
+vegetables  ::  lentils :: 2
+candy, gum & chocolate  ::  dried fruit & raisins :: 2
+cookies & biscotti  ::  cookies :: 0
+nuts & seeds  ::  wasabi peas :: 2
+desserts  ::  frostings & icings :: 2
+oils  ::  lard & shortening :: 2
+jams, jellies & preserves  ::  pectin :: 2
+drink mixes  ::  powdered drink mixes :: 2
+chewy candy  ::  fruit candy :: 6
+coffee beans  ::  whole beans :: 6
+sauces  ::  hot sauces :: 2
+condiments  ::  vinegars :: 1
+milk & non-dairy milks  ::  condensed & powdered milk :: 2
+buffalo, beef & turkey jerky  ::  jerky & dried meats :: 6
+candy, gum & chocolate  ::  marzipan & almond paste :: 2
+cookies & biscotti  ::  doughs, shells & crusts :: 6
+desserts  ::  dessert syrups & sauces :: 6
+grains & pasta  ::  pasta & noodle dinner kits :: 6
+grains & pasta  ::  pasta & noodles :: 2
+tea  ::  tea :: 0
+wine  ::  wine :: 0
+coffee pods & k-cups  ::  coffee :: 1
+sauces  ::  sauces gifts :: 4
+chewy candy  ::  taffy :: 6
+desserts  ::  pie & pastry fillings :: 1
+jams, jellies & preserves  ::  jams & preserves gifts :: 6
+drink mixes  ::  iced tea & lemonade :: 6
+cookies & biscotti  ::  nut butters :: 6
+fruits  ::  fruit gifts :: 4
+grains & pasta  ::  macaroni & cheese :: 1
+nuts & seeds  ::  nuts, seeds :: 0
+spices, seasonings & extracts  ::  marinades & seasoning mixes :: 6
+drink mixes  ::  sports drinks :: 6
+soft drinks  ::  soft drinks :: 0
+sauces  ::  glazes :: 6
+drink mixes  ::  smoothies :: 6
+soups & stews  ::  stocks, broths & bouillon :: 6
+fondant & gum paste  ::  frosting, icing & decorations :: 6
+candy, gum & chocolate  ::  nut butters :: 2
+flavored coffee  ::  coffee :: 1
+spices, seasonings & extracts  ::  gravies :: 6
+tea  ::  tea gifts :: 2
+trail mix  ::  granola & trail mix :: 1
+desserts  ::  gelantine :: 6
+snack foods  ::  snack foods :: 0
+jams, jellies & preserves  ::  hazelnut spread :: 6
+coffee  ::  coffee gifts :: 2

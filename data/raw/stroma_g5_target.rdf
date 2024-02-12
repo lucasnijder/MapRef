@@ -1,0 +1,1249 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://www.semanticweb.org/ontologies/2014/8/Ontology1411126815153.owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2014/8/Ontology1411126815153.owl"/>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Fruits">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Deli">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Chocolate_Gifts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Pudding">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Saltines">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Brittle">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals/Gold_Cereal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Active_Dry_Yeasts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Cheese_Gifts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Ginger_Snaps">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Almond">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants/Fresh_Centerpieces">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Bacon">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Polenta_Meal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Caramels">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Wasabi">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Dessert_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Vinegars">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Oat_Flour">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Snack_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Meal_Replacement_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Trail_Mix">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Meat_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Oils">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Pie_Crusts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings/Seasoned_Coatings">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Water/Seltzer_&amp;_Tonic_Water">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Water"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Carob">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Simple_Syrup">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Powdered_Eggs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Cashews">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Potato">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants/Fresh_Cut_Flowers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Assortments_&amp;_Samplers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Macadmia_Nuts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Toaster_Pastries">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pork_Rinds">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Baker&apos;s_Ammonia">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Coffee_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dried_Fruit_&amp;_Raisins">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Nuts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Pectin">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings/Breadcrumps">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Oils,_Vinegars_&amp;_Salad_Dressings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Breads">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Fruit_Butters">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Sports_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Hard_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Breadsticks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Fruit_Leather">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Mixed_Packs">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Oyster">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Meat_Substitutes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants/Fresh_Wreathes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Cocktail_Sauce">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Vegetables">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Suckers_&amp;_Lollipops">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Maple_Syrup">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Chewing_Gum">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Mayonnaise">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Hazelnut_Spread">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Sugar">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Beans_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Potash_Baking_Ingredient">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Asian_Dishes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Assortments">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Sour_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Extracts_&amp;_Flavoring">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Soft_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Soups,_Stews_&amp;_Chili">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Chocolates">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Peanut_Butter">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Jams_&amp;_Preserves_Gifts_">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Sprinkles_&amp;_Glitters">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Sparkling">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Agave_Nectar_&amp;_Syrup">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Gelantine">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants/Fresh_Sprays">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Pretzels_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings/Pepper_&amp;_Peppercorns">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn/Unpopped">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Hot_Cocoa">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Rice_Dishes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Pizzelles">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Sunflower_Seeds">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Nut_Clusters">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn/Popped">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Decorating_Kits">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Pistachio_Nuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants/Live_Indoor_Plants">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Animal_Shaped">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Peanuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Tartar_Sauce">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Lentils">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Mead">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Instant_Coffee">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Wheat">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Ketchup">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces/Flavoring_Syrups">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Water">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Bread_Machine_Yeasts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn/Microwave">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings/Spices_Gifts_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Lard_&amp;_Shortening">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Oolong">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Nut_Butters">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Jelly_Beans">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Salad_Toppings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Tortilla">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Potato_Chips">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Gummy_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Chia_Seeds">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Fruit_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Protein_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Ginger_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Food_Coloring">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Chocolate_Chip">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals/Granola">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Jams,_Jellies_&amp;_Preserves">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Ladyfingers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Capers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Herbal">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Horseradish">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Baking_Soda">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Mixed_Wine_Packs">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Fresh_Flowers_&amp;_Live_Indoor_Plants">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars/Cereal">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Stocks,_Broths_&amp;_Bouillon">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Fortune">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Chocolate_Truffels">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Tea_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes/Powdered_Milk">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces/Caramel">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Granola_&amp;_Trail_Mix">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals/Grits">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Unroasted_Beans">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes/Chocolate_Drink_Mixes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Espresso_Beans">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Wasabi_Peas">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Muffins">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Tea_Gifts_">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Sauces">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Non-Stick_Cooking_Oil_Sprays">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Meat_&amp;_Seafood">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Taffy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Oat_Bran">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Fruits_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Indian_Dishes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Walnuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Soda_Syrups">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings/Mixed_Spices_&amp;_Seasonings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Yeast_Starters">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Rice_Flour">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Sugar_Substitutes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Soy">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Mints">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Mexican_Dinner_Kits">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Graham_Crackers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Jams_&amp;_Preserves_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes/Instant_Breakfast_Drinks_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/White">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Green">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes/Soft_Drink_Mixes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Shortbread">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Barley_Flour">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Butter">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Millet">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices/Fruit_Juice">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Juices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Rice_Cakes,_Chips_&amp;_Crackers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings/Salt_&amp;_Salt_Substitutes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Hazelnuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Beans">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Red">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Pickled_Vegetables">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Olives">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Pretzels">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Nut">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Condensed_&amp;_Powdered_Milk">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars/Granola,_Trail_Mix">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Flatbread">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Coconut_Flakes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Ground_Coffee">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Single-Serve_Cups">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Marmalades">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Flavoring_Syrup">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Ice_Cream_Cones_&amp;_Toppings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices/Vegetable_Juice">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Juices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruit_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Almonds">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Peas">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Fruit">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Molasses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Puffed_Snacks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Relishes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coconut_Water">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Sloppy_Joe_Mix">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Baker&apos;s_Yeast">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Dusting_Powders">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Dessert">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Whole_Beans">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Party_Mix">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Chai">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Halva">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Brownies">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Corn">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Wheat_Flours_&amp;_Meals">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings/Single_Herbs_&amp;_Spices">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Herbs,_Spices_&amp;_Seasonings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Fruit_Snacks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Wine">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Candy_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps/Pita">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Chips_&amp;_Crisps"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Pumpkin_Nuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Energy_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Licorice">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Potatoes_&amp;_Stuffings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Pickled_Eggs">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Assortments_&amp;_Sampler">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Thickeners">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Coffee/Coffee_Substitutes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Cake_Toppers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Tea_Samplers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Rooibos">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals/Oatmeal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Wafers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings/Panko">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/Black">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads/Salsas">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Chocolate">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Dried_Seaweed_&amp;_Nori">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices/Ciders">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Juices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Mustard">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Pasta_Salad_Kits">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Pasta_&amp;_Noodle_Dinner_Kits">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Popcorn">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Pumpkin_Seeds">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars/Energy_&amp;_Nutritional">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods/Breakfast_&amp;_Cereal_Bars"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Bagel_Chips">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Pie_&amp;_Pastry_Fillings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Iced_Tea_&amp;_Lemonade">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Carbanzo">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Sandwich_Spreads">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices/Smoothies">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Juices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Marshmallows">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Frostings_&amp;_Icings">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Pickles">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Biscotti">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Glazes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Cocoa">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Jerky_&amp;_Dried_Meats">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Chile_Verde">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Pudding_&amp;_Gelatin">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Marzipan_&amp;_Almond_Paste">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads/Dips_&amp;_Spreads">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Tea/White_">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals/Buckwheat">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Meringues">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Gravies">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Honey">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Toffee">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Nuts_&amp;_Seeds">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Candy_&amp;_Chocolate_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fudge">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Grains_&amp;_Rice">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Chutneys">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Biscuits">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Mixed_Nuts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Spices_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Steak_Sauce">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Water/Sparkling_&amp;_Mineral_Water">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Water"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Sandwich">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Pasta_&amp;_Noodles">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings/Tempura">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Juices/Sparkling_Juice">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Juices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Doughs,_Shells_&amp;_Crusts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Seafood_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Crackers/Matzo">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Crackers"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Hot_Sauces">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Pancakes_&amp;_Waffles">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Instant_Breakfast_Drinks">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds/Pecans">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Cookies/Snickerdoodles">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Candy_&amp;_Chocolate/Bars">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Cakes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Marshmallow_Spread">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Marinades_&amp;_Seasoning_Mixes">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Gourmet_Gifts/Sauces_Gifts">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Gourmet_Gifts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners/Sugars">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Worcestershire_Sauce">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts/Baking_Powder">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Water/Flavored_&amp;_Enhanced_Water">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages/Water"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Breakfast_Foods/Cereals/Muesli">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Breakfast_Foods/Cereals"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Beverages/Cocktail_Mixers">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Beverages"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Macaroni_&amp;_Cheese">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Pizza_Kits">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Wine/Rosé">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Wine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayGroceries.com/Snack_Foods/Applesauce_&amp;_Fruit_Cups">
+    <rdfs:subClassOf rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+  </owl:Class>
+</rdf:RDF>

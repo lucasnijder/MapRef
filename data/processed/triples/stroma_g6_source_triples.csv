@@ -1,0 +1,59 @@
+head;tail;relation
+shorts ;men clothing;broadmatch
+jackets & coats;men clothing;broadmatch
+jeans;women clothing;broadmatch
+jeans ;men clothing;broadmatch
+pants;women clothing;broadmatch
+coats & jackets;women clothing;broadmatch
+pants ;men clothing;broadmatch
+shirts;men clothing;broadmatch
+fashion hoodies & sweatshirts ;men clothing;broadmatch
+underwear;men clothing;broadmatch
+active;women clothing;broadmatch
+suits & blazers;women clothing;broadmatch
+sweaters ;men clothing;broadmatch
+skirts;women clothing;broadmatch
+swim;men clothing;broadmatch
+tops & tees;women clothing;broadmatch
+swimsuits & cover ups;women clothing;broadmatch
+lingerie, sleep & lounge;women clothing;broadmatch
+jumpsuits, rompers & overalls;women clothing;broadmatch
+dresses;women clothing;broadmatch
+socks & hosiery;women clothing;broadmatch
+sleep & lounge;men clothing;broadmatch
+leggings;women clothing;broadmatch
+active ;men clothing;broadmatch
+shorts;women clothing;broadmatch
+sweaters;women clothing;broadmatch
+suits & sport coats;men clothing;broadmatch
+socks;men clothing;broadmatch
+fashion hoodies & sweatshirts;women clothing;broadmatch
+men clothing;shorts ;narrowmatch
+men clothing;jackets & coats;narrowmatch
+women clothing;jeans;narrowmatch
+men clothing;jeans ;narrowmatch
+women clothing;pants;narrowmatch
+women clothing;coats & jackets;narrowmatch
+men clothing;pants ;narrowmatch
+men clothing;shirts;narrowmatch
+men clothing;fashion hoodies & sweatshirts ;narrowmatch
+men clothing;underwear;narrowmatch
+women clothing;active;narrowmatch
+women clothing;suits & blazers;narrowmatch
+men clothing;sweaters ;narrowmatch
+women clothing;skirts;narrowmatch
+men clothing;swim;narrowmatch
+women clothing;tops & tees;narrowmatch
+women clothing;swimsuits & cover ups;narrowmatch
+women clothing;lingerie, sleep & lounge;narrowmatch
+women clothing;jumpsuits, rompers & overalls;narrowmatch
+women clothing;dresses;narrowmatch
+women clothing;socks & hosiery;narrowmatch
+men clothing;sleep & lounge;narrowmatch
+women clothing;leggings;narrowmatch
+men clothing;active ;narrowmatch
+women clothing;shorts;narrowmatch
+women clothing;sweaters;narrowmatch
+men clothing;suits & sport coats;narrowmatch
+men clothing;socks;narrowmatch
+women clothing;fashion hoodies & sweatshirts;narrowmatch

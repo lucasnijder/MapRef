@@ -1,0 +1,555 @@
+head;relation;tail
+hypoallergenic mattresses;broadmatch;mattresses
+mattresses;broadmatch;mattresses & box springs
+folding stools;broadmatch;stools
+stools;broadmatch;other furniture
+standing shelf units;broadmatch;other furniture
+other furniture;broadmatch;furniture
+wall-mounted cabinets;broadmatch;cabinets
+cabinets;broadmatch;other furniture
+quilt stands;broadmatch;bedroom furniture
+bedroom furniture;broadmatch;furniture
+file cabinets;broadmatch;home office furniture
+home office furniture;broadmatch;furniture
+lounge & recreation chairs;broadmatch;other furniture
+directors chairs;broadmatch;lounge & recreation chairs
+freestanding cabinets;broadmatch;cabinets
+bookcase ladders;broadmatch;home office furniture
+bean bags;broadmatch;other furniture
+cradles;broadmatch;cribs & nursery beds
+cribs & nursery beds;broadmatch;nursery furniture
+countertop vanity mirrors;broadmatch;bathroom mirrors
+bathroom mirrors;broadmatch;bathroom furniture
+bars & wine cabinets;broadmatch;home bar furniture
+home bar furniture;broadmatch;furniture
+stacking chairs;broadmatch;lounge & recreation chairs
+trunks;broadmatch;other furniture
+bookcases;broadmatch;other furniture
+standing baker's racks;broadmatch;baker's racks
+baker's racks;broadmatch;kitchen furniture
+bed frames, headboards & footboards;broadmatch;kids' furniture
+kids' furniture;broadmatch;furniture
+adjustable chairs;broadmatch;home office desk chairs
+home office desk chairs;broadmatch;home office furniture
+desks;broadmatch;kids' furniture
+media storage;broadmatch;home entertainment furniture
+home entertainment furniture;broadmatch;furniture
+computer armoires & hutches;broadmatch;home office furniture
+armchairs;broadmatch;chairs
+chairs;broadmatch;living room furniture
+desk chairs;broadmatch;kids' furniture
+bookcases, cabinets & shelves;broadmatch;kids' furniture
+bassinets;broadmatch;cribs & nursery beds
+panel screens;broadmatch;other furniture
+plush mattresses;broadmatch;mattresses
+coffee tables;broadmatch;tables
+tables;broadmatch;living room furniture
+footstools;broadmatch;stools
+mobile file cabinets;broadmatch;file cabinets
+curio cabinets;broadmatch;living room furniture
+living room furniture;broadmatch;furniture
+portable tables;broadmatch;tables
+tables;broadmatch;other furniture
+storage ottomans;broadmatch;living room furniture
+folding tables;broadmatch;tables
+firm mattresses;broadmatch;mattresses
+home office furniture sets;broadmatch;home office furniture
+bathroom furniture;broadmatch;furniture
+nightstands;broadmatch;kids' furniture
+benches;broadmatch;kids' furniture
+sofas;broadmatch;kids' furniture
+beds & bed frames;broadmatch;bedroom furniture
+folding chairs;broadmatch;lounge & recreation chairs
+cradle mattresses;broadmatch;mattresses
+mattresses;broadmatch;nursery furniture
+hampers;broadmatch;nursery storage & organization
+nursery storage & organization;broadmatch;nursery furniture
+rocking chairs;broadmatch;chairs
+chairs;broadmatch;kids' furniture
+storage benches;broadmatch;other furniture
+living room sets;broadmatch;living room furniture
+futons;broadmatch;bedroom furniture
+crib mattresses;broadmatch;mattresses
+home office cabinets;broadmatch;home office furniture
+nightstands;broadmatch;bedroom furniture
+recliners;broadmatch;chairs
+lateral file cabinets;broadmatch;file cabinets
+ottomans;broadmatch;living room furniture
+specialty mattresses;broadmatch;mattresses
+vertical file cabinets;broadmatch;file cabinets
+step stools;broadmatch;stools
+medicine cabinets;broadmatch;bathroom furniture
+mattress & box spring sets;broadmatch;mattresses & box springs
+mattresses & box springs;broadmatch;bedroom furniture
+furniture warranties;broadmatch;furniture
+television stands & entertainment centers;broadmatch;home entertainment furniture
+extendable tables;broadmatch;dining room furniture
+dining room furniture;broadmatch;furniture
+hanging organizers;broadmatch;nursery storage & organization
+flat file cabinets;broadmatch;file cabinets
+nursery furniture;broadmatch;furniture
+toddler beds;broadmatch;nursery furniture
+gliders, ottomans & rocking chairs;broadmatch;nursery furniture
+step stools;broadmatch;kids' furniture
+chest file cabinets;broadmatch;file cabinets
+vanities;broadmatch;kids' furniture
+drafting tables;broadmatch;home office furniture
+travel beds;broadmatch;nursery furniture
+bathroom furniture sets;broadmatch;bathroom furniture
+game tables;broadmatch;home entertainment furniture
+dining chairs;broadmatch;dining room furniture
+toy chests;broadmatch;nursery storage & organization
+bathroom sets;broadmatch;other furniture
+pedestal tables;broadmatch;tables
+home office desks;broadmatch;home office furniture
+nesting tables;broadmatch;tables
+corner baker's racks;broadmatch;baker's racks
+box springs;broadmatch;mattresses & box springs
+swivel chairs;broadmatch;home office desk chairs
+dressers & chests of drawers;broadmatch;bedroom furniture
+breakfast trays;broadmatch;tables
+futon mattresses;broadmatch;futons
+futons;broadmatch;living room furniture
+armoires, chests & dressers;broadmatch;kids' furniture
+tables;broadmatch;kids' furniture
+step stools;broadmatch;nursery storage & organization
+changing tables;broadmatch;nursery furniture
+sofa & console tables;broadmatch;tables
+lighted vanity mirrors;broadmatch;bathroom mirrors
+storage baskets;broadmatch;nursery storage & organization
+card file cabinets;broadmatch;file cabinets
+kitchen furniture;broadmatch;furniture
+speaker stands;broadmatch;home entertainment furniture
+bookcases;broadmatch;home office furniture
+dining tables;broadmatch;dining room furniture
+futon frames;broadmatch;futons
+portable crib mattresses;broadmatch;mattresses
+memory foam mattresses;broadmatch;mattresses
+bedroom sets;broadmatch;bedroom furniture
+storage chests;broadmatch;other furniture
+vanities & vanity benches;broadmatch;bedroom furniture
+panel screens;broadmatch;bedroom furniture
+bean bags;broadmatch;chairs
+quilt stands;broadmatch;other furniture
+chaise lounges;broadmatch;living room furniture
+coat racks;broadmatch;other furniture
+bedroom armoires;broadmatch;bedroom furniture
+pillowtop mattresses;broadmatch;mattresses
+oversized chairs;broadmatch;chairs
+cribs;broadmatch;cribs & nursery beds
+entertainment armoires;broadmatch;home entertainment furniture
+headboards;broadmatch;bedroom furniture
+armoires;broadmatch;nursery furniture
+ottomans;broadmatch;kids' furniture
+chests & dressers;broadmatch;nursery furniture
+folding chairs;broadmatch;chairs
+inner spring mattresses;broadmatch;mattresses
+dining room sets;broadmatch;dining room furniture
+footboards;broadmatch;bedroom furniture
+sofas & couches;broadmatch;living room furniture
+stools;broadmatch;kids' furniture
+video game chairs;broadmatch;home entertainment furniture
+tables;broadmatch;kitchen furniture
+serving carts;broadmatch;kitchen furniture
+sets;broadmatch;kids' furniture
+moses baskets;broadmatch;cribs & nursery beds
+china cabinets;broadmatch;dining room furniture
+barstools;broadmatch;home bar furniture
+matresses & box springs;broadmatch;kids' furniture
+audio-video shelving;broadmatch;home entertainment furniture
+chairs;broadmatch;kitchen furniture
+furniture collections;broadmatch;nursery furniture
+bed rails;broadmatch;nursery furniture
+foam mattresses;broadmatch;mattresses
+gliders;broadmatch;other furniture
+storage carts;broadmatch;kitchen furniture
+end tables;broadmatch;tables
+buffets, credenzas & sideboards;broadmatch;dining room furniture
+drop-leaf tables;broadmatch;dining room furniture
+mattresses;narrowmatch;hypoallergenic mattresses
+mattresses & box springs;narrowmatch;mattresses
+stools;narrowmatch;folding stools
+other furniture;narrowmatch;stools
+other furniture;narrowmatch;standing shelf units
+furniture;narrowmatch;other furniture
+cabinets;narrowmatch;wall-mounted cabinets
+other furniture;narrowmatch;cabinets
+bedroom furniture;narrowmatch;quilt stands
+furniture;narrowmatch;bedroom furniture
+home office furniture;narrowmatch;file cabinets
+furniture;narrowmatch;home office furniture
+other furniture;narrowmatch;lounge & recreation chairs
+lounge & recreation chairs;narrowmatch;directors chairs
+cabinets;narrowmatch;freestanding cabinets
+home office furniture;narrowmatch;bookcase ladders
+other furniture;narrowmatch;bean bags
+cribs & nursery beds;narrowmatch;cradles
+nursery furniture;narrowmatch;cribs & nursery beds
+bathroom mirrors;narrowmatch;countertop vanity mirrors
+bathroom furniture;narrowmatch;bathroom mirrors
+home bar furniture;narrowmatch;bars & wine cabinets
+furniture;narrowmatch;home bar furniture
+lounge & recreation chairs;narrowmatch;stacking chairs
+other furniture;narrowmatch;trunks
+other furniture;narrowmatch;bookcases
+baker's racks;narrowmatch;standing baker's racks
+kitchen furniture;narrowmatch;baker's racks
+kids' furniture;narrowmatch;bed frames, headboards & footboards
+furniture;narrowmatch;kids' furniture
+home office desk chairs;narrowmatch;adjustable chairs
+home office furniture;narrowmatch;home office desk chairs
+kids' furniture;narrowmatch;desks
+home entertainment furniture;narrowmatch;media storage
+furniture;narrowmatch;home entertainment furniture
+home office furniture;narrowmatch;computer armoires & hutches
+living room furniture;narrowmatch;chairs
+kids' furniture;narrowmatch;desk chairs
+kids' furniture;narrowmatch;bookcases, cabinets & shelves
+cribs & nursery beds;narrowmatch;bassinets
+other furniture;narrowmatch;panel screens
+mattresses;narrowmatch;plush mattresses
+tables;narrowmatch;coffee tables
+living room furniture;narrowmatch;tables
+stools;narrowmatch;footstools
+file cabinets;narrowmatch;mobile file cabinets
+living room furniture;narrowmatch;curio cabinets
+furniture;narrowmatch;living room furniture
+tables;narrowmatch;portable tables
+other furniture;narrowmatch;tables
+living room furniture;narrowmatch;storage ottomans
+tables;narrowmatch;folding tables
+mattresses;narrowmatch;firm mattresses
+home office furniture;narrowmatch;home office furniture sets
+furniture;narrowmatch;bathroom furniture
+kids' furniture;narrowmatch;nightstands
+kids' furniture;narrowmatch;benches
+kids' furniture;narrowmatch;sofas
+bedroom furniture;narrowmatch;beds & bed frames
+lounge & recreation chairs;narrowmatch;folding chairs
+mattresses;narrowmatch;cradle mattresses
+nursery furniture;narrowmatch;mattresses
+nursery storage & organization;narrowmatch;hampers
+nursery furniture;narrowmatch;nursery storage & organization
+chairs;narrowmatch;rocking chairs
+kids' furniture;narrowmatch;chairs
+other furniture;narrowmatch;storage benches
+living room furniture;narrowmatch;living room sets
+bedroom furniture;narrowmatch;futons
+mattresses;narrowmatch;crib mattresses
+home office furniture;narrowmatch;home office cabinets
+bedroom furniture;narrowmatch;nightstands
+chairs;narrowmatch;recliners
+file cabinets;narrowmatch;lateral file cabinets
+living room furniture;narrowmatch;ottomans
+mattresses;narrowmatch;specialty mattresses
+file cabinets;narrowmatch;vertical file cabinets
+stools;narrowmatch;step stools
+bathroom furniture;narrowmatch;medicine cabinets
+mattresses & box springs;narrowmatch;mattress & box spring sets
+bedroom furniture;narrowmatch;mattresses & box springs
+furniture;narrowmatch;furniture warranties
+home entertainment furniture;narrowmatch;television stands & entertainment centers
+dining room furniture;narrowmatch;extendable tables
+furniture;narrowmatch;dining room furniture
+nursery storage & organization;narrowmatch;hanging organizers
+file cabinets;narrowmatch;flat file cabinets
+furniture;narrowmatch;nursery furniture
+nursery furniture;narrowmatch;toddler beds
+nursery furniture;narrowmatch;gliders, ottomans & rocking chairs
+kids' furniture;narrowmatch;step stools
+file cabinets;narrowmatch;chest file cabinets
+kids' furniture;narrowmatch;vanities
+home office furniture;narrowmatch;drafting tables
+nursery furniture;narrowmatch;travel beds
+bathroom furniture;narrowmatch;bathroom furniture sets
+home entertainment furniture;narrowmatch;game tables
+dining room furniture;narrowmatch;dining chairs
+nursery storage & organization;narrowmatch;toy chests
+other furniture;narrowmatch;bathroom sets
+tables;narrowmatch;pedestal tables
+home office furniture;narrowmatch;home office desks
+tables;narrowmatch;nesting tables
+baker's racks;narrowmatch;corner baker's racks
+mattresses & box springs;narrowmatch;box springs
+home office desk chairs;narrowmatch;swivel chairs
+bedroom furniture;narrowmatch;dressers & chests of drawers
+tables;narrowmatch;breakfast trays
+living room furniture;narrowmatch;futons
+kids' furniture;narrowmatch;armoires, chests & dressers
+kids' furniture;narrowmatch;tables
+nursery storage & organization;narrowmatch;step stools
+nursery furniture;narrowmatch;changing tables
+tables;narrowmatch;sofa & console tables
+bathroom mirrors;narrowmatch;lighted vanity mirrors
+nursery storage & organization;narrowmatch;storage baskets
+file cabinets;narrowmatch;card file cabinets
+furniture;narrowmatch;kitchen furniture
+home entertainment furniture;narrowmatch;speaker stands
+home office furniture;narrowmatch;bookcases
+dining room furniture;narrowmatch;dining tables
+futons;narrowmatch;futon frames
+mattresses;narrowmatch;portable crib mattresses
+mattresses;narrowmatch;memory foam mattresses
+bedroom furniture;narrowmatch;bedroom sets
+other furniture;narrowmatch;storage chests
+bedroom furniture;narrowmatch;vanities & vanity benches
+bedroom furniture;narrowmatch;panel screens
+chairs;narrowmatch;bean bags
+other furniture;narrowmatch;quilt stands
+living room furniture;narrowmatch;chaise lounges
+other furniture;narrowmatch;coat racks
+bedroom furniture;narrowmatch;bedroom armoires
+mattresses;narrowmatch;pillowtop mattresses
+chairs;narrowmatch;oversized chairs
+cribs & nursery beds;narrowmatch;cribs
+home entertainment furniture;narrowmatch;entertainment armoires
+bedroom furniture;narrowmatch;headboards
+nursery furniture;narrowmatch;armoires
+kids' furniture;narrowmatch;ottomans
+nursery furniture;narrowmatch;chests & dressers
+chairs;narrowmatch;folding chairs
+mattresses;narrowmatch;inner spring mattresses
+dining room furniture;narrowmatch;dining room sets
+bedroom furniture;narrowmatch;footboards
+living room furniture;narrowmatch;sofas & couches
+kids' furniture;narrowmatch;stools
+home entertainment furniture;narrowmatch;video game chairs
+kitchen furniture;narrowmatch;tables
+kitchen furniture;narrowmatch;serving carts
+chairs;narrowmatch;armchairs
+kids' furniture;narrowmatch;sets
+cribs & nursery beds;narrowmatch;moses baskets
+dining room furniture;narrowmatch;china cabinets
+home bar furniture;narrowmatch;barstools
+kids' furniture;narrowmatch;matresses & box springs
+home entertainment furniture;narrowmatch;audio-video shelving
+kitchen furniture;narrowmatch;chairs
+nursery furniture;narrowmatch;furniture collections
+futons;narrowmatch;futon mattresses
+nursery furniture;narrowmatch;bed rails
+mattresses;narrowmatch;foam mattresses
+other furniture;narrowmatch;gliders
+kitchen furniture;narrowmatch;storage carts
+tables;narrowmatch;end tables
+dining room furniture;narrowmatch;buffets, credenzas & sideboards
+dining room furniture;narrowmatch;drop-leaf tables
+screens & room dividers;broadmatch;furniture
+furniture;broadmatch;owl#thing
+beds & mattresses;broadmatch;furniture
+trunks & chests;broadmatch;furniture
+sideboards & buffets;broadmatch;furniture
+sofas, loveseats & chaises;broadmatch;furniture
+chairs;broadmatch;furniture
+vanities & makeup tables;broadmatch;furniture
+futons, frames & covers;broadmatch;furniture
+desks & home office furniture;broadmatch;furniture
+benches & stools;broadmatch;furniture
+entertainment units, tv stands;broadmatch;furniture
+nightstands;broadmatch;furniture
+armoires & wardrobes;broadmatch;furniture
+ottomans, footstools & poufs;broadmatch;furniture
+cabinets & cupboards;broadmatch;furniture
+bean bags & inflatables;broadmatch;furniture
+slipcovers;broadmatch;furniture
+dressers & chests of drawers;broadmatch;furniture
+bookcases;broadmatch;furniture
+bedroom sets;broadmatch;furniture
+tables;broadmatch;furniture
+cd & video racks;broadmatch;furniture
+dining sets;broadmatch;furniture
+bar stools;broadmatch;furniture
+furniture;narrowmatch;screens & room dividers
+owl#thing;narrowmatch;furniture
+furniture;narrowmatch;beds & mattresses
+furniture;narrowmatch;trunks & chests
+furniture;narrowmatch;sideboards & buffets
+furniture;narrowmatch;sofas, loveseats & chaises
+furniture;narrowmatch;chairs
+furniture;narrowmatch;vanities & makeup tables
+furniture;narrowmatch;futons, frames & covers
+furniture;narrowmatch;desks & home office furniture
+furniture;narrowmatch;benches & stools
+furniture;narrowmatch;entertainment units, tv stands
+furniture;narrowmatch;nightstands
+furniture;narrowmatch;armoires & wardrobes
+furniture;narrowmatch;ottomans, footstools & poufs
+furniture;narrowmatch;cabinets & cupboards
+furniture;narrowmatch;bean bags & inflatables
+furniture;narrowmatch;slipcovers
+furniture;narrowmatch;dressers & chests of drawers
+furniture;narrowmatch;bookcases
+furniture;narrowmatch;bedroom sets
+furniture;narrowmatch;tables
+furniture;narrowmatch;cd & video racks
+furniture;narrowmatch;dining sets
+furniture;narrowmatch;bar stools
+barstools;exactmatch;barstools
+adjustable chairs;exactmatch;adjustable chairs
+vanities & vanity benches;exactmatch;vanities & vanity benches
+kids' furniture;exactmatch;kids' furniture
+foam mattresses;exactmatch;foam mattresses
+cabinets & cupboards;exactmatch;cabinets & cupboards
+cd & video racks;exactmatch;cd & video racks
+storage ottomans;exactmatch;storage ottomans
+futon mattresses;exactmatch;futon mattresses
+folding chairs;exactmatch;folding chairs
+bookcase ladders;exactmatch;bookcase ladders
+desks & home office furniture;exactmatch;desks & home office furniture
+serving carts;exactmatch;serving carts
+footstools;exactmatch;footstools
+crib mattresses;exactmatch;crib mattresses
+nursery furniture;exactmatch;nursery furniture
+trunks;exactmatch;trunks
+lighted vanity mirrors;exactmatch;lighted vanity mirrors
+step stools;exactmatch;step stools
+sofa & console tables;exactmatch;sofa & console tables
+countertop vanity mirrors;exactmatch;countertop vanity mirrors
+bean bags;exactmatch;bean bags
+home office desk chairs;exactmatch;home office desk chairs
+cribs & nursery beds;exactmatch;cribs & nursery beds
+lounge & recreation chairs;exactmatch;lounge & recreation chairs
+bedroom furniture;exactmatch;bedroom furniture
+dining room furniture;exactmatch;dining room furniture
+home office desks;exactmatch;home office desks
+medicine cabinets;exactmatch;medicine cabinets
+bathroom furniture;exactmatch;bathroom furniture
+plush mattresses;exactmatch;plush mattresses
+nightstands;exactmatch;nightstands
+screens & room dividers;exactmatch;screens & room dividers
+card file cabinets;exactmatch;card file cabinets
+home office cabinets;exactmatch;home office cabinets
+china cabinets;exactmatch;china cabinets
+folding stools;exactmatch;folding stools
+game tables;exactmatch;game tables
+sets;exactmatch;sets
+vanities & makeup tables;exactmatch;vanities & makeup tables
+drafting tables;exactmatch;drafting tables
+dining tables;exactmatch;dining tables
+standing baker's racks;exactmatch;standing baker's racks
+storage carts;exactmatch;storage carts
+moses baskets;exactmatch;moses baskets
+pedestal tables;exactmatch;pedestal tables
+living room sets;exactmatch;living room sets
+armchairs;exactmatch;armchairs
+entertainment armoires;exactmatch;entertainment armoires
+home bar furniture;exactmatch;home bar furniture
+box springs;exactmatch;box springs
+armoires & wardrobes;exactmatch;armoires & wardrobes
+bathroom sets;exactmatch;bathroom sets
+home office furniture;exactmatch;home office furniture
+futons;exactmatch;futons
+sofas & couches;exactmatch;sofas & couches
+wall-mounted cabinets;exactmatch;wall-mounted cabinets
+baker's racks;exactmatch;baker's racks
+mattresses & box springs;exactmatch;mattresses & box springs
+end tables;exactmatch;end tables
+desk chairs;exactmatch;desk chairs
+panel screens;exactmatch;panel screens
+standing shelf units;exactmatch;standing shelf units
+bed rails;exactmatch;bed rails
+desks;exactmatch;desks
+futon frames;exactmatch;futon frames
+headboards;exactmatch;headboards
+toy chests;exactmatch;toy chests
+file cabinets;exactmatch;file cabinets
+corner baker's racks;exactmatch;corner baker's racks
+portable crib mattresses;exactmatch;portable crib mattresses
+hypoallergenic mattresses;exactmatch;hypoallergenic mattresses
+cribs;exactmatch;cribs
+bedroom sets;exactmatch;bedroom sets
+storage benches;exactmatch;storage benches
+tables;exactmatch;tables
+chaise lounges;exactmatch;chaise lounges
+bed frames, headboards & footboards;exactmatch;bed frames, headboards & footboards
+bassinets;exactmatch;bassinets
+storage chests;exactmatch;storage chests
+bookcases;exactmatch;bookcases
+stacking chairs;exactmatch;stacking chairs
+pillowtop mattresses;exactmatch;pillowtop mattresses
+extendable tables;exactmatch;extendable tables
+furniture warranties;exactmatch;furniture warranties
+flat file cabinets;exactmatch;flat file cabinets
+bookcases, cabinets & shelves;exactmatch;bookcases, cabinets & shelves
+dining chairs;exactmatch;dining chairs
+toddler beds;exactmatch;toddler beds
+kitchen furniture;exactmatch;kitchen furniture
+slipcovers;exactmatch;slipcovers
+furniture collections;exactmatch;furniture collections
+curio cabinets;exactmatch;curio cabinets
+armoires;exactmatch;armoires
+cradle mattresses;exactmatch;cradle mattresses
+specialty mattresses;exactmatch;specialty mattresses
+media storage;exactmatch;media storage
+benches & stools;exactmatch;benches & stools
+oversized chairs;exactmatch;oversized chairs
+footboards;exactmatch;footboards
+hampers;exactmatch;hampers
+bar stools;exactmatch;bar stools
+breakfast trays;exactmatch;breakfast trays
+matresses & box springs;exactmatch;matresses & box springs
+firm mattresses;exactmatch;firm mattresses
+other furniture;exactmatch;other furniture
+bedroom armoires;exactmatch;bedroom armoires
+stools;exactmatch;stools
+futons, frames & covers;exactmatch;futons, frames & covers
+rocking chairs;exactmatch;rocking chairs
+computer armoires & hutches;exactmatch;computer armoires & hutches
+television stands & entertainment centers;exactmatch;television stands & entertainment centers
+mattress & box spring sets;exactmatch;mattress & box spring sets
+home entertainment furniture;exactmatch;home entertainment furniture
+mobile file cabinets;exactmatch;mobile file cabinets
+cabinets;exactmatch;cabinets
+coffee tables;exactmatch;coffee tables
+recliners;exactmatch;recliners
+sideboards & buffets;exactmatch;sideboards & buffets
+storage baskets;exactmatch;storage baskets
+travel beds;exactmatch;travel beds
+hanging organizers;exactmatch;hanging organizers
+beds & mattresses;exactmatch;beds & mattresses
+trunks & chests;exactmatch;trunks & chests
+vanities;exactmatch;vanities
+quilt stands;exactmatch;quilt stands
+ottomans, footstools & poufs;exactmatch;ottomans, footstools & poufs
+speaker stands;exactmatch;speaker stands
+directors chairs;exactmatch;directors chairs
+beds & bed frames;exactmatch;beds & bed frames
+gliders;exactmatch;gliders
+dining room sets;exactmatch;dining room sets
+cradles;exactmatch;cradles
+ottomans;exactmatch;ottomans
+buffets, credenzas & sideboards;exactmatch;buffets, credenzas & sideboards
+video game chairs;exactmatch;video game chairs
+audio-video shelving;exactmatch;audio-video shelving
+sofas, loveseats & chaises;exactmatch;sofas, loveseats & chaises
+nursery storage & organization;exactmatch;nursery storage & organization
+home office furniture sets;exactmatch;home office furniture sets
+changing tables;exactmatch;changing tables
+portable tables;exactmatch;portable tables
+dining sets;exactmatch;dining sets
+sofas;exactmatch;sofas
+living room furniture;exactmatch;living room furniture
+chest file cabinets;exactmatch;chest file cabinets
+bars & wine cabinets;exactmatch;bars & wine cabinets
+benches;exactmatch;benches
+bean bags & inflatables;exactmatch;bean bags & inflatables
+chests & dressers;exactmatch;chests & dressers
+chairs;exactmatch;chairs
+entertainment units, tv stands;exactmatch;entertainment units, tv stands
+mattresses;exactmatch;mattresses
+folding tables;exactmatch;folding tables
+drop-leaf tables;exactmatch;drop-leaf tables
+inner spring mattresses;exactmatch;inner spring mattresses
+furniture;exactmatch;furniture
+dressers & chests of drawers;exactmatch;dressers & chests of drawers
+nesting tables;exactmatch;nesting tables
+memory foam mattresses;exactmatch;memory foam mattresses
+gliders, ottomans & rocking chairs;exactmatch;gliders, ottomans & rocking chairs
+vertical file cabinets;exactmatch;vertical file cabinets
+coat racks;exactmatch;coat racks
+owl#thing;exactmatch;owl#thing
+bathroom mirrors;exactmatch;bathroom mirrors
+lateral file cabinets;exactmatch;lateral file cabinets
+armoires, chests & dressers;exactmatch;armoires, chests & dressers
+freestanding cabinets;exactmatch;freestanding cabinets
+bathroom furniture sets;exactmatch;bathroom furniture sets
+swivel chairs;exactmatch;swivel chairs

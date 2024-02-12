@@ -1,0 +1,350 @@
+anaphylactic shock  ::  allergic reactions :: 6
+canker sores  ::  oral :: 6
+depressive disorders  ::  depression :: 1
+thrombocytopenia absent radius tar syndrome  ::  thrombocytopenia absent radius syndrome :: 6
+essential tremor  ::  essential tremor :: 0
+bronchitis  ::  bronchitis :: 0
+creutzfeldt jakob disease cjd  ::  creutzfeldt jakob disease :: 6
+achromatopsia  ::  achromatopsia :: 0
+tetanus  ::  tetanus :: 0
+cancers  ::  cancer :: 0
+epilepsy  ::  epilepsy :: 0
+cirrhosis of liver  ::  cirrhosis :: 1
+photosensitive epilepsy  ::  photosensitive :: 3
+adrenoleukodystrophy  ::  adrenoleukodystrophy :: 0
+thrombosis  ::  thrombosis :: 0
+aphasia  ::  aphasia :: 0
+oppositional defiant disorder  ::  oppositional defiant disorder :: 0
+interstitial cystitis  ::  interstitial cystitis :: 0
+river blindness  ::  onchocerciasis :: 6
+schools  ::  schools :: 0
+botulism  ::  botulism :: 0
+sleep paralysis  ::  sleep paralysis :: 0
+thalassemia  ::  thalassemia :: 0
+ectodermal dysplasia  ::  ectodermal dysplasia :: 0
+dengue fever  ::  dengue fever :: 0
+anxiety disorders  ::  anxiety :: 1
+neurofibromatosis  ::  neurofibromatosis :: 0
+cervical cancer  ::  cervical :: 3
+cataract  ::  cataract :: 0
+gastroesophageal reflux disease gerd  ::  reflux disease :: 6
+hantavirus  ::  hantavirus :: 0
+endometriosis  ::  endometriosis :: 0
+sudden infant death syndrome sids  ::  sids :: 1
+parry romberg syndrome  ::  parry rombergs syndrome :: 6
+chronic hives urticaria  ::  hives :: 1
+bone cancer  ::  bone :: 1
+marburg hemorrhagic fever  ::  marburg :: 3
+night terrors  ::  night terrors :: 0
+food allergies  ::  food :: 1
+scurvy  ::  scurvy :: 0
+melanoma  ::  melanoma :: 0
+asbestosis  ::  asbestosis :: 0
+dry eyes  ::  dry eye :: 0
+ortho bionomy  ::  ortho bionomy :: 0
+urine therapy  ::  urine therapy :: 0
+eating disorders  ::  eating :: 1
+klinefelter syndrome  ::  klinefelter syndrome :: 0
+leukemia  ::  leukemia :: 0
+latex allergies  ::  latex :: 3
+hydrocephalus  ::  hydrocephalus :: 0
+porphyria  ::  porphyrias :: 0
+uterine fibroids  ::  fibroids :: 1
+celiac disease  ::  celiac disease :: 0
+rosen method  ::  rosen method :: 0
+heart failure  ::  congestive failure :: 6
+heart murmur  ::  murmurs :: 1
+migraine  ::  migraine :: 0
+homeopathy  ::  homeopathy :: 0
+borderline personality disorder bpd  ::  borderline :: 1
+gynecomastia  ::  gynecomastia :: 0
+stroke  ::  stroke :: 0
+severe acute respiratory syndrome sars  ::  sars :: 1
+myasthenia gravis  ::  myasthenia gravis :: 0
+digestion and nutrition disorders  ::  digestive disorders :: 6
+stomach gastric cancer  ::  stomach :: 1
+giardiasis  ::  giardiasis :: 0
+schizophrenia  ::  schizophrenia :: 0
+insulin resistance  ::  insulin resistance :: 0
+aneurysm  ::  aneurysm :: 0
+aicardi syndrome  ::  aicardi syndrome :: 0
+temporo mandibular joint syndrome tmj  ::  temporomandibular joint syndrome :: 6
+rickets  ::  rickets :: 0
+proteus syndrome  ::  proteus syndrome :: 0
+pellagra  ::  pellagra :: 0
+high cholesterol  ::  cholesterol :: 1
+oral cancer  ::  head and neck :: 1
+insomnia  ::  insomnia :: 0
+carpal tunnel syndrome  ::  carpal tunnel :: 3
+metabolic diseases  ::  metabolic :: 1
+trepanation  ::  trepanation :: 0
+prosopagnosia  ::  agnosia :: 1
+eczema  ::  eczema :: 0
+whooping cough  ::  whooping cough :: 0
+breast cancer  ::  breast :: 3
+esophageal varices  ::  varices :: 1
+treacher collins syndrome  ::  treacher collins syndrome :: 0
+foodborne illnesses  ::  food and water borne :: 1
+beriberi  ::  beriberi :: 0
+gall bladder disease  ::  gallstones :: 6
+strep throat  ::  strep throat :: 0
+tuberculosis  ::  tuberculosis :: 0
+antisocial personality disorder  ::  antisocial :: 3
+barth syndrome  ::  barth syndrome :: 0
+scleroderma  ::  scleroderma :: 0
+malaria  ::  malaria :: 0
+plantar fasciitis  ::  plantar fasciitis and heel spurs :: 1
+apert syndrome  ::  apert syndrome :: 0
+hepatitis  ::  hepatitis :: 0
+ebola  ::  ebola :: 0
+glioma  ::  brain stem gliomas :: 2
+trichotillomania  ::  trichotillomania :: 0
+batten disease  ::  batten disease :: 0
+galactosemia  ::  galactosemia :: 0
+prostatitis  ::  prostatitis :: 0
+cerebral palsy  ::  cerebral palsy :: 0
+ataxia telangiectasia  ::  ataxia :: 3
+thyroid diseases  ::  thyroid :: 1
+myeloma  ::  multiple myeloma :: 2
+respiratory distress syndrome  ::  ards :: 6
+lymphogranuloma venereum lgv  ::  lymphogranuloma venereum :: 3
+breathwork  ::  breathwork :: 0
+conjunctivitis pink eye  ::  conjunctivitis :: 3
+staph infection  ::  staphylococcal :: 6
+irritable bowel syndrome ibs  ::  irritable bowel syndrome :: 6
+lupus  ::  lupus :: 0
+goiter  ::  goiter :: 0
+smoking addiction  ::  tobacco :: 1
+allergies  ::  allergies :: 0
+polycystic kidney disease pkd  ::  polycystic kidney :: 6
+aromatherapy  ::  aromatherapy :: 0
+burns  ::  burns :: 0
+nystagmus  ::  nystagmus :: 0
+typhoid fever  ::  typhoid fever :: 0
+guillain barre syndrome  ::  guillain barre syndrome :: 0
+anemia  ::  anemia :: 0
+syphilis  ::  syphilis :: 0
+altitude illness  ::  altitude sickness :: 6
+personality disorders  ::  personality :: 1
+hyperthyroidism  ::  hyperthyroidism :: 0
+conduct disorder  ::  conduct disorder :: 0
+dystonia  ::  dystonia :: 0
+phobias  ::  phobias :: 0
+leptospirosis  ::  leptospirosis :: 0
+head lice  ::  head lice :: 0
+craniosynostosis  ::  craniosynostosis :: 0
+blood disorders  ::  blood disorders :: 0
+internet addiction  ::  internet :: 1
+amenorrhea  ::  amenorrhea :: 0
+scoliosis  ::  scoliosis :: 0
+organizations  ::  associations :: 2
+microphthalmia and anophthalmia  ::  microphthalmia :: 2
+sarcoidosis  ::  sarcoidosis :: 0
+flower essences  ::  essences :: 1
+bladder cancer  ::  bladder :: 3
+salmonellosis  ::  salmonellosis :: 0
+tuberous sclerosis  ::  tuberous sclerosis :: 0
+methicillin resistant staphylococcus aureus mrsa  ::  mrsa :: 6
+lactose intolerance  ::  lactose intolerance :: 0
+narcissistic personality disorder  ::  narcissistic :: 3
+strep throat  ::  streptococcal :: 6
+macular degeneration  ::  macular degeneration :: 0
+sleep disorders  ::  sleep disorders :: 0
+rubinstein taybi syndrome  ::  rubinstein taybi syndrome :: 0
+osteoarthritis  ::  osteoarthritis :: 0
+yeast infections  ::  yeast :: 3
+atrial fibrillation  ::  atrial fibrillation :: 0
+apitherapy  ::  apitherapy :: 0
+pectus excavatum  ::  pectus excavatum :: 0
+shyness  ::  social anxiety :: 6
+tinnitus  ::  tinnitus :: 0
+sensory integration dysfunction  ::  sensory integration :: 3
+blepharospasm  ::  blepharospasm :: 0
+heartburn  ::  heartburn :: 0
+stomach and duodenal peptic ulcers  ::  peptic ulcer :: 2
+pemphigus vulgaris  ::  pemphigus :: 3
+long qt syndrome  ::  long qt syndrome :: 0
+institutes  ::  disease control and prevention :: 6
+colon cancer  ::  colorectal :: 6
+intermittent explosive disorder  ::  intermittent explosive disorder :: 0
+web directories  ::  directories :: 1
+sinus infection  ::  sinusitis :: 6
+post traumatic stress disorder ptsd  ::  post traumatic stress :: 6
+down syndrome  ::  down syndrome :: 0
+peripheral vascular disease pvd  ::  peripheral vascular disease :: 6
+appendicitis  ::  appendicitis :: 0
+prostate diseases  ::  prostate :: 1
+obsessive compulsive disorder ocd  ::  obsessive compulsive :: 6
+meningitis  ::  meningitis :: 0
+cluster headaches  ::  cluster :: 3
+neuroblastoma  ::  neuroblastoma :: 0
+dental phobia  ::  dentophobia :: 6
+colonic cleansing  ::  fasting and cleansing :: 1
+amyloidosis  ::  amyloidosis :: 0
+hypochondria  ::  hypochondria :: 0
+gout  ::  gout :: 0
+cystic fibrosis  ::  cystic fibrosis :: 0
+gestational diabetes  ::  gestational diabetes :: 0
+rubella  ::  rubella :: 0
+hyperhidrosis  ::  hyperhidrosis :: 0
+neutropenia  ::  neutropenia :: 0
+multiple sclerosis ms  ::  multiple sclerosis :: 6
+lewy body disease  ::  lewy body :: 3
+gulf war syndrome  ::  gulf war syndrome :: 0
+gemstone therapy  ::  crystals :: 6
+cholesteatoma  ::  cholesteatoma :: 0
+avoidant personality disorder  ::  avoidant :: 3
+polycystic ovarian syndrome pcos  ::  polycystic ovarian syndrome :: 3
+vitiligo  ::  vitiligo :: 0
+panic disorder  ::  panic :: 1
+diverticulitis  ::  diverticulitis :: 0
+endocarditis  ::  endocarditis :: 0
+lymphedema  ::  lymphedema :: 0
+hidradenitis suppurativa  ::  hidradenitis suppurativa :: 0
+epidermolysis bullosa  ::  epidermolysis bullosa :: 0
+hemochromatosis  ::  hemochromatosis :: 0
+myeloproliferative disorders  ::  chronic myeloproliferative disorders :: 2
+amebiasis  ::  amebiasis :: 0
+applied kinesiology  ::  kinesiology :: 1
+pancreatic cancer  ::  pancreatic :: 3
+craniofacial anomalies  ::  cleft lip and palate :: 6
+vulvodynia  ::  vulvodynia :: 0
+menorrhagia  ::  menorrhagia :: 0
+myeloproliferative disorders  ::  myelodysplastic syndromes :: 6
+mental health disorders  ::  psychiatry :: 6
+congenital heart disease  ::  congenital :: 3
+eye conditions  ::  ophthalmology :: 6
+attention deficit disorder add  ::  add and adhd :: 6
+mononucleosis  ::  infectous mononucleosis :: 2
+neurological disorders  ::  neurological disorders :: 0
+rett syndrome  ::  rett syndrome :: 0
+polarity therapy  ::  polarity therapy :: 0
+essential tremor  ::  movement disorders :: 6
+dyspraxia  ::  dyspraxia apraxia :: 4
+chicken pox  ::  chickenpox :: 0
+muscular dystrophy md  ::  muscular dystrophies :: 6
+sciatica  ::  sciatica :: 0
+dysphagia  ::  dysphagia :: 0
+syringomyelia  ::  syringomyelia :: 0
+spinal muscular atrophy sma  ::  spinal muscular atrophy :: 6
+spina bifida  ::  spina bifida :: 0
+gambling addiction  ::  pathological gambling :: 6
+coronary artery disease  ::  coronary artery disease :: 0
+thyroiditis  ::  thyroiditis :: 0
+fanconi anemia  ::  fanconi :: 3
+atresia  ::  biliary atresia :: 2
+thyroid cancer  ::  thyroid :: 3
+rosacea  ::  rosacea :: 0
+mitochondrial disease  ::  mitochondrial :: 3
+bacterial vaginosis  ::  infections :: 6
+chondromalacia patellae  ::  chondromalacia :: 3
+arthritis  ::  arthritis :: 0
+impulse control disorders  ::  impulse control :: 3
+cri du chat syndrome  ::  cri du chat syndrome :: 0
+hyperlexia  ::  hyperlexia :: 0
+schistosomiasis  ::  schistosomiasis :: 0
+postpartum depression  ::  postpartum depression :: 0
+rheumatic fever  ::  rheumatic fever :: 0
+diphtheria  ::  diphtheria :: 0
+morning sickness  ::  morning sickness :: 0
+mesothelioma  ::  mesothelioma :: 0
+tularemia  ::  tularemia :: 0
+diarrhea  ::  diarrhea :: 0
+prostate cancer  ::  prostate :: 3
+escherichia coli infection e coli infection  ::  e coli :: 6
+dehydration  ::  water balance :: 6
+gynecologic cancers  ::  gynecologic :: 3
+niemann pick disease  ::  niemann pick :: 3
+keratoconus  ::  keratoconus :: 0
+hemophilia  ::  hemophilia :: 0
+lymphoma  ::  lymphoma :: 0
+krabbe disease  ::  krabbe disease :: 0
+nephrogenic diabetes insipidus  ::  diabetes insipidus :: 6
+anal cancer  ::  anal :: 3
+encephalitis  ::  encephalitis :: 0
+postural orthostatic tachycardia syndrome  ::  postural orthostatic tachycardia syndrome :: 0
+spinal cord injury  ::  spinal cord injury :: 0
+cholera  ::  cholera :: 0
+rocky mountain spotted fever  ::  rocky mountain spotted fever :: 0
+psoriasis  ::  psoriasis :: 0
+organizations  ::  organizations :: 0
+selective mutism  ::  selective mutism :: 0
+mumps  ::  mumps :: 0
+hypertension  ::  hypertension :: 0
+heart diseases  ::  heart disease :: 6
+bodywork  ::  bodywork :: 0
+achilles tendinitis  ::  tendonitis :: 1
+pyromania  ::  pyromania :: 0
+shingles  ::  herpes zoster :: 2
+lyme disease  ::  lyme disease :: 0
+seasonal affective disorder  ::  seasonal affective :: 3
+multiple chemical sensitivity mcs  ::  multiple chemical sensitivity :: 6
+helicobacter pylori  ::  helicobacter pylori :: 0
+hellerwork  ::  hellerwork :: 0
+tourette syndrome  ::  tourette syndrome :: 0
+chronic fatigue syndrome  ::  chronic fatigue syndrome :: 0
+respiratory diseases  ::  respiratory disorders :: 6
+fibromyalgia  ::  fibromyalgia :: 0
+leukodystrophies  ::  leukodystrophy :: 0
+osteogenesis imperfecta  ::  osteogenesis imperfecta :: 0
+color therapy  ::  color therapies :: 0
+scabies  ::  scabies :: 0
+charcot marie tooth disease cmt  ::  charcot marie tooth disease :: 3
+bulimia nervosa  ::  bulimia :: 1
+cervical dysplasia  ::  cervical dysplasia :: 0
+lung cancer  ::  lung :: 3
+antiphospholipid syndrome aps  ::  antiphospholipid syndrome :: 6
+anorexia nervosa  ::  anorexia :: 1
+hypothermia  ::  hypothermia :: 0
+ovarian cysts  ::  ovarian cysts :: 0
+west nile virus infection  ::  west nile virus :: 3
+norovirus infections  ::  noroviruses :: 3
+glomerulonephritis  ::  glomerulonephritis :: 0
+leishmaniasis  ::  leishmaniasis :: 0
+albinism  ::  albinism :: 0
+fetal alcohol syndrome fas  ::  fetal alcohol syndrome :: 6
+sports injuries  ::  wounds and injuries :: 1
+restless legs syndrome  ::  restless legs syndrome :: 0
+body dysmorphic disorder  ::  body dysmorphic :: 3
+ectopic pregnancy  ::  ectopic pregnancy :: 0
+sexually transmitted diseases stds  ::  sexually transmitted diseases :: 6
+feldenkrais method  ::  feldenkrais :: 3
+bruxism  ::  bruxism :: 0
+mitral valve prolapse  ::  mitral valve prolapse syndrome :: 4
+narcolepsy  ::  narcolepsy :: 0
+spasmodic torticollis  ::  torticollis :: 1
+anosmia  ::  anosmia :: 0
+toxoplasmosis  ::  toxoplasmosis :: 0
+campylobacteriosis  ::  campylobacteriosis :: 0
+pregnancy complications  ::  complications :: 1
+skin cancer  ::  skin :: 1
+bipolar disorder manic depression  ::  bipolar disorder :: 3
+birthmarks  ::  birthmarks :: 0
+canavan disease  ::  canavan :: 3
+fragile x syndrome  ::  fragile x syndrome :: 0
+sanfilippo syndrome  ::  sanfilippo syndrome :: 0
+addiction and recovery  ::  addictions :: 2
+naturopathy  ::  naturopathy :: 0
+chronic myelogenous leukemia  ::  chronic myelogenous :: 3
+fifth disease  ::  fifth disease :: 0
+allergic rhinitis hay fever  ::  rhinitis :: 6
+osteoporosis  ::  osteoporosis :: 0
+hair loss  ::  hair loss :: 0
+hypoglycemia  ::  hypoglycemia :: 0
+chronic obstructive pulmonary disease copd  ::  chronic obstructive pulmonary disease :: 6
+reflex sympathetic dystrophy  ::  reflex sympathetic dystrophy :: 0
+institutes  ::  education :: 1
+insect bites and stings  ::  bites and stings :: 1
+hypospadias  ::  hypospadias :: 0
+gonorrhea  ::  gonorrhea :: 0
+strabismus  ::  squint :: 1
+bodywork  ::  massage therapy and bodywork :: 1
+shy drager syndrome sds  ::  shy drager syndrome :: 6
+reactive attachment disorder  ::  attachment disorder :: 1
+premenstrual syndrome pms  ::  premenstrual syndrome :: 6
+preeclampsia  ::  preeclampsia :: 0
+maple syrup urine disease msud  ::  maple syrup urine disease :: 6
+colic  ::  infant colic :: 2
+ovarian cancer  ::  ovarian :: 3
+scarlet fever  ::  scarlet fever :: 0
+therapeutic touch  ::  therapeutic touch :: 0

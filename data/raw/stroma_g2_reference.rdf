@@ -1,0 +1,2842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anaphylactic_Shock"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Public_Health_and_Safety/First_Aid/Allergic_Reactions"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Canker_Sores"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Oral"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Depressive_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Mood/Depression"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thrombocytopenia_Absent_Radius_TAR_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Thrombocytopenia_Absent_Radius_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Essential_Tremor"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Movement_Disorders/Essential_Tremor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bronchitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/Bronchitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Creutzfeldt_Jakob_Disease_CJD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Infections/Creutzfeldt_Jakob_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Achromatopsia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Color_Blindness/Achromatopsia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Aromatherapy/Organizations"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Aromatherapy/Organizations"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tetanus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Clostridial/Tetanus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cancers"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Epilepsy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Epilepsy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cirrhosis_of_Liver"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Liver/Cirrhosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Photosensitive_Epilepsy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Epilepsy/Photosensitive"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Adrenoleukodystrophy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Leukodystrophy/Adrenoleukodystrophy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thrombosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Vascular_Disorders/Thrombosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Aphasia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Communication_Disorders/Language_and_Speech/Aphasia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Oppositional_Defiant_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/Disruptive_Behavior_Disorders/Oppositional_Defiant_Disorder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Interstitial_Cystitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genitourinary_Disorders/Bladder/Interstitial_Cystitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/River_Blindness"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Onchocerciasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Naturopathy/Schools"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Naturopathy/Schools"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Botulism"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Neuromuscular_Junction_Diseases/Botulism"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sleep_Paralysis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders/Sleep_Paralysis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thalassemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Anemia/Thalassemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ectodermal_Dysplasia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Ectodermal_Dysplasia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dengue_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Hemorrhagic_Fevers/Dengue_Fever"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anxiety_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Neurofibromatosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Neurofibromatosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cervical_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gynecologic/Cervical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cataract"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Cataract"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gastroesophageal_Reflux_Disease_GERD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Esophagus/Reflux_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hantavirus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Hemorrhagic_Fevers/Hantavirus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Endometriosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Uterus/Endometriosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sudden_Infant_Death_Syndrome_SIDS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Child_Health/Conditions_and_Diseases/SIDS"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Parry_Romberg_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Facial_Differences/Parry_Rombergs_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chronic_Hives_Urticaria"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Hives"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bone_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Musculoskeletal/Bone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Marburg_Hemorrhagic_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Hemorrhagic_Fevers/Marburg"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Night_Terrors"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders/Night_Terrors"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Food_Allergies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Allergies/Food"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Scurvy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Vitamins_and_Minerals/Scurvy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Melanoma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Melanoma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Asbestosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/Asbestosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dry_Eyes"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Dry_Eye"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork/Somatic_Education/Ortho_Bionomy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Ortho_Bionomy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Urine_Therapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Urine_Therapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Eating_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Eating"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Klinefelter_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Klinefelter_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Leukemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Hematologic/Leukemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Latex_Allergies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Allergies/Latex"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hydrocephalus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Hydrocephalus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Porphyria"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Inherited/Porphyrias"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Nephrogenic_Diabetes_Insipidus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Animal/Conditions_and_Diseases/Diabetes_Insipidus"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Uterine_Fibroids"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Uterus/Fibroids"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Celiac_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Celiac_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork/Rosen_Method"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Rosen_Method"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Heart_Failure"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Congestive_Failure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Heart_Murmur"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Murmurs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Migraine"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Headaches/Migraine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Homeopathy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Homeopathy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Borderline_Personality_Disorder_BPD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Personality/Borderline"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gynecomastia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Men_s_Health/Conditions_and_Diseases/Gynecomastia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Stroke"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Stroke"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Severe_Acute_Respiratory_Syndrome_SARS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/SARS"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Myasthenia_Gravis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Immune_Disorders/Auto_Immune/Myasthenia_Gravis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Digestion_and_Nutrition_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Digestive_Disorders"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Stomach_Gastric_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gastrointestinal/Stomach"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Giardiasis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Giardiasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Schizophrenia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Schizophrenia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Insulin_Resistance"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Pancreas/Insulin_Resistance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Aneurysm"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Vascular_Disorders/Aneurysm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Aicardi_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Rare_Disorders/Aicardi_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Temporo_Mandibular_Joint_Syndrome_TMJ"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Dentistry/Conditions_and_Diseases/Temporomandibular_Joint_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rickets"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Vitamins_and_Minerals/Rickets"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Proteus_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Proteus_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pellagra"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Vitamins_and_Minerals/Pellagra"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/High_Cholesterol"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Cholesterol"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Oral_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Head_and_Neck"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Insomnia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders/Insomnia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Carpal_Tunnel_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Nerve_Compression_Syndromes/Carpal_Tunnel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Metabolic_Diseases"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Brain_Diseases/Metabolic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Trepanation"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Trepanation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Prosopagnosia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Rare_Disorders/Agnosia"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Eczema"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Eczema"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Whooping_Cough"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/Whooping_Cough"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Breast_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Breast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Esophageal_Varices"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Esophagus/Varices"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Treacher_Collins_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Facial_Differences/Treacher_Collins_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Foodborne_Illnesses"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Food_and_Water_Borne"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Beriberi"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Vitamins_and_Minerals/Beriberi"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gall_Bladder_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Gallbladder/Gallstones"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Strep_Throat"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Streptococcal/Strep_Throat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tuberculosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Mycobacterial/Tuberculosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Antisocial_Personality_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Personality/Antisocial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Barth_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Rare_Disorders/Barth_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Scleroderma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Scleroderma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Malaria"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Malaria"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Plantar_Fasciitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Feet/Plantar_Fasciitis_and_Heel_Spurs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Apert_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Facial_Differences/Apert_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hepatitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Liver/Hepatitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ebola"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Hemorrhagic_Fevers/Ebola"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Glioma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Brain_and_CNS/Brain_Stem_Gliomas"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Trichotillomania"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Impulse_Control/Trichotillomania"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Batten_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Batten_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Galactosemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Brain_Diseases/Metabolic/Galactosemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Prostatitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Men_s_Health/Conditions_and_Diseases/Prostate/Prostatitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cerebral_Palsy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Cerebral_Palsy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ataxia_Telangiectasia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Ataxia"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thyroid_Diseases"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Thyroid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Myeloma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Hematologic/Multiple_Myeloma"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Respiratory_Distress_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/ARDS"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lymphogranuloma_Venereum_LGV"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Sexually_Transmitted_Diseases/Lymphogranuloma_Venereum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Breathwork"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Breathwork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Conjunctivitis_Pink_Eye"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Conjunctivitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Staph_Infection"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Staphylococcal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Irritable_Bowel_Syndrome_IBS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Irritable_Bowel_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lupus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Lupus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Goiter"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Thyroid/Goiter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Smoking_Addiction"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Addictions/Substance_Abuse/Tobacco"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Allergies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Allergies"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Polycystic_Kidney_Disease_PKD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genitourinary_Disorders/Kidney/Polycystic_Kidney"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Aromatherapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Aromatherapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Burns"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Wounds_and_Injuries/Burns"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Nystagmus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Nystagmus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Typhoid_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Typhoid_Fever"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Guillain_Barre_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Guillain_Barre_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Anemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Syphilis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Sexually_Transmitted_Diseases/Syphilis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Altitude_Illness"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Wounds_and_Injuries/Altitude_Sickness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Personality_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Personality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hyperthyroidism"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Thyroid/Hyperthyroidism"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Conduct_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/Disruptive_Behavior_Disorders/Conduct_Disorder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dystonia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Movement_Disorders/Dystonia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Phobias"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Phobias"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Attention_Deficit_Disorder_ADD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Neurodevelopmental/ADD_and_ADHD"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Leptospirosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Spirochetal/Leptospirosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Head_Lice"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Head_Lice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Craniosynostosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Congenital_Anomalies/Craniosynostosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Blood_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Internet_Addiction"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Addictions/Internet"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Amenorrhea"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Menstruation/Amenorrhea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Scoliosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Back_and_Spine/Scoliosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork/Massage_Therapy/Organizations"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Associations"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Microphthalmia_and_Anophthalmia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Microphthalmia"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sarcoidosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Immune_Disorders/Auto_Immune/Sarcoidosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Flower_Essences"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Essences"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bladder_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Genitourinary/Bladder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Salmonellosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Salmonellosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tuberous_Sclerosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Neurodegenerative_Diseases/Tuberous_Sclerosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Methicillin_Resistant_Staphylococcus_Aureus_MRSA"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Staphylococcal/MRSA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lactose_Intolerance"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Lactose_Intolerance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Narcissistic_Personality_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Personality/Narcissistic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Strep_Throat"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Streptococcal"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Macular_Degeneration"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Retina/Macular_Degeneration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sleep_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rubinstein_Taybi_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Rare_Disorders/Rubinstein_Taybi_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Osteoarthritis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Arthritis/Osteoarthritis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Yeast_Infections"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Vagina/Infections/Yeast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Atrial_Fibrillation"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Arrhythmia/Atrial_Fibrillation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Apitherapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Apitherapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pectus_Excavatum"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Congenital_Anomalies/Pectus_Excavatum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Shyness"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Social_Anxiety"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Eczema"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Child_Health/Conditions_and_Diseases/Skin_Disorders/Eczema"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tinnitus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nose_and_Throat/Ear/Tinnitus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sensory_Integration_Dysfunction"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Counseling_Services/Expressive_Therapies/Sensory_Integration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Blepharospasm"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Movement_Disorders/Dystonia/Blepharospasm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Heartburn"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Digestive_Disorders/Heartburn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Stomach_and_Duodenal_Peptic_Ulcers"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Stomach/Peptic_Ulcer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pemphigus_Vulgaris"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Rare_Disorders/Pemphigus"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Long_QT_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Arrhythmia/Long_QT_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Institutes"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Public_Health_and_Safety/Disease_Control_and_Prevention"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Colon_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gastrointestinal/Colorectal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Intermittent_Explosive_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Impulse_Control/Intermittent_Explosive_Disorder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Web_Directories"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Resources/Directories"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sinus_Infection"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nose_and_Throat/Nose_and_Paranasal_Sinuses/Sinusitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Post_Traumatic_Stress_Disorder_PTSD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Post_traumatic_Stress"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Down_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Down_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Peripheral_Vascular_Disease_PVD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Vascular_Disorders/Peripheral_Vascular_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Appendicitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Appendicitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Prostate_Diseases"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Men_s_Health/Conditions_and_Diseases/Prostate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Obsessive_Compulsive_Disorder_OCD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Obsessive_Compulsive"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Meningitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Meningitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cluster_Headaches"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Headaches/Cluster"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Neuroblastoma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Brain_and_CNS/Neuroblastoma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dental_Phobia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Phobias/Dentophobia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Colonic_Cleansing"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Fasting_and_Cleansing"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Amyloidosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Inherited/Amyloidosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hypochondria"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Somatoform/Hypochondria"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gout"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Arthritis/Gout"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cystic_Fibrosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Cystic_Fibrosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gestational_Diabetes"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Medicine/Medical_Specialties/Obstetrics_and_Gynecology/Obstetrics/Gestational_Diabetes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rubella"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Rubella"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hyperhidrosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Hyperhidrosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Neutropenia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Neutropenia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Multiple_Sclerosis_MS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Multiple_Sclerosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lewy_Body_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Dementia/Lewy_Body"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gulf_War_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Gulf_War_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Gemstone_Therapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Crystals"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cholesteatoma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nose_and_Throat/Ear/Cholesteatoma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Avoidant_Personality_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Personality/Avoidant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Polycystic_Ovarian_Syndrome_PCOS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Gonads/Polycystic_Ovarian_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Vitiligo"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Vitiligo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Panic_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Panic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Diverticulitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Diverticulitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Endocarditis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Endocarditis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lymphedema"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Vascular_Disorders/Lymphedema"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hidradenitis_Suppurativa"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Hidradenitis_Suppurativa"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Epidermolysis_Bullosa"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Epidermolysis_Bullosa"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hemochromatosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Hemochromatosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Myeloproliferative_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Hematologic/Chronic_Myeloproliferative_Disorders"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Amebiasis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Amebiasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Applied_Kinesiology"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Chiropractic/Kinesiology"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pancreatic_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gastrointestinal/Pancreatic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Craniofacial_Anomalies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Support_Groups/Conditions_and_Diseases/Facial_Differences/Cleft_Lip_and_Palate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Vulvodynia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Vulva/Vulvodynia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Menorrhagia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Menstruation/Menorrhagia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Myeloproliferative_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Myelodysplastic_Syndromes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mental_Health_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Medicine/Medical_Specialties/Psychiatry"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Congenital_Heart_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Congenital"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Eye_Conditions"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Medicine/Medical_Specialties/Ophthalmology"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Attention_Deficit_Disorder_ADD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/ADD_and_ADHD"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mononucleosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Epstein_Barr_Virus/Infectous_Mononucleosis"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Neurological_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rett_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Rett_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Polarity_Therapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Polarity_Therapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Essential_Tremor"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Movement_Disorders"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dyspraxia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/Learning_Disabilities/Dyspraxia_Apraxia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chicken_Pox"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Child_Health/Conditions_and_Diseases/Infectious_Diseases/Chickenpox"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Muscular_Dystrophy_MD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Muscle_Diseases/Muscular_Dystrophies"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sciatica"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Neuralgias/Sciatica"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dysphagia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Oral/Dysphagia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Syringomyelia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Congenital_Anomalies/Syringomyelia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Spinal_Muscular_Atrophy_SMA"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Muscle_Diseases/Spinal_Muscular_Atrophy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Spina_Bifida"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Congenital_Anomalies/Spina_Bifida"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gambling_Addiction"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Impulse_Control/Pathological_Gambling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Coronary_Artery_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Coronary_Artery_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thyroiditis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Thyroid/Thyroiditis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Fanconi_Anemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Anemia/Fanconi"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Atresia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Child_Health/Conditions_and_Diseases/Digestive_Disorders/Biliary_Atresia"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Thyroid_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Endocrine/Thyroid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rosacea"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Rosacea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mitochondrial_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Brain_Diseases/Metabolic/Mitochondrial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bacterial_Vaginosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Vagina/Infections"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chondromalacia_Patellae"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Chondromalacia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Arthritis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Arthritis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Impulse_Control_Disorders"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Impulse_Control"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cri_Du_Chat_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Chromosomal/Cri_du_Chat_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hyperlexia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/Learning_Disabilities/Hyperlexia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Schistosomiasis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Flukes/Schistosomiasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Postpartum_Depression"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Postpartum_Depression"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rheumatic_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Streptococcal/Rheumatic_Fever"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Diphtheria"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Diphtheria"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Morning_Sickness"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Morning_Sickness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mesothelioma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Mesothelioma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tularemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Tularemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Diarrhea"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Intestinal/Diarrhea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Prostate_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Genitourinary/Prostate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Escherichia_coli_Infection_E_coli_Infection"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/E_coli"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Dehydration"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Water_Balance"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gynecologic_Cancers"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gynecologic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Niemann_Pick_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Cholesterol_and_Other_Fats/Niemann_Pick"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Keratoconus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Cornea/Keratoconus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hemophilia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Blood_Disorders/Hemophilia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lymphoma"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Hematologic/Lymphoma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Krabbe_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Leukodystrophy/Krabbe_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Nephrogenic_Diabetes_Insipidus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Pituitary/Diabetes_Insipidus"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anal_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gastrointestinal/Anal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Encephalitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Infections/Encephalitis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Postural_Orthostatic_Tachycardia_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Dysautonomia/Postural_Orthostatic_Tachycardia_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Spinal_Cord_Injury"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Trauma_and_Injuries/Spinal_Cord_Injury"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cholera"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Cholera"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Rocky_Mountain_Spotted_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Rickettsial/Rocky_Mountain_Spotted_Fever"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Psoriasis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Psoriasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Naturopathy/Organizations"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Naturopathy/Organizations"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Selective_Mutism"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Anxiety/Selective_Mutism"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mumps"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Mumps"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hypertension"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Vascular_Disorders/Hypertension"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Heart_Diseases"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Acupuncture_and_Chinese_Medicine/Bodywork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Achilles_Tendinitis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Tendonitis"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pyromania"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Impulse_Control/Pyromania"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Shingles"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Herpes/Herpes_Zoster"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lyme_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Spirochetal/Lyme_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Seasonal_Affective_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Mood/Depression/Seasonal_Affective"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Multiple_Chemical_Sensitivity_MCS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Immune_Disorders/Multiple_Chemical_Sensitivity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Helicobacter_Pylori"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Stomach/Peptic_Ulcer/Helicobacter_Pylori"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork/Hellerwork"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Hellerwork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Tourette_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Tourette_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chronic_Fatigue_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Chronic_Fatigue_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Respiratory_Diseases"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Fibromyalgia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Fibromyalgia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Leukodystrophies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Leukodystrophy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Osteogenesis_Imperfecta"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Congenital_Anomalies/Osteogenesis_Imperfecta"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Color_Therapy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Color_Therapies"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Scabies"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Scabies"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Charcot_Marie_Tooth_Disease_CMT"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Charcot_Marie_Tooth_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bulimia_Nervosa"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Eating/Bulimia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Cervical_Dysplasia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Uterus/Cervical_Dysplasia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Lung_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Lung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Antiphospholipid_Syndrome_APS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Immune_Disorders/Auto_Immune/Antiphospholipid_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anorexia_Nervosa"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Eating/Anorexia"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hypothermia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Wounds_and_Injuries/Hypothermia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ovarian_Cysts"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Conditions_and_Diseases/Ovary/Ovarian_Cysts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/West_Nile_Virus_Infection"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/West_Nile_Virus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Norovirus_Infections"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Noroviruses"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Glomerulonephritis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genitourinary_Disorders/Kidney/Glomerulonephritis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Leishmaniasis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Leishmaniasis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Albinism"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Albinism"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Fetal_Alcohol_Syndrome_FAS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Complications/Fetal_Alcohol_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sports_Injuries"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Wounds_and_Injuries"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Restless_Legs_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders/Restless_Legs_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Body_Dysmorphic_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Somatoform/Body_Dysmorphic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ectopic_Pregnancy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Complications/Ectopic_Pregnancy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sexually_Transmitted_Diseases_STDs"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Sexually_Transmitted_Diseases"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork/Somatic_Education/Feldenkrais_Method"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork/Feldenkrais"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bruxism"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Dentistry/Conditions_and_Diseases/Bruxism"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Mitral_Valve_Prolapse"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Dysautonomia/Mitral_Valve_Prolapse_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Narcolepsy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Sleep_Disorders/Narcolepsy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Spasmodic_Torticollis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Movement_Disorders/Torticollis"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Anosmia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Senses/Smell_and_Taste/Anosmia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Toxoplasmosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Parasitic/Toxoplasmosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Campylobacteriosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Campylobacteriosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Pregnancy_Complications"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Complications"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Skin_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Skin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Bipolar_Disorder_Manic_Depression"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Mood/Bipolar_Disorder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Birthmarks"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Birthmarks"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Canavan_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Demyelinating_Diseases/Leukodystrophy/Canavan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Fragile_X_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Fragile_X_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Sanfilippo_Syndrome"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Genetic_Disorders/Sanfilippo_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Addiction_and_Recovery"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Addictions"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Naturopathy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Naturopathy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chronic_Myelogenous_Leukemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Hematologic/Leukemia/Chronic_Myelogenous"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Fifth_Disease"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Fifth_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Allergic_Rhinitis_Hay_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/Rhinitis"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Osteoporosis"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Osteoporosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hair_Loss"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Skin_Disorders/Hair_Loss"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hypoglycemia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Pancreas/Hypoglycemia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Chronic_Obstructive_Pulmonary_Disease_COPD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Respiratory_Disorders/Chronic_Obstructive_Pulmonary_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Reflex_Sympathetic_Dystrophy"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Muscle_Diseases/Reflex_Sympathetic_Dystrophy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Homeopathy/Institutes"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Homeopathy/Education"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Insect_Bites_and_Stings"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Wounds_and_Injuries/Bites_and_Stings"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Hypospadias"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Men_s_Health/Conditions_and_Diseases/Penis/Hypospadias"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Gonorrhea"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Sexually_Transmitted_Diseases/Gonorrhea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Strabismus"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Eye_Disorders/Squint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Bodywork"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Massage_Therapy_and_Bodywork"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Shy_Drager_Syndrome_SDS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Dysautonomia/Shy_Drager_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Reactive_Attachment_Disorder"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Mental_Health/Disorders/Child_and_Adolescent/Attachment_Disorder"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Premenstrual_Syndrome_PMS"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Women_s_Health/Menstruation/Premenstrual_Syndrome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Preeclampsia"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Reproductive_Health/Pregnancy_and_Birth/Complications/Preeclampsia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Maple_Syrup_Urine_Disease_MSUD"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Nutrition_and_Metabolism_Disorders/Inherited/Maple_Syrup_Urine_Disease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Colic"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Child_Health/Conditions_and_Diseases/Digestive_Disorders/Infant_Colic"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Ovarian_Cancer"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Cancer/Gynecologic/Ovarian"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Diseases_and_Conditions/Scarlet_Fever"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Streptococcal/Scarlet_Fever"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://yahoo.health/Health/Alternative_Medicine/Therapeutic_Touch"/>
+      <entity2 rdf:resource="http://dmoz.health/Top/Health/Alternative/Energy_Healing/Therapeutic_Touch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

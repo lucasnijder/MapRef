@@ -1,0 +1,111 @@
+storage ottomans  ::  ottomans, footstools & poufs :: 1
+wall-mounted cabinets  ::  cabinets & cupboards :: 1
+specialty mattresses  ::  beds & mattresses :: 1
+step stools  ::  ottomans, footstools & poufs :: 6
+dressers & chests of drawers  ::  dressers & chests of drawers :: 0
+card file cabinets  ::  cabinets & cupboards :: 1
+vertical file cabinets  ::  cabinets & cupboards :: 1
+hampers  ::  trunks & chests :: 1
+recliners  ::  sofas, loveseats & chaises :: 1
+coat racks  ::  armoires & wardrobes :: 6
+desk chairs  ::  chairs :: 1
+bedroom armoires  ::  armoires & wardrobes :: 1
+home office desk chairs  ::  chairs :: 1
+memory foam mattresses  ::  beds & mattresses :: 1
+breakfast trays  ::  tables :: 1
+panel screens  ::  screens & room dividers :: 1
+chaise lounges  ::  sofas, loveseats & chaises :: 1
+armchairs  ::  chairs :: 1
+end tables  ::  tables :: 1
+freestanding cabinets  ::  cabinets & cupboards :: 1
+beds & bed frames  ::  beds & mattresses :: 0
+media storage  ::  cabinets & cupboards :: 1
+armoires, chests & dressers  ::  armoires & wardrobes :: 2
+gliders, ottomans & rocking chairs  ::  chairs :: 1
+toddler beds  ::  beds & mattresses :: 1
+home office cabinets  ::  cabinets & cupboards :: 1
+storage benches  ::  benches & stools :: 1
+sofas & couches  ::  sofas, loveseats & chaises :: 2
+plush mattresses  ::  beds & mattresses :: 1
+coffee tables  ::  tables :: 1
+chairs  ::  chairs :: 0
+travel beds  ::  beds & mattresses :: 1
+stacking chairs  ::  chairs :: 1
+step stools  ::  benches & stools :: 1
+futon mattresses  ::  futons, frames & covers :: 1
+bathroom furniture sets  ::  furniture :: 6
+drafting tables  ::  desks & home office furniture :: 6
+nesting tables  ::  tables :: 1
+pillowtop mattresses  ::  beds & mattresses :: 1
+storage chests  ::  trunks & chests :: 1
+trunks  ::  trunks & chests :: 1
+futons  ::  futons, frames & covers :: 1
+matresses & box springs  ::  beds & mattresses :: 1
+tables  ::  tables :: 0
+futon mattresses  ::  beds & mattresses :: 1
+toy chests  ::  trunks & chests :: 1
+bookcases, cabinets & shelves  ::  cabinets & cupboards :: 6
+oversized chairs  ::  chairs :: 1
+lateral file cabinets  ::  cabinets & cupboards :: 1
+folding tables  ::  tables :: 1
+inner spring mattresses  ::  beds & mattresses :: 1
+desks  ::  desks & home office furniture :: 0
+changing tables  ::  tables :: 1
+vanities & vanity benches  ::  vanities & makeup tables :: 6
+headboards  ::  bedroom sets :: 6
+bars & wine cabinets  ::  cabinets & cupboards :: 2
+china cabinets  ::  cabinets & cupboards :: 1
+mobile file cabinets  ::  cabinets & cupboards :: 1
+bookcases, cabinets & shelves  ::  bookcases :: 2
+medicine cabinets  ::  cabinets & cupboards :: 1
+stools  ::  benches & stools :: 1
+footboards  ::  bedroom sets :: 6
+benches  ::  benches & stools :: 0
+cradles  ::  beds & mattresses :: 1
+barstools  ::  bar stools :: 0
+bean bags  ::  bean bags & inflatables :: 1
+bookcases  ::  bookcases :: 0
+chest file cabinets  ::  cabinets & cupboards :: 1
+foam mattresses  ::  beds & mattresses :: 1
+rocking chairs  ::  chairs :: 1
+gliders, ottomans & rocking chairs  ::  ottomans, footstools & poufs :: 2
+storage baskets  ::  trunks & chests :: 1
+video game chairs  ::  chairs :: 1
+moses baskets  ::  beds & mattresses :: 1
+curio cabinets  ::  cabinets & cupboards :: 1
+ottomans  ::  ottomans, footstools & poufs :: 1
+home office furniture sets  ::  desks & home office furniture :: 6
+game tables  ::  tables :: 1
+armoires  ::  armoires & wardrobes :: 1
+flat file cabinets  ::  cabinets & cupboards :: 1
+cradle mattresses  ::  beds & mattresses :: 1
+hypoallergenic mattresses  ::  beds & mattresses :: 1
+chests & dressers  ::  dressers & chests of drawers :: 2
+vanities  ::  vanities & makeup tables :: 1
+standing baker's racks  ::  cabinets & cupboards :: 1
+audio-video shelving  ::  cd & video racks :: 1
+crib mattresses  ::  beds & mattresses :: 1
+portable tables  ::  tables :: 1
+portable crib mattresses  ::  beds & mattresses :: 1
+firm mattresses  ::  beds & mattresses :: 1
+quilt stands  ::  bedroom sets :: 6
+bassinets  ::  beds & mattresses :: 1
+dining room sets  ::  dining sets :: 6
+folding chairs  ::  chairs :: 1
+sofas  ::  sofas, loveseats & chaises :: 1
+futon frames  ::  futons, frames & covers :: 1
+entertainment armoires  ::  armoires & wardrobes :: 1
+speaker stands  ::  entertainment units, tv stands :: 6
+cribs  ::  beds & mattresses :: 1
+bedroom sets  ::  bedroom sets :: 0
+directors chairs  ::  chairs :: 1
+corner baker's racks  ::  cabinets & cupboards :: 1
+buffets, credenzas & sideboards  ::  sideboards & buffets :: 2
+adjustable chairs  ::  chairs :: 1
+television stands & entertainment centers  ::  entertainment units, tv stands :: 6
+home office desks  ::  desks & home office furniture :: 1
+computer armoires & hutches  ::  armoires & wardrobes :: 1
+swivel chairs  ::  chairs :: 1
+nightstands  ::  nightstands :: 0
+pedestal tables  ::  tables :: 1
+standing shelf units  ::  cd & video racks :: 6

@@ -1,0 +1,100 @@
+<rdf:RDF
+    xmlns="http://www.semanticweb.org/ontologies/2014/8/Ontology1411734151407.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2014/8/Ontology1411734151407.owl"/>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Shorts_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Jackets_&amp;_Coats">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Jeans">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Jeans_">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Pants">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Coats_&amp;_Jackets">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Pants_">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Shirts">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Fashion_Hoodies_&amp;_Sweatshirts_">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Underwear">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Active">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Suits_&amp;_Blazers">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Sweaters_">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Skirts">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Swim">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Tops_&amp;_Tees">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Swimsuits_&amp;_Cover_Ups">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Lingerie,_Sleep_&amp;_Lounge">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Jumpsuits,_Rompers_&amp;_Overalls">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Dresses">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Socks_&amp;_Hosiery">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Sleep_&amp;_Lounge">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Leggings">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Active_">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Shorts">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Sweaters">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Suits_&amp;_Sport_Coats">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Men_Clothing/Socks">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Men_Clothing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonClothing.com/Women_Clothing/Fashion_Hoodies_&amp;_Sweatshirts">
+    <rdfs:subClassOf rdf:resource="http://amazonClothing.com/Women_Clothing"/>
+  </owl:Class>
+</rdf:RDF>

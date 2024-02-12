@@ -1,0 +1,790 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <owl:Class rdf:about="http://AlchemyAPI.com/EnglishCivilParish">
+    <rdfs:label>EnglishCivilParish</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Orchestra">
+    <rdfs:label>Orchestra</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Advocacy_Group">
+    <rdfs:label>Advocacy Group</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/U/S/Congressperson">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://AlchemyAPI.com/U/S"/>
+    </rdfs:subClassOf>
+    <rdfs:label>Congressperson</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Librarian">
+    <rdfs:label>Librarian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Disorder">
+    <rdfs:label>Disorder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Mountain_Climber">
+    <rdfs:label>Mountain Climber</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Philanthropist">
+    <rdfs:label>Philanthropist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Track_and_Field_Athlete">
+    <rdfs:label>Track and Field Athlete</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Comedian">
+    <rdfs:label>Comedian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Photographer">
+    <rdfs:label>Photographer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Nonprofit_Organization">
+    <rdfs:label>Nonprofit Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Country">
+    <rdfs:label>Country</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Political_Party">
+    <rdfs:label>Political Party</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Architect">
+    <rdfs:label>Architect</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Swimmer">
+    <rdfs:label>Swimmer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Military_Person">
+    <rdfs:label>Military Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Olympic_Sport">
+    <rdfs:label>Olympic Sport</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Baseball_Player">
+    <rdfs:label>Baseball Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Building">
+    <rdfs:label>Building</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Fictional_Organization">
+    <rdfs:label>Fictional Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Nobel_Laureate">
+    <rdfs:label>Nobel Laureate</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Drummer">
+    <rdfs:label>Drummer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Psychoactive_Drug">
+    <rdfs:label>Psychoactive Drug</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Criminal">
+    <rdfs:label>Criminal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Victim_of_crime">
+    <rdfs:label>Victim of crime</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Telecommunications_Company">
+    <rdfs:label>Telecommunications Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Producer">
+    <rdfs:label>Producer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Screenwriter">
+    <rdfs:label>Screenwriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Financial_Services_Company">
+    <rdfs:label>Financial Services Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Technology_Company">
+    <rdfs:label>Technology Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sculptor">
+    <rdfs:label>Sculptor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Nobility">
+    <rdfs:label>Nobility</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Spiritual_Leader">
+    <rdfs:label>Spiritual Leader</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Neighborhood">
+    <rdfs:label>Neighborhood</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Model">
+    <rdfs:label>Model</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Software">
+    <rdfs:label>Software</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/SportsTeam">
+    <rdfs:label>SportsTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Soccer_Team">
+    <rdfs:label>Soccer Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Substance">
+    <rdfs:label>Substance</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/AdministrativeDivision">
+    <rdfs:label>AdministrativeDivision</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Person">
+    <rdfs:label>Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Paleontologist">
+    <rdfs:label>Paleontologist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Chemist">
+    <rdfs:label>Chemist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Advertising_Agency">
+    <rdfs:label>Advertising Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Physicist">
+    <rdfs:label>Physicist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Martial_Artist">
+    <rdfs:label>Martial Artist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Judge">
+    <rdfs:label>Judge</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cinematographer">
+    <rdfs:label>Cinematographer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Conductor">
+    <rdfs:label>Conductor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Soccer_Player">
+    <rdfs:label>Soccer Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmWriter">
+    <rdfs:label>FilmWriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Technologist">
+    <rdfs:label>Technologist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/College_Basketball_Team">
+    <rdfs:label>College Basketball Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Baseball_Team">
+    <rdfs:label>Baseball Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/GeographicFeature">
+    <rdfs:label>GeographicFeature</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/U">
+    <rdfs:label>U</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Media_Device">
+    <rdfs:label>Media Device</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Religion">
+    <rdfs:label>Religion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Golfer">
+    <rdfs:label>Golfer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Condition">
+    <rdfs:label>Condition</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Entertainment_Company">
+    <rdfs:label>Entertainment Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/TVEpisode">
+    <rdfs:label>TVEpisode</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Poet">
+    <rdfs:label>Poet</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Engineer">
+    <rdfs:label>Engineer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/News_Agency">
+    <rdfs:label>News Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Football_Player">
+    <rdfs:label>Football Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Company">
+    <rdfs:label>Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Stock_Market_Index">
+    <rdfs:label>Stock Market Index</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Critic">
+    <rdfs:label>Critic</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Automobile">
+    <rdfs:label>Automobile</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Musician">
+    <rdfs:label>Musician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Gaming_Company">
+    <rdfs:label>Gaming Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Railway_Company">
+    <rdfs:label>Railway Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ReportIssuingInstitution">
+    <rdfs:label>ReportIssuingInstitution</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Archaeologist">
+    <rdfs:label>Archaeologist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Guitarist">
+    <rdfs:label>Guitarist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cartoonist">
+    <rdfs:label>Cartoonist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Hockey_Player">
+    <rdfs:label>Hockey Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Facility">
+    <rdfs:label>Facility</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Hurricane">
+    <rdfs:label>Hurricane</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Venue">
+    <rdfs:label>Sports Venue</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Economics_Concept">
+    <rdfs:label>Economics Concept</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/SchoolDistrict">
+    <rdfs:label>SchoolDistrict</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/OlympicAthlete">
+    <rdfs:label>OlympicAthlete</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Australian_Rules_Footballer">
+    <rdfs:label>Australian Rules Footballer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ComputerDesigner">
+    <rdfs:label>ComputerDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cooperative">
+    <rdfs:label>Cooperative</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Comics_Creator">
+    <rdfs:label>Comics Creator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Volcano">
+    <rdfs:label>Volcano</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Organization">
+    <rdfs:label>Sports Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/City">
+    <rdfs:label>City</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Software_Company">
+    <rdfs:label>Software Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/House">
+    <rdfs:label>House</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Composer">
+    <rdfs:label>Composer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Revolutionary">
+    <rdfs:label>Revolutionary</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Socialite">
+    <rdfs:label>Socialite</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/TheaterCharacter">
+    <rdfs:label>TheaterCharacter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/MusicalGroupMember">
+    <rdfs:label>MusicalGroupMember</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/LanguageCreator">
+    <rdfs:label>LanguageCreator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Academic">
+    <rdfs:label>Academic</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Law_Enforcement_Agency">
+    <rdfs:label>Law Enforcement Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Automotive_Company">
+    <rdfs:label>Automotive Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Author">
+    <rdfs:label>Author</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Explorer">
+    <rdfs:label>Explorer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Television_Show">
+    <rdfs:label>Television Show</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/MusicalArtist">
+    <rdfs:label>MusicalArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Game_Console">
+    <rdfs:label>Game Console</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmCritic">
+    <rdfs:label>FilmCritic</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Philosopher">
+    <rdfs:label>Philosopher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Executive">
+    <rdfs:label>Sports Executive</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Rugby_Player">
+    <rdfs:label>Rugby Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Location">
+    <rdfs:label>Location</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Island">
+    <rdfs:label>Island</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Desert">
+    <rdfs:label>Desert</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Armed_Force">
+    <rdfs:label>Armed Force</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/StateOrCounty">
+    <rdfs:label>StateOrCounty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Conference">
+    <rdfs:label>Sports Conference</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Politician">
+    <rdfs:label>Politician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Basketball_Team">
+    <rdfs:label>Basketball Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Antiasthmatic_Drug">
+    <rdfs:label>Antiasthmatic Drug</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Basketball_Player">
+    <rdfs:label>Basketball Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/State">
+    <rdfs:label>State</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Region">
+    <rdfs:label>Region</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Ecoregion">
+    <rdfs:label>Ecoregion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Website">
+    <rdfs:label>Website</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Psychiatrist">
+    <rdfs:label>Psychiatrist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Aerospace_Company">
+    <rdfs:label>Aerospace Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Television_Station">
+    <rdfs:label>Television Station</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Continent">
+    <rdfs:label>Continent</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Scientist">
+    <rdfs:label>Scientist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmCinematographer">
+    <rdfs:label>FilmCinematographer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Deity">
+    <rdfs:label>Deity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/AircraftDesigner">
+    <rdfs:label>AircraftDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Publication">
+    <rdfs:label>Publication</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/U/S/_City">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://AlchemyAPI.com/U/S"/>
+    </rdfs:subClassOf>
+    <rdfs:label> City</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Historian">
+    <rdfs:label>Historian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_League">
+    <rdfs:label>Sports League</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ReligiousLeader">
+    <rdfs:label>ReligiousLeader</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ElementDiscoverer">
+    <rdfs:label>ElementDiscoverer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Botanist">
+    <rdfs:label>Botanist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Ambassador">
+    <rdfs:label>Ambassador</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/AwardWinner">
+    <rdfs:label>AwardWinner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Hotel">
+    <rdfs:label>Hotel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/MilitaryPerson">
+    <rdfs:label>MilitaryPerson</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Violinist">
+    <rdfs:label>Violinist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cabinet_Department">
+    <rdfs:label>Cabinet Department</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Film">
+    <rdfs:label>Film</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Professional_Association">
+    <rdfs:label>Professional Association</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Anthropologist">
+    <rdfs:label>Anthropologist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Lighthouse">
+    <rdfs:label>Lighthouse</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Religious_Organization">
+    <rdfs:label>Religious Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Court">
+    <rdfs:label>Court</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmProductionDesigner">
+    <rdfs:label>FilmProductionDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Structure">
+    <rdfs:label>Structure</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Trade_Association">
+    <rdfs:label>Trade Association</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Award">
+    <rdfs:label>Award</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Journalist">
+    <rdfs:label>Journalist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Official">
+    <rdfs:label>Sports Official</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/District">
+    <rdfs:label>District</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ProfessionalSportsTeam">
+    <rdfs:label>ProfessionalSportsTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Radio_Personality">
+    <rdfs:label>Radio Personality</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Lawyer">
+    <rdfs:label>Lawyer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Movie">
+    <rdfs:label>Movie</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Painter">
+    <rdfs:label>Painter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/SpanishAutonomousCommunity">
+    <rdfs:label>SpanishAutonomousCommunity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Organization">
+    <rdfs:label>Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Data_Storage_Medium">
+    <rdfs:label>Data Storage Medium</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Non-ProfitOrganisation">
+    <rdfs:label>Non-ProfitOrganisation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ShoppingCenter">
+    <rdfs:label>ShoppingCenter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Executive_Body">
+    <rdfs:label>Executive Body</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sports_Announcer">
+    <rdfs:label>Sports Announcer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Country_Leader">
+    <rdfs:label>Country Leader</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Singer">
+    <rdfs:label>Singer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmDirector">
+    <rdfs:label>FilmDirector</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/BroadcastDistributor">
+    <rdfs:label>BroadcastDistributor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Television_Personality">
+    <rdfs:label>Television Personality</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/International_Organization">
+    <rdfs:label>International Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Product">
+    <rdfs:label>Product</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Race_Car_Driver">
+    <rdfs:label>Race Car Driver</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Rugby_Competition">
+    <rdfs:label>Rugby Competition</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Food_Company">
+    <rdfs:label>Food Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Band">
+    <rdfs:label>Band</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Field_Hockey_Player">
+    <rdfs:label>Field Hockey Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Football_Team">
+    <rdfs:label>Football Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cricketer">
+    <rdfs:label>Cricketer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/OfficeHolder">
+    <rdfs:label>OfficeHolder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Virus">
+    <rdfs:label>Virus</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Playwright">
+    <rdfs:label>Playwright</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Government_Agency">
+    <rdfs:label>Government Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Steroid">
+    <rdfs:label>Steroid</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Fashion_Designer">
+    <rdfs:label>Fashion Designer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/U/S">
+    <rdfs:subClassOf rdf:resource="http://AlchemyAPI.com/U"/>
+    <rdfs:label>S</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Airport">
+    <rdfs:label>Airport</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/U/S/_Politician">
+    <rdfs:subClassOf rdf:resource="http://AlchemyAPI.com/U/S"/>
+    <rdfs:label> Politician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Pianist">
+    <rdfs:label>Pianist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Military_Unit">
+    <rdfs:label>Military Unit</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/FilmMusicContributor">
+    <rdfs:label>FilmMusicContributor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Aviator">
+    <rdfs:label>Aviator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Energy_Company">
+    <rdfs:label>Energy Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Dance_Company">
+    <rdfs:label>Dance Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Artist">
+    <rdfs:label>Artist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Business_Person">
+    <rdfs:label>Business Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Television_Network">
+    <rdfs:label>Television Network</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Airline">
+    <rdfs:label>Airline</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cabinet_Member">
+    <rdfs:label>Cabinet Member</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Sport">
+    <rdfs:label>Sport</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Government_Person">
+    <rdfs:label>Government Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Irregular_Military">
+    <rdfs:label>Irregular Military</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/RecordLabel">
+    <rdfs:label>RecordLabel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Fugitive">
+    <rdfs:label>Fugitive</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/VisualArtist">
+    <rdfs:label>VisualArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/WineProducer">
+    <rdfs:label>WineProducer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Songwriter">
+    <rdfs:label>Songwriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Manufacturing_Company">
+    <rdfs:label>Manufacturing Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Physician">
+    <rdfs:label>Physician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Athlete">
+    <rdfs:label>Athlete</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/USState">
+    <rdfs:label>USState</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Astronomer">
+    <rdfs:label>Astronomer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Olympic_Medalist">
+    <rdfs:label>Olympic Medalist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/RocketEngineDesigner">
+    <rdfs:label>RocketEngineDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Film_Production_Company">
+    <rdfs:label>Film Production Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/TVChannel">
+    <rdfs:label>TVChannel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Street">
+    <rdfs:label>Street</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Inventor">
+    <rdfs:label>Inventor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Animator">
+    <rdfs:label>Animator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Director">
+    <rdfs:label>Director</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Mountain">
+    <rdfs:label>Mountain</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Anti-diabetic_Drug">
+    <rdfs:label>Anti-diabetic Drug</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Business_Organization">
+    <rdfs:label>Business Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Research_Institution">
+    <rdfs:label>Research Institution</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Mountain_Range">
+    <rdfs:label>Mountain Range</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Television_Production_Company">
+    <rdfs:label>Television Production Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Educational_Institution">
+    <rdfs:label>Educational Institution</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ComicBookPublisher">
+    <rdfs:label>ComicBookPublisher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/ManufacturingPlant">
+    <rdfs:label>ManufacturingPlant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Event">
+    <rdfs:label>Event</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Anti-obesity_Drug">
+    <rdfs:label>Anti-obesity Drug</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Activist">
+    <rdfs:label>Activist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/MusicalGroup">
+    <rdfs:label>MusicalGroup</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/SoccerClub">
+    <rdfs:label>SoccerClub</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Dancer">
+    <rdfs:label>Dancer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Prefecture">
+    <rdfs:label>Prefecture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Bridge">
+    <rdfs:label>Bridge</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Coach">
+    <rdfs:label>Coach</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cricket_Team">
+    <rdfs:label>Cricket Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/GovernmentAgency">
+    <rdfs:label>GovernmentAgency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Rugby_Team">
+    <rdfs:label>Rugby Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Hockey_Team">
+    <rdfs:label>Hockey Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/First_Lady">
+    <rdfs:label>First Lady</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Political_Organization">
+    <rdfs:label>Political Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Economist">
+    <rdfs:label>Economist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/PrintMedia">
+    <rdfs:label>PrintMedia</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Business_Executive">
+    <rdfs:label>Business Executive</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Actor">
+    <rdfs:label>Actor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Museum">
+    <rdfs:label>Museum</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Body_of_Water">
+    <rdfs:label>Body of Water</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Military_Leader">
+    <rdfs:label>Military Leader</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://AlchemyAPI.com/Cemetery">
+    <rdfs:label>Cemetery</rdfs:label>
+  </owl:Class>
+</rdf:RDF>

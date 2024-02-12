@@ -1,0 +1,220 @@
+short coats :: coats & jackets
+coats & jackets :: short coats
+gilets & waistcoats :: jackets & coats
+jackets & coats :: gilets & waistcoats
+cocktail dresses :: dresses
+dresses :: cocktail dresses
+tops & tees :: t-shirts
+t-shirts :: tops & tees
+jackets & coats :: waistcoats
+waistcoats :: jackets & coats
+coats & jackets :: trench coats
+trench coats :: coats & jackets
+socks & hosiery :: knee high socks
+knee high socks :: socks & hosiery
+dressing gowns :: sleep & lounge
+sleep & lounge :: dressing gowns
+shirts :: basic t-shirts
+basic t-shirts :: shirts
+tops & tees :: tops
+tops :: tops & tees
+fleece jumpers :: sweaters
+sweaters :: fleece jumpers
+swimming trunks :: swim
+swim :: swimming trunks
+fleece jackets :: jackets & coats
+jackets & coats :: fleece jackets
+down jackets :: coats & jackets
+coats & jackets :: down jackets
+dressing gowns :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: dressing gowns
+jackets & coats :: down coats
+down coats :: jackets & coats
+coats & jackets :: gilets & waistcoats
+gilets & waistcoats :: coats & jackets
+dresses :: shirt dresses
+shirt dresses :: dresses
+socks & hosiery :: socks
+socks :: socks & hosiery
+bras :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: bras
+coats & jackets :: capes
+capes :: coats & jackets
+denim jackets :: coats & jackets
+coats & jackets :: denim jackets
+shirts :: long sleeve tops
+long sleeve tops :: shirts
+pants :: cargo trousers
+cargo trousers :: pants
+skirts :: pencil skirts
+pencil skirts :: skirts
+mini skirts :: skirts
+skirts :: mini skirts
+coats & jackets :: down coats
+down coats :: coats & jackets
+knee high socks :: socks
+socks :: knee high socks
+chinos :: pants
+pants :: chinos
+tigh high socks :: socks & hosiery
+socks & hosiery :: tigh high socks
+fleece jumpers :: coats & jackets
+coats & jackets :: fleece jumpers
+outdoor jackets :: jackets & coats
+jackets & coats :: outdoor jackets
+coats & jackets :: blazers
+blazers :: coats & jackets
+playsuits & jumpsuits :: jumpsuits, rompers & overalls
+jumpsuits, rompers & overalls :: playsuits & jumpsuits
+jackets & coats :: lightweight jackets
+lightweight jackets :: jackets & coats
+shorts :: shorts
+jeans :: bootcut
+bootcut :: jeans
+swimsuits & cover ups :: bikinis
+bikinis :: swimsuits & cover ups
+down jackets :: jackets & coats
+jackets & coats :: down jackets
+underpants :: underwear
+underwear :: underpants
+swimsuits :: swimsuits & cover ups
+swimsuits & cover ups :: swimsuits
+print t-shirts :: shirts
+shirts :: print t-shirts
+maxi skirts :: skirts
+skirts :: maxi skirts
+skirts :: pleated skirts
+pleated skirts :: skirts
+wool coats :: coats & jackets
+coats & jackets :: wool coats
+dresses :: jersey dresses
+jersey dresses :: dresses
+shapewear :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: shapewear
+suit jackets :: jackets & coats
+jackets & coats :: suit jackets
+lightweight jackets :: coats & jackets
+coats & jackets :: lightweight jackets
+tops & tees :: long sleeve tops
+long sleeve tops :: tops & tees
+sports socks :: socks & hosiery
+socks & hosiery :: sports socks
+suspenders :: socks & hosiery
+socks & hosiery :: suspenders
+trench coats :: jackets & coats
+jackets & coats :: trench coats
+tunics :: tops & tees
+tops & tees :: tunics
+loose fit :: jeans
+jeans :: loose fit
+leather skirts :: skirts
+skirts :: leather skirts
+coats & jackets :: fleece jackets
+fleece jackets :: coats & jackets
+cardigans :: sweaters
+sweaters :: cardigans
+winter coats :: jackets & coats
+jackets & coats :: winter coats
+athletic jackets :: coats & jackets
+coats & jackets :: athletic jackets
+leather jackets :: jackets & coats
+jackets & coats :: leather jackets
+polo shirts :: shirts
+shirts :: polo shirts
+skirts :: a-line skirts
+a-line skirts :: skirts
+dresses :: denim dresses
+denim dresses :: dresses
+sleep & lounge :: nightwear
+nightwear :: sleep & lounge
+sweaters :: knitted jumpers
+knitted jumpers :: sweaters
+coats & jackets :: winter jackets
+winter jackets :: coats & jackets
+tops & tees :: blouses
+blouses :: tops & tees
+athletic jackets :: active
+active :: athletic jackets
+sweatshirts :: sweaters
+sweaters :: sweatshirts
+athletic jackets :: jackets & coats
+jackets & coats :: athletic jackets
+fashion hoodies & sweatshirts :: sweatshirts
+slim fit :: jeans
+jeans :: slim fit
+joggers & sweats :: pants
+pants :: joggers & sweats
+tops & tees :: vests & camisoles
+vests & camisoles :: tops & tees
+denim skirts :: skirts
+skirts :: denim skirts
+denim shorts :: jeans
+jeans :: denim shorts
+sports socks :: socks
+socks :: sports socks
+vests & camisoles :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: vests & camisoles
+underwear :: vests
+vests :: underwear
+dresses :: knitted dresses
+knitted dresses :: dresses
+coats & jackets :: winter coats
+winter coats :: coats & jackets
+suspenders :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: suspenders
+lingerie, sleep & lounge :: knickers
+knickers :: lingerie, sleep & lounge
+jackets & coats :: parkas
+parkas :: jackets & coats
+winter jackets :: jackets & coats
+jackets & coats :: winter jackets
+polo shirts :: tops & tees
+tops & tees :: polo shirts
+dresses :: casual dresses
+casual dresses :: dresses
+socks & hosiery :: tights
+tights :: socks & hosiery
+active :: joggers & sweats
+joggers & sweats :: active
+sweaters :: jumpers
+leggings :: leggings
+denim jackets :: jackets & coats
+jackets & coats :: denim jackets
+shorts :: denim shorts
+denim shorts :: shorts
+suits :: suits & sport coats
+suits & sport coats :: suits
+dresses :: work dresses
+work dresses :: dresses
+outdoor jackets :: coats & jackets
+coats & jackets :: outdoor jackets
+hoodies :: fashion hoodies & sweatshirts
+fashion hoodies & sweatshirts :: hoodies
+shorts :: chinos
+chinos :: shorts
+jackets & coats :: wool coats
+wool coats :: jackets & coats
+maxi dresses :: dresses
+dresses :: maxi dresses
+socks :: socks
+nightwear :: lingerie, sleep & lounge
+lingerie, sleep & lounge :: nightwear
+business :: shirts
+shirts :: business
+tops & tees :: shirts
+shirts :: tops & tees
+jeans :: straight leg
+straight leg :: jeans
+pants :: trousers
+suits & blazers :: blazers
+blazers :: suits & blazers
+socks & hosiery :: leg warmers
+leg warmers :: socks & hosiery
+short coats :: jackets & coats
+jackets & coats :: short coats
+fleece jumpers :: jackets & coats
+jackets & coats :: fleece jumpers
+leather jackets :: coats & jackets
+coats & jackets :: leather jackets
+skirts :: bubble hem skirts
+bubble hem skirts :: skirts

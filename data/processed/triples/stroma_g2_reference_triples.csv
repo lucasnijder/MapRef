@@ -1,0 +1,351 @@
+head;tail;relation
+anaphylactic shock;allergic reactions;broadmatch
+canker sores;oral;broadmatch
+depressive disorders;depression;exactmatch
+thrombocytopenia absent radius tar syndrome;thrombocytopenia absent radius syndrome;exactmatch
+essential tremor;essential tremor;exactmatch
+bronchitis;bronchitis;exactmatch
+creutzfeldt jakob disease cjd;creutzfeldt jakob disease;exactmatch
+achromatopsia;achromatopsia;exactmatch
+tetanus;tetanus;exactmatch
+cancers;cancer;exactmatch
+epilepsy;epilepsy;exactmatch
+cirrhosis of liver;cirrhosis;exactmatch
+photosensitive epilepsy;photosensitive;exactmatch
+adrenoleukodystrophy;adrenoleukodystrophy;exactmatch
+thrombosis;thrombosis;exactmatch
+aphasia;aphasia;exactmatch
+oppositional defiant disorder;oppositional defiant disorder;exactmatch
+interstitial cystitis;interstitial cystitis;exactmatch
+river blindness;onchocerciasis;exactmatch
+schools;schools;exactmatch
+botulism;botulism;exactmatch
+sleep paralysis;sleep paralysis;exactmatch
+thalassemia;thalassemia;exactmatch
+ectodermal dysplasia;ectodermal dysplasia;exactmatch
+dengue fever;dengue fever;exactmatch
+anxiety disorders;anxiety;exactmatch
+neurofibromatosis;neurofibromatosis;exactmatch
+cervical cancer;cervical;exactmatch
+cataract;cataract;exactmatch
+gastroesophageal reflux disease gerd;reflux disease;exactmatch
+hantavirus;hantavirus;exactmatch
+endometriosis;endometriosis;exactmatch
+sudden infant death syndrome sids;sids;exactmatch
+parry romberg syndrome;parry rombergs syndrome;exactmatch
+chronic hives urticaria;hives;broadmatch
+bone cancer;bone;exactmatch
+marburg hemorrhagic fever;marburg;exactmatch
+night terrors;night terrors;exactmatch
+food allergies;food;exactmatch
+scurvy;scurvy;exactmatch
+melanoma;melanoma;exactmatch
+asbestosis;asbestosis;exactmatch
+dry eyes;dry eye;exactmatch
+ortho bionomy;ortho bionomy;exactmatch
+urine therapy;urine therapy;exactmatch
+eating disorders;eating;exactmatch
+klinefelter syndrome;klinefelter syndrome;exactmatch
+leukemia;leukemia;exactmatch
+latex allergies;latex;exactmatch
+hydrocephalus;hydrocephalus;exactmatch
+porphyria;porphyrias;exactmatch
+uterine fibroids;fibroids;exactmatch
+celiac disease;celiac disease;exactmatch
+rosen method;rosen method;exactmatch
+heart failure;congestive failure;exactmatch
+heart murmur;murmurs;exactmatch
+migraine;migraine;exactmatch
+homeopathy;homeopathy;exactmatch
+borderline personality disorder bpd;borderline;exactmatch
+gynecomastia;gynecomastia;exactmatch
+stroke;stroke;exactmatch
+severe acute respiratory syndrome sars;sars;exactmatch
+myasthenia gravis;myasthenia gravis;exactmatch
+digestion and nutrition disorders;digestive disorders;narrowmatch
+stomach gastric cancer;stomach;exactmatch
+giardiasis;giardiasis;exactmatch
+schizophrenia;schizophrenia;exactmatch
+insulin resistance;insulin resistance;exactmatch
+aneurysm;aneurysm;exactmatch
+aicardi syndrome;aicardi syndrome;exactmatch
+temporo mandibular joint syndrome tmj;temporomandibular joint syndrome;exactmatch
+rickets;rickets;exactmatch
+proteus syndrome;proteus syndrome;exactmatch
+pellagra;pellagra;exactmatch
+high cholesterol;cholesterol;broadmatch
+oral cancer;head and neck;broadmatch
+insomnia;insomnia;exactmatch
+carpal tunnel syndrome;carpal tunnel;exactmatch
+metabolic diseases;metabolic;exactmatch
+trepanation;trepanation;exactmatch
+prosopagnosia;agnosia;broadmatch
+eczema;eczema;exactmatch
+whooping cough;whooping cough;exactmatch
+breast cancer;breast;exactmatch
+esophageal varices;varices;exactmatch
+treacher collins syndrome;treacher collins syndrome;exactmatch
+foodborne illnesses;food and water borne;exactmatch
+beriberi;beriberi;exactmatch
+gall bladder disease;gallstones;narrowmatch
+strep throat;strep throat;exactmatch
+tuberculosis;tuberculosis;exactmatch
+antisocial personality disorder;antisocial;exactmatch
+barth syndrome;barth syndrome;exactmatch
+scleroderma;scleroderma;exactmatch
+malaria;malaria;exactmatch
+plantar fasciitis;plantar fasciitis and heel spurs;broadmatch
+apert syndrome;apert syndrome;exactmatch
+hepatitis;hepatitis;exactmatch
+ebola;ebola;exactmatch
+glioma;brain stem gliomas;narrowmatch
+trichotillomania;trichotillomania;exactmatch
+batten disease;batten disease;exactmatch
+galactosemia;galactosemia;exactmatch
+prostatitis;prostatitis;exactmatch
+cerebral palsy;cerebral palsy;exactmatch
+ataxia telangiectasia;ataxia;broadmatch
+thyroid diseases;thyroid;exactmatch
+myeloma;multiple myeloma;narrowmatch
+respiratory distress syndrome;ards;exactmatch
+lymphogranuloma venereum lgv;lymphogranuloma venereum;exactmatch
+breathwork;breathwork;exactmatch
+conjunctivitis pink eye;conjunctivitis;exactmatch
+staph infection;staphylococcal;exactmatch
+irritable bowel syndrome ibs;irritable bowel syndrome;exactmatch
+lupus;lupus;exactmatch
+goiter;goiter;exactmatch
+smoking addiction;tobacco;exactmatch
+allergies;allergies;exactmatch
+polycystic kidney disease pkd;polycystic kidney;exactmatch
+aromatherapy;aromatherapy;exactmatch
+burns;burns;exactmatch
+nystagmus;nystagmus;exactmatch
+typhoid fever;typhoid fever;exactmatch
+guillain barre syndrome;guillain barre syndrome;exactmatch
+anemia;anemia;exactmatch
+syphilis;syphilis;exactmatch
+altitude illness;altitude sickness;exactmatch
+personality disorders;personality;exactmatch
+hyperthyroidism;hyperthyroidism;exactmatch
+conduct disorder;conduct disorder;exactmatch
+dystonia;dystonia;exactmatch
+phobias;phobias;exactmatch
+leptospirosis;leptospirosis;exactmatch
+head lice;head lice;exactmatch
+craniosynostosis;craniosynostosis;exactmatch
+blood disorders;blood disorders;exactmatch
+internet addiction;internet;exactmatch
+amenorrhea;amenorrhea;exactmatch
+scoliosis;scoliosis;exactmatch
+organizations;associations;exactmatch
+microphthalmia and anophthalmia;microphthalmia;narrowmatch
+sarcoidosis;sarcoidosis;exactmatch
+flower essences;essences;exactmatch
+bladder cancer;bladder;exactmatch
+salmonellosis;salmonellosis;exactmatch
+tuberous sclerosis;tuberous sclerosis;exactmatch
+methicillin resistant staphylococcus aureus mrsa;mrsa;exactmatch
+lactose intolerance;lactose intolerance;exactmatch
+narcissistic personality disorder;narcissistic;exactmatch
+strep throat;streptococcal;broadmatch
+macular degeneration;macular degeneration;exactmatch
+sleep disorders;sleep disorders;exactmatch
+rubinstein taybi syndrome;rubinstein taybi syndrome;exactmatch
+osteoarthritis;osteoarthritis;exactmatch
+yeast infections;yeast;exactmatch
+atrial fibrillation;atrial fibrillation;exactmatch
+apitherapy;apitherapy;exactmatch
+pectus excavatum;pectus excavatum;exactmatch
+shyness;social anxiety;exactmatch
+tinnitus;tinnitus;exactmatch
+sensory integration dysfunction;sensory integration;exactmatch
+blepharospasm;blepharospasm;exactmatch
+heartburn;heartburn;exactmatch
+stomach and duodenal peptic ulcers;peptic ulcer;exactmatch
+pemphigus vulgaris;pemphigus;broadmatch
+long qt syndrome;long qt syndrome;exactmatch
+institutes;disease control and prevention;exactmatch
+colon cancer;colorectal;exactmatch
+intermittent explosive disorder;intermittent explosive disorder;exactmatch
+web directories;directories;broadmatch
+sinus infection;sinusitis;exactmatch
+post traumatic stress disorder ptsd;post traumatic stress;exactmatch
+down syndrome;down syndrome;exactmatch
+peripheral vascular disease pvd;peripheral vascular disease;exactmatch
+appendicitis;appendicitis;exactmatch
+prostate diseases;prostate;exactmatch
+obsessive compulsive disorder ocd;obsessive compulsive;exactmatch
+meningitis;meningitis;exactmatch
+cluster headaches;cluster;exactmatch
+neuroblastoma;neuroblastoma;exactmatch
+dental phobia;dentophobia;exactmatch
+colonic cleansing;fasting and cleansing;broadmatch
+amyloidosis;amyloidosis;exactmatch
+hypochondria;hypochondria;exactmatch
+gout;gout;exactmatch
+cystic fibrosis;cystic fibrosis;exactmatch
+gestational diabetes;gestational diabetes;exactmatch
+rubella;rubella;exactmatch
+hyperhidrosis;hyperhidrosis;exactmatch
+neutropenia;neutropenia;exactmatch
+multiple sclerosis ms;multiple sclerosis;exactmatch
+lewy body disease;lewy body;exactmatch
+gulf war syndrome;gulf war syndrome;exactmatch
+gemstone therapy;crystals;exactmatch
+cholesteatoma;cholesteatoma;exactmatch
+avoidant personality disorder;avoidant;exactmatch
+polycystic ovarian syndrome pcos;polycystic ovarian syndrome;exactmatch
+vitiligo;vitiligo;exactmatch
+panic disorder;panic;exactmatch
+diverticulitis;diverticulitis;exactmatch
+endocarditis;endocarditis;exactmatch
+lymphedema;lymphedema;exactmatch
+hidradenitis suppurativa;hidradenitis suppurativa;exactmatch
+epidermolysis bullosa;epidermolysis bullosa;exactmatch
+hemochromatosis;hemochromatosis;exactmatch
+myeloproliferative disorders;chronic myeloproliferative disorders;narrowmatch
+amebiasis;amebiasis;exactmatch
+applied kinesiology;kinesiology;broadmatch
+pancreatic cancer;pancreatic;exactmatch
+craniofacial anomalies;cleft lip and palate;exactmatch
+vulvodynia;vulvodynia;exactmatch
+menorrhagia;menorrhagia;exactmatch
+myeloproliferative disorders;myelodysplastic syndromes;narrowmatch
+mental health disorders;psychiatry;exactmatch
+congenital heart disease;congenital;exactmatch
+eye conditions;ophthalmology;exactmatch
+attention deficit disorder add;add and adhd;broadmatch
+mononucleosis;infectous mononucleosis;narrowmatch
+neurological disorders;neurological disorders;exactmatch
+rett syndrome;rett syndrome;exactmatch
+polarity therapy;polarity therapy;exactmatch
+essential tremor;movement disorders;broadmatch
+dyspraxia;dyspraxia apraxia;exactmatch
+chicken pox;chickenpox;exactmatch
+muscular dystrophy md;muscular dystrophies;exactmatch
+sciatica;sciatica;exactmatch
+dysphagia;dysphagia;exactmatch
+syringomyelia;syringomyelia;exactmatch
+spinal muscular atrophy sma;spinal muscular atrophy;exactmatch
+spina bifida;spina bifida;exactmatch
+gambling addiction;pathological gambling;exactmatch
+coronary artery disease;coronary artery disease;exactmatch
+thyroiditis;thyroiditis;exactmatch
+fanconi anemia;fanconi;exactmatch
+atresia;biliary atresia;narrowmatch
+thyroid cancer;thyroid;exactmatch
+rosacea;rosacea;exactmatch
+mitochondrial disease;mitochondrial;exactmatch
+bacterial vaginosis;infections;exactmatch
+chondromalacia patellae;chondromalacia;exactmatch
+arthritis;arthritis;exactmatch
+impulse control disorders;impulse control;exactmatch
+cri du chat syndrome;cri du chat syndrome;exactmatch
+hyperlexia;hyperlexia;exactmatch
+schistosomiasis;schistosomiasis;exactmatch
+postpartum depression;postpartum depression;exactmatch
+rheumatic fever;rheumatic fever;exactmatch
+diphtheria;diphtheria;exactmatch
+morning sickness;morning sickness;exactmatch
+mesothelioma;mesothelioma;exactmatch
+tularemia;tularemia;exactmatch
+diarrhea;diarrhea;exactmatch
+prostate cancer;prostate;exactmatch
+escherichia coli infection e coli infection;e coli;exactmatch
+dehydration;water balance;broadmatch
+gynecologic cancers;gynecologic;exactmatch
+niemann pick disease;niemann pick;exactmatch
+keratoconus;keratoconus;exactmatch
+hemophilia;hemophilia;exactmatch
+lymphoma;lymphoma;exactmatch
+krabbe disease;krabbe disease;exactmatch
+nephrogenic diabetes insipidus;diabetes insipidus;broadmatch
+anal cancer;anal;exactmatch
+encephalitis;encephalitis;exactmatch
+postural orthostatic tachycardia syndrome;postural orthostatic tachycardia syndrome;exactmatch
+spinal cord injury;spinal cord injury;exactmatch
+cholera;cholera;exactmatch
+rocky mountain spotted fever;rocky mountain spotted fever;exactmatch
+psoriasis;psoriasis;exactmatch
+organizations;organizations;exactmatch
+selective mutism;selective mutism;exactmatch
+mumps;mumps;exactmatch
+hypertension;hypertension;exactmatch
+heart diseases;heart disease;exactmatch
+bodywork;bodywork;exactmatch
+achilles tendinitis;tendonitis;broadmatch
+pyromania;pyromania;exactmatch
+shingles;herpes zoster;exactmatch
+lyme disease;lyme disease;exactmatch
+seasonal affective disorder;seasonal affective;exactmatch
+multiple chemical sensitivity mcs;multiple chemical sensitivity;exactmatch
+helicobacter pylori;helicobacter pylori;exactmatch
+hellerwork;hellerwork;exactmatch
+tourette syndrome;tourette syndrome;exactmatch
+chronic fatigue syndrome;chronic fatigue syndrome;exactmatch
+respiratory diseases;respiratory disorders;exactmatch
+fibromyalgia;fibromyalgia;exactmatch
+leukodystrophies;leukodystrophy;exactmatch
+osteogenesis imperfecta;osteogenesis imperfecta;exactmatch
+color therapy;color therapies;exactmatch
+scabies;scabies;exactmatch
+charcot marie tooth disease cmt;charcot marie tooth disease;exactmatch
+bulimia nervosa;bulimia;exactmatch
+cervical dysplasia;cervical dysplasia;exactmatch
+lung cancer;lung;exactmatch
+antiphospholipid syndrome aps;antiphospholipid syndrome;exactmatch
+anorexia nervosa;anorexia;broadmatch
+hypothermia;hypothermia;exactmatch
+ovarian cysts;ovarian cysts;exactmatch
+west nile virus infection;west nile virus;exactmatch
+norovirus infections;noroviruses;exactmatch
+glomerulonephritis;glomerulonephritis;exactmatch
+leishmaniasis;leishmaniasis;exactmatch
+albinism;albinism;exactmatch
+fetal alcohol syndrome fas;fetal alcohol syndrome;exactmatch
+sports injuries;wounds and injuries;broadmatch
+restless legs syndrome;restless legs syndrome;exactmatch
+body dysmorphic disorder;body dysmorphic;exactmatch
+ectopic pregnancy;ectopic pregnancy;exactmatch
+sexually transmitted diseases stds;sexually transmitted diseases;exactmatch
+feldenkrais method;feldenkrais;exactmatch
+bruxism;bruxism;exactmatch
+mitral valve prolapse;mitral valve prolapse syndrome;exactmatch
+narcolepsy;narcolepsy;exactmatch
+spasmodic torticollis;torticollis;broadmatch
+anosmia;anosmia;exactmatch
+toxoplasmosis;toxoplasmosis;exactmatch
+campylobacteriosis;campylobacteriosis;exactmatch
+pregnancy complications;complications;exactmatch
+skin cancer;skin;exactmatch
+bipolar disorder manic depression;bipolar disorder;exactmatch
+birthmarks;birthmarks;exactmatch
+canavan disease;canavan;exactmatch
+fragile x syndrome;fragile x syndrome;exactmatch
+sanfilippo syndrome;sanfilippo syndrome;exactmatch
+addiction and recovery;addictions;narrowmatch
+naturopathy;naturopathy;exactmatch
+chronic myelogenous leukemia;chronic myelogenous;exactmatch
+fifth disease;fifth disease;exactmatch
+allergic rhinitis hay fever;rhinitis;broadmatch
+osteoporosis;osteoporosis;exactmatch
+hair loss;hair loss;exactmatch
+hypoglycemia;hypoglycemia;exactmatch
+chronic obstructive pulmonary disease copd;chronic obstructive pulmonary disease;exactmatch
+reflex sympathetic dystrophy;reflex sympathetic dystrophy;exactmatch
+institutes;education;exactmatch
+insect bites and stings;bites and stings;broadmatch
+hypospadias;hypospadias;exactmatch
+gonorrhea;gonorrhea;exactmatch
+strabismus;squint;exactmatch
+bodywork;massage therapy and bodywork;broadmatch
+shy drager syndrome sds;shy drager syndrome;exactmatch
+reactive attachment disorder;attachment disorder;broadmatch
+premenstrual syndrome pms;premenstrual syndrome;exactmatch
+preeclampsia;preeclampsia;exactmatch
+maple syrup urine disease msud;maple syrup urine disease;exactmatch
+colic;infant colic;narrowmatch
+ovarian cancer;ovarian;exactmatch
+scarlet fever;scarlet fever;exactmatch
+therapeutic touch;therapeutic touch;exactmatch

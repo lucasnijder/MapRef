@@ -1,0 +1,51 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://www.semanticweb.org/the08eot/ontologies/2015/2/untitled-ontology-6#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/the08eot/ontologies/2015/2/untitled-ontology-6">
+    <rdfs:comment>aus dem WWW am 23/03/15: http://www.goodreads.com/genres</rdfs:comment>
+  </owl:Ontology>
+  <owl:Class rdf:about="http://goodreads.com/Christian"/>
+  <owl:Class rdf:about="http://goodreads.com/Poetry"/>
+  <owl:Class rdf:about="http://goodreads.com/Historical_Fiction"/>
+  <owl:Class rdf:about="http://goodreads.com/History"/>
+  <owl:Class rdf:about="http://goodreads.com/Chick_Lit"/>
+  <owl:Class rdf:about="http://goodreads.com/Sports"/>
+  <owl:Class rdf:about="http://goodreads.com/Travel"/>
+  <owl:Class rdf:about="http://goodreads.com/Humor_and_Comedy"/>
+  <owl:Class rdf:about="http://goodreads.com/Manga"/>
+  <owl:Class rdf:about="http://goodreads.com/Spirituality"/>
+  <owl:Class rdf:about="http://goodreads.com/Romance"/>
+  <owl:Class rdf:about="http://goodreads.com/Thriller"/>
+  <owl:Class rdf:about="http://goodreads.com/Mystery"/>
+  <owl:Class rdf:about="http://goodreads.com/Religion"/>
+  <owl:Class rdf:about="http://goodreads.com/Suspense"/>
+  <owl:Class rdf:about="http://goodreads.com/Psychology"/>
+  <owl:Class rdf:about="http://goodreads.com/Business"/>
+  <owl:Class rdf:about="http://goodreads.com/Young_Adult"/>
+  <owl:Class rdf:about="http://goodreads.com/Cookbooks"/>
+  <owl:Class rdf:about="http://goodreads.com/Classics"/>
+  <owl:Class rdf:about="http://goodreads.com/Gay_And_Lesbian"/>
+  <owl:Class rdf:about="http://goodreads.com/Science_Fiction"/>
+  <owl:Class rdf:about="http://goodreads.com/Fantasy"/>
+  <owl:Class rdf:about="http://goodreads.com/Non_Fiction"/>
+  <owl:Class rdf:about="http://goodreads.com/Graphic_Novels"/>
+  <owl:Class rdf:about="http://goodreads.com/Fiction"/>
+  <owl:Class rdf:about="http://goodreads.com/Crime"/>
+  <owl:Class rdf:about="http://goodreads.com/Memoir"/>
+  <owl:Class rdf:about="http://goodreads.com/Horror"/>
+  <owl:Class rdf:about="http://goodreads.com/Self_Help"/>
+  <owl:Class rdf:about="http://goodreads.com/Comics"/>
+  <owl:Class rdf:about="http://goodreads.com/Art"/>
+  <owl:Class rdf:about="http://goodreads.com/Music"/>
+  <owl:Class rdf:about="http://goodreads.com/Science"/>
+  <owl:Class rdf:about="http://goodreads.com/Paranormal"/>
+  <owl:Class rdf:about="http://goodreads.com/Philosophy"/>
+  <owl:Class rdf:about="http://goodreads.com/Biography"/>
+  <owl:Class rdf:about="http://goodreads.com/Ebooks"/>
+  <owl:Class rdf:about="http://goodreads.com/Childrens"/>
+  <owl:Class rdf:about="http://goodreads.com/Contemporary"/>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+</rdf:RDF>

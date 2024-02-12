@@ -1,0 +1,197 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns="http://www.semanticweb.org/ontologies/2014/8/Ontology1411125904016.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2014/8/Ontology1411125904016.owl"/>
+  <owl:Class rdf:about="http://amazonGroceries.com/Bread">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Baking_Chips"/>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Drink_Mixes">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Seasonal_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Licorice">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Water_Flavor_Enhancers">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewing_Gum">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coconut_Water">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Cereals_&amp;_Breakfast_Food">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Candy_Ingredients">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee/Ground_Coffee">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Fudge">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Water">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Meat,_Poultry_&amp;_Seafood">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewy_Candy">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/International_Food">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Sugar_Free_Candy_&amp;_Chocolate">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee_&amp;_Soda_Syrups">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Mushrooms_&amp;_Truffles">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Vegetables">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Milk_&amp;_Non-Dairy_Milks">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee/Flavored_Coffee">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Cookies_&amp;_Biscotti">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Wine">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Beer_&amp;_Wine_Making">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Food_Coupons">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Grains_&amp;_Pasta">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Condiments">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Fruit_Juices">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Oils">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Snack_Foods">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chocolate">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Buffalo,_Beef_&amp;_Turkey_Jerky">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Tea">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Soups_&amp;_Stews">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Baking_Mixes">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Trail_Mix">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Cheese">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Fondant_&amp;_Gum_Paste">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Jelly_Beans">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Desserts">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Fake_Food">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Sauces">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee/Coffee_Beans">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Coffee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Fruits">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Soft_Drinks">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Gummy_Candy">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Hard_Candy_&amp;_Lollipops">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chocolate_Covered_Fruit">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Nuts_&amp;_Seeds">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Honey_&amp;_Syrup_&amp;_Sweeteners">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Mints">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Baking_Chocolate">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonGroceries.com/Coffee/Coffee_Pods_&amp;_K-Cups">
+    <rdfs:subClassOf rdf:resource="http://amazonGroceries.com/Coffee"/>
+  </owl:Class>
+</rdf:RDF>

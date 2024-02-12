@@ -1,0 +1,83 @@
+head;tail;relation
+crime;crime and mystery;broadmatch
+science;environmental science and egineering and technology;narrowmatch
+biography;collected biographies;narrowmatch
+fiction;romance;narrowmatch
+manga;industrial or commcercial art and design;broadmatch
+mystery;crime and mystery;broadmatch
+science;chemistry;narrowmatch
+travel;travel and holiday;broadmatch
+classics;classical texts;exactmatch
+science;other technologies and applied sciences;narrowmatch
+childrens;children s and teenage reference material;narrowmatch
+historical fiction;historical fiction;exactmatch
+fiction;erotic fiction;narrowmatch
+science;astronomy and space and time;narrowmatch
+fantasy;fantasy;exactmatch
+art;architecture;narrowmatch
+young adult;children s and teenage general non fiction;narrowmatch
+childrens;children s and teenage general non fiction;narrowmatch
+art;history of art or art and design styles;narrowmatch
+biography;biography general;narrowmatch
+comics;industrial or commcercial art and design;broadmatch
+gay and lesbian;society and culture general issues;broadmatch
+science;biology and life sciences;narrowmatch
+young adult;children s and teenage poetry and anthologies and annuals;narrowmatch
+suspense;thriller and suspense;broadmatch
+business;business and management;broadmatch
+science;library and information sciences;narrowmatch
+poetry;poetry;exactmatch
+humor and comedy;humour;narrowmatch
+art;the arts general issues;narrowmatch
+science;science general issuses;narrowmatch
+religion;religion and beliefs;broadmatch
+childrens;picture books and activity books and early learning material;narrowmatch
+childrens;children s and teenage fiction and true stories;narrowmatch
+young adult;children s stationery and miscellaneous items;narrowmatch
+christian;religion and beliefs;broadmatch
+history;history;exactmatch
+fiction;horror and ghost stories;narrowmatch
+fiction;sagas;narrowmatch
+thriller;thriller and suspense;broadmatch
+fiction;fiction related items;narrowmatch
+fiction;religious and spiritual fiction;narrowmatch
+fiction;thriller and suspense;narrowmatch
+graphic novels;graphic novels;exactmatch
+fiction;historical fiction;narrowmatch
+cookbooks;cookery and food and drink etc;broadmatch
+science;mathematics;narrowmatch
+young adult;children s and teenage reference material;narrowmatch
+science;physics;narrowmatch
+fiction;modern and contemporary fiction;narrowmatch
+self help;selfhelp and personal development;broadmatch
+science fiction;science fiction;exactmatch
+fiction;science fiction;narrowmatch
+horror;horror and ghost stories;broadmatch
+fiction;graphic novels;narrowmatch
+childrens;children s and teenage poetry and anthologies and annuals;narrowmatch
+non fiction;non fiction prose;narrowmatch
+science;earth sciences;narrowmatch
+young adult;personal and social issues;narrowmatch
+fiction;fantasy;narrowmatch
+art;art treatments and subjects;narrowmatch
+fiction;adventure;narrowmatch
+spirituality;religion and beliefs;broadmatch
+art;theatre studies;narrowmatch
+art;photography and photographs;narrowmatch
+manga;graphic novels;narrowmatch
+music;music;exactmatch
+paranormal;mind and body and spirit;broadmatch
+romance;romance;exactmatch
+science;computer science;narrowmatch
+contemporary;modern and contemporary fiction;broadmatch
+young adult;children s and teenage fiction and true stories;narrowmatch
+philosophy;philosophy;exactmatch
+memoir;memoirs;exactmatch
+psychology;psychology;exactmatch
+fiction;crime and mystery;narrowmatch
+childrens;children s stationery and miscellaneous items;narrowmatch
+fiction;special features;narrowmatch
+fiction;myth and legend told as fiction;narrowmatch
+art;industrial or commcercial art and design;narrowmatch
+fiction;classic fiction;narrowmatch
+sports;sports and outdoor recreation;broadmatch

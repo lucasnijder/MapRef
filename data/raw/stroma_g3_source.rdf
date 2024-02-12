@@ -1,0 +1,1011 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <owl:Class rdf:about="http://OpenCalais.com/CauseOfDeath">
+    <rdfs:label>CauseOfDeath</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/USVicePresident">
+    <rdfs:label>USVicePresident</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TradeUnion">
+    <rdfs:label>TradeUnion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GovernmentalBody">
+    <rdfs:label>GovernmentalBody</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GermanState">
+    <rdfs:label>GermanState</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmScreeningVenue">
+    <rdfs:label>FilmScreeningVenue</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVActor">
+    <rdfs:label>TVActor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GameDesigner">
+    <rdfs:label>GameDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Baseball_Player">
+    <rdfs:label>Baseball Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Sports_Organization">
+    <rdfs:label>Sports Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/NaturalOrCulturalPreservationAgency">
+    <rdfs:label>NaturalOrCulturalPreservationAgency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookEditor">
+    <rdfs:label>ComicBookEditor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Organization">
+    <rdfs:label>Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Location">
+    <rdfs:label>Location</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TheatricalLyricist">
+    <rdfs:label>TheatricalLyricist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Dedicator">
+    <rdfs:label>Dedicator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RadioNetwork">
+    <rdfs:label>RadioNetwork</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Sports_Venue">
+    <rdfs:label>Sports Venue</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportsAssociation">
+    <rdfs:label>SportsAssociation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GamePublisher">
+    <rdfs:label>GamePublisher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ChivalricOrderMember">
+    <rdfs:label>ChivalricOrderMember</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Conductor">
+    <rdfs:label>Conductor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/LandscapeArchitect">
+    <rdfs:label>LandscapeArchitect</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/City">
+    <rdfs:label>City</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Singer">
+    <rdfs:label>Singer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OperaSinger">
+    <rdfs:label>OperaSinger</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmCrewmember">
+    <rdfs:label>FilmCrewmember</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/IndonesianCity">
+    <rdfs:label>IndonesianCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VideoGameDeveloper">
+    <rdfs:label>VideoGameDeveloper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MartialArt">
+    <rdfs:label>MartialArt</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmCharacter">
+    <rdfs:label>FilmCharacter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/State">
+    <rdfs:label>State</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVProducer">
+    <rdfs:label>TVProducer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Religion">
+    <rdfs:label>Religion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Educational_Institution">
+    <rdfs:label>Educational Institution</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketPlayer">
+    <rdfs:label>CricketPlayer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RocketManufacturer">
+    <rdfs:label>RocketManufacturer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Unitary_Authority">
+    <rdfs:label>Unitary Authority</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Basketball_Player">
+    <rdfs:label>Basketball Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SchoolFounder">
+    <rdfs:label>SchoolFounder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Academic">
+    <rdfs:label>Academic</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Lake">
+    <rdfs:label>Lake</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Bassist">
+    <rdfs:label>Bassist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Magazine">
+    <rdfs:label>Magazine</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BroadcastArtist">
+    <rdfs:label>BroadcastArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Legislature">
+    <rdfs:label>Legislature</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVDirector">
+    <rdfs:label>TVDirector</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MilitaryCommander">
+    <rdfs:label>MilitaryCommander</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Technology">
+    <rdfs:label>Technology</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Hospitality_Company">
+    <rdfs:label>Hospitality Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Politician">
+    <rdfs:label>Politician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Composer">
+    <rdfs:label>Composer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookPenciler">
+    <rdfs:label>ComicBookPenciler</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Golfer">
+    <rdfs:label>Golfer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Psychiatrist">
+    <rdfs:label>Psychiatrist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/University">
+    <rdfs:label>University</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportingEvent">
+    <rdfs:label>SportingEvent</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Nonprofit_Organization">
+    <rdfs:label>Nonprofit Organization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Mountaineer">
+    <rdfs:label>Mountaineer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TheaterActor">
+    <rdfs:label>TheaterActor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Hospital">
+    <rdfs:label>Hospital</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Religious_Building">
+    <rdfs:label>Religious Building</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RecordLabel">
+    <rdfs:label>RecordLabel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FootballOrganization">
+    <rdfs:label>FootballOrganization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CollegeUniversity">
+    <rdfs:label>CollegeUniversity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Congressional_Committee">
+    <rdfs:label>Congressional Committee</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Clothing_Company">
+    <rdfs:label>Clothing Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Nobel_Laureate">
+    <rdfs:label>Nobel Laureate</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Wrestler">
+    <rdfs:label>Wrestler</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SouthKoreanCity">
+    <rdfs:label>SouthKoreanCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Illustrator">
+    <rdfs:label>Illustrator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BasketballCoach">
+    <rdfs:label>BasketballCoach</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportsOfficial">
+    <rdfs:label>SportsOfficial</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/First_Lady">
+    <rdfs:label>First Lady</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Road">
+    <rdfs:label>Road</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Hotel">
+    <rdfs:label>Hotel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Sculptor">
+    <rdfs:label>Sculptor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Aerospace_Company">
+    <rdfs:label>Aerospace Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PoliticalParty">
+    <rdfs:label>PoliticalParty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Airline">
+    <rdfs:label>Airline</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Lyricist">
+    <rdfs:label>Lyricist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ItalianComune">
+    <rdfs:label>ItalianComune</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/NoblePerson">
+    <rdfs:label>NoblePerson</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TropicalCyclone">
+    <rdfs:label>TropicalCyclone</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GovernmentalJurisdiction">
+    <rdfs:label>GovernmentalJurisdiction</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Sport">
+    <rdfs:label>Sport</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HockeyPlayer">
+    <rdfs:label>HockeyPlayer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ArchitectureFirmPartner">
+    <rdfs:label>ArchitectureFirmPartner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Physician">
+    <rdfs:label>Physician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmDistributor">
+    <rdfs:label>FilmDistributor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PeriodicalPublisher">
+    <rdfs:label>PeriodicalPublisher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/USCounty">
+    <rdfs:label>USCounty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Country">
+    <rdfs:label>Country</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FictionalUniverseCreator">
+    <rdfs:label>FictionalUniverseCreator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/DietFollower">
+    <rdfs:label>DietFollower</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AwardPresentingOrganization">
+    <rdfs:label>AwardPresentingOrganization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AircraftManufacturer">
+    <rdfs:label>AircraftManufacturer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VideoGameActor">
+    <rdfs:label>VideoGameActor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BasketballConference">
+    <rdfs:label>BasketballConference</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Criminal">
+    <rdfs:label>Criminal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SoccerClub">
+    <rdfs:label>SoccerClub</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Vehicle">
+    <rdfs:label>Vehicle</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/School">
+    <rdfs:label>School</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AdministrativeDivision">
+    <rdfs:label>AdministrativeDivision</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportsLeagueAwardWinner">
+    <rdfs:label>SportsLeagueAwardWinner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Mountain">
+    <rdfs:label>Mountain</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OlympicEventCompetition">
+    <rdfs:label>OlympicEventCompetition</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TelevisionStation">
+    <rdfs:label>TelevisionStation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Blogger">
+    <rdfs:label>Blogger</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AutomobileCompany">
+    <rdfs:label>AutomobileCompany</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TheatricalComposer">
+    <rdfs:label>TheatricalComposer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VentureFundedCompany">
+    <rdfs:label>VentureFundedCompany</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Senator">
+    <rdfs:label>Senator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Orchestra">
+    <rdfs:label>Orchestra</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Island">
+    <rdfs:label>Island</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/IndianCity">
+    <rdfs:label>IndianCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FashionDesigner">
+    <rdfs:label>FashionDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Person">
+    <rdfs:label>Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SoftwareDeveloper">
+    <rdfs:label>SoftwareDeveloper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MusicalGroup">
+    <rdfs:label>MusicalGroup</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RecordProducer">
+    <rdfs:label>RecordProducer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FinancialMarketIndex">
+    <rdfs:label>FinancialMarketIndex</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Astronomer">
+    <rdfs:label>Astronomer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Public_Company">
+    <rdfs:label>Public Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Hockey_Player">
+    <rdfs:label>Hockey Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmMusicContributor">
+    <rdfs:label>FilmMusicContributor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Drug">
+    <rdfs:label>Drug</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OlympicBiddingCity">
+    <rdfs:label>OlympicBiddingCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Newspaper">
+    <rdfs:label>Newspaper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportsFacility">
+    <rdfs:label>SportsFacility</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HonoraryDegreeRecipient">
+    <rdfs:label>HonoraryDegreeRecipient</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TelevisionShow">
+    <rdfs:label>TelevisionShow</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComputerDesigner">
+    <rdfs:label>ComputerDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/U/S/Congressperson">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://OpenCalais.com/U/S"/>
+    </rdfs:subClassOf>
+    <rdfs:label>Congressperson</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OperatingSystem">
+    <rdfs:label>OperatingSystem</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Continent">
+    <rdfs:label>Continent</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MilitaryPost">
+    <rdfs:label>MilitaryPost</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookSeries">
+    <rdfs:label>ComicBookSeries</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Publishing_Company">
+    <rdfs:label>Publishing Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/County">
+    <rdfs:label>County</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BritishRoyalty">
+    <rdfs:label>BritishRoyalty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MilitaryUnit">
+    <rdfs:label>MilitaryUnit</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Government_Person">
+    <rdfs:label>Government Person</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Government_Agency">
+    <rdfs:label>Government Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FootballPlayer">
+    <rdfs:label>FootballPlayer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PoliticalAppointer">
+    <rdfs:label>PoliticalAppointer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/USTerritory">
+    <rdfs:label>USTerritory</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AircraftDesigner">
+    <rdfs:label>AircraftDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Band">
+    <rdfs:label>Band</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/IndonesianProvince">
+    <rdfs:label>IndonesianProvince</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VideoGameDesigner">
+    <rdfs:label>VideoGameDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/EngineeringFirm">
+    <rdfs:label>EngineeringFirm</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CityTown">
+    <rdfs:label>CityTown</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketStadium">
+    <rdfs:label>CricketStadium</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FoundingFigure">
+    <rdfs:label>FoundingFigure</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComputerScientist">
+    <rdfs:label>ComputerScientist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Collector">
+    <rdfs:label>Collector</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Palace">
+    <rdfs:label>Palace</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FieldTerminology">
+    <rdfs:label>FieldTerminology</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketCoach">
+    <rdfs:label>CricketCoach</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Electronics_Company">
+    <rdfs:label>Electronics Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/River">
+    <rdfs:label>River</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OperaCharacter">
+    <rdfs:label>OperaCharacter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FootballTeam">
+    <rdfs:label>FootballTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/StateOrCounty">
+    <rdfs:label>StateOrCounty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Cyclist">
+    <rdfs:label>Cyclist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Athlete">
+    <rdfs:label>Athlete</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVWriter">
+    <rdfs:label>TVWriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Songwriter">
+    <rdfs:label>Songwriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Soccer_Player">
+    <rdfs:label>Soccer Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VisualArtist">
+    <rdfs:label>VisualArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MexicanState">
+    <rdfs:label>MexicanState</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Governor">
+    <rdfs:label>Governor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/USState">
+    <rdfs:label>USState</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVPersonality">
+    <rdfs:label>TVPersonality</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Joint_Chiefs_of_Staff">
+    <rdfs:label>Joint Chiefs of Staff</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Football_Team">
+    <rdfs:label>Football Team</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookInker">
+    <rdfs:label>ComicBookInker</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/U">
+    <rdfs:label>U</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Amusement_Park">
+    <rdfs:label>Amusement Park</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MilitaryPerson">
+    <rdfs:label>MilitaryPerson</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Inventor">
+    <rdfs:label>Inventor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Director">
+    <rdfs:label>Director</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MusicalGroupMember">
+    <rdfs:label>MusicalGroupMember</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/DiseaseCause">
+    <rdfs:label>DiseaseCause</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ArmedForce">
+    <rdfs:label>ArmedForce</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TheaterDirector">
+    <rdfs:label>TheaterDirector</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FootballManager">
+    <rdfs:label>FootballManager</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/President">
+    <rdfs:label>President</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SpaceAgency">
+    <rdfs:label>SpaceAgency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketBowler">
+    <rdfs:label>CricketBowler</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MusicGroup">
+    <rdfs:label>MusicGroup</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Building">
+    <rdfs:label>Building</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MembershipOrganization">
+    <rdfs:label>MembershipOrganization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Model">
+    <rdfs:label>Model</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/NaturalDisaster">
+    <rdfs:label>NaturalDisaster</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Product">
+    <rdfs:label>Product</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Pharmaceutical_Company">
+    <rdfs:label>Pharmaceutical Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVEpisode">
+    <rdfs:label>TVEpisode</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Appointee">
+    <rdfs:label>Appointee</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProtocolProvider">
+    <rdfs:label>ProtocolProvider</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ChivalricOrderFounder">
+    <rdfs:label>ChivalricOrderFounder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Chef">
+    <rdfs:label>Chef</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MemberOfParliament">
+    <rdfs:label>MemberOfParliament</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVCharacter">
+    <rdfs:label>TVCharacter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Pianist">
+    <rdfs:label>Pianist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Field_Hockey_Player">
+    <rdfs:label>Field Hockey Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Appellation">
+    <rdfs:label>Appellation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HallOfFameInductee">
+    <rdfs:label>HallOfFameInductee</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BodyOfWater">
+    <rdfs:label>BodyOfWater</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Peninsula">
+    <rdfs:label>Peninsula</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Automobile">
+    <rdfs:label>Automobile</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TVNetwork">
+    <rdfs:label>TVNetwork</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HockeyCoach">
+    <rdfs:label>HockeyCoach</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Airport">
+    <rdfs:label>Airport</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmWriter">
+    <rdfs:label>FilmWriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Boxer">
+    <rdfs:label>Boxer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Writer">
+    <rdfs:label>Writer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Sports_Division">
+    <rdfs:label>Sports Division</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Celebrity">
+    <rdfs:label>Celebrity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Actor">
+    <rdfs:label>Actor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/U/S">
+    <rdfs:subClassOf rdf:resource="http://OpenCalais.com/U"/>
+    <rdfs:label>S</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ReligiousOrganization">
+    <rdfs:label>ReligiousOrganization</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProgrammingLanguageDeveloper">
+    <rdfs:label>ProgrammingLanguageDeveloper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicStripArtist">
+    <rdfs:label>ComicStripArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ShoppingCenter">
+    <rdfs:label>ShoppingCenter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Website">
+    <rdfs:label>Website</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ChristianBishop">
+    <rdfs:label>ChristianBishop</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OfficeHolder">
+    <rdfs:label>OfficeHolder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Film_Production_Company">
+    <rdfs:label>Film Production Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Engineer">
+    <rdfs:label>Engineer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Guitarist">
+    <rdfs:label>Guitarist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MedicalSpecialty">
+    <rdfs:label>MedicalSpecialty</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Defense_Company">
+    <rdfs:label>Defense Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Monarch">
+    <rdfs:label>Monarch</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Publication">
+    <rdfs:label>Publication</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CompanyFounder">
+    <rdfs:label>CompanyFounder</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/BasketballPlayer">
+    <rdfs:label>BasketballPlayer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Australian_Rules_Footballer">
+    <rdfs:label>Australian Rules Footballer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Skyscraper">
+    <rdfs:label>Skyscraper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RadioStation">
+    <rdfs:label>RadioStation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/WelshPrincipalArea">
+    <rdfs:label>WelshPrincipalArea</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HealthCondition">
+    <rdfs:label>HealthCondition</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/HockeyTeam">
+    <rdfs:label>HockeyTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ChivalricOrderOfficer">
+    <rdfs:label>ChivalricOrderOfficer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PlaceWithNeighborhoods">
+    <rdfs:label>PlaceWithNeighborhoods</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Race_Car_Driver">
+    <rdfs:label>Race Car Driver</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Dedicatee">
+    <rdfs:label>Dedicatee</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TransportOperator">
+    <rdfs:label>TransportOperator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Retailer">
+    <rdfs:label>Retailer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Chancellor">
+    <rdfs:label>Chancellor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Neighborhood">
+    <rdfs:label>Neighborhood</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MusicalArtist">
+    <rdfs:label>MusicalArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Hobbyist">
+    <rdfs:label>Hobbyist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PoliticalDistrict">
+    <rdfs:label>PoliticalDistrict</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Journalist">
+    <rdfs:label>Journalist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketAdministrativeBody">
+    <rdfs:label>CricketAdministrativeBody</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Astronaut">
+    <rdfs:label>Astronaut</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Screenwriter">
+    <rdfs:label>Screenwriter</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ItalianRegion">
+    <rdfs:label>ItalianRegion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Region">
+    <rdfs:label>Region</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/DiseaseOrMedicalCondition">
+    <rdfs:label>DiseaseOrMedicalCondition</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Appointer">
+    <rdfs:label>Appointer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CompanyAdvisor">
+    <rdfs:label>CompanyAdvisor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/TouristAttraction">
+    <rdfs:label>TouristAttraction</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MartialArtist">
+    <rdfs:label>MartialArtist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/House">
+    <rdfs:label>House</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MusicalInstrumentCompany">
+    <rdfs:label>MusicalInstrumentCompany</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/JapanesePrefecture">
+    <rdfs:label>JapanesePrefecture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OlympicEvent">
+    <rdfs:label>OlympicEvent</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ScottishCouncilArea">
+    <rdfs:label>ScottishCouncilArea</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Surgeon">
+    <rdfs:label>Surgeon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Musician">
+    <rdfs:label>Musician</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Non-ProfitOrganisation">
+    <rdfs:label>Non-ProfitOrganisation</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GeographicFeature">
+    <rdfs:label>GeographicFeature</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Architect">
+    <rdfs:label>Architect</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookCreator">
+    <rdfs:label>ComicBookCreator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProfessionalSportsTeam">
+    <rdfs:label>ProfessionalSportsTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Music_Production_Company">
+    <rdfs:label>Music Production Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/WineRegion">
+    <rdfs:label>WineRegion</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AcademicInstitution">
+    <rdfs:label>AcademicInstitution</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Media_Company">
+    <rdfs:label>Media Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Football_Player">
+    <rdfs:label>Football Player</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Structure">
+    <rdfs:label>Structure</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VideoGameEngineDeveloper">
+    <rdfs:label>VideoGameEngineDeveloper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OperaHouse">
+    <rdfs:label>OperaHouse</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Scientist">
+    <rdfs:label>Scientist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Spiritual_Leader">
+    <rdfs:label>Spiritual Leader</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Adherents">
+    <rdfs:label>Adherents</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/UKOverseasTerritory">
+    <rdfs:label>UKOverseasTerritory</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Steel_Company">
+    <rdfs:label>Steel Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/JapaneseDesignatedCity">
+    <rdfs:label>JapaneseDesignatedCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/MountainRange">
+    <rdfs:label>MountainRange</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OlympicAthlete">
+    <rdfs:label>OlympicAthlete</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Advertising_Agency">
+    <rdfs:label>Advertising Agency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RecordingEngineer">
+    <rdfs:label>RecordingEngineer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OlympicHostCity">
+    <rdfs:label>OlympicHostCity</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProcessorManufacturer">
+    <rdfs:label>ProcessorManufacturer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/USPresident">
+    <rdfs:label>USPresident</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmCompany">
+    <rdfs:label>FilmCompany</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/InfectiousDisease">
+    <rdfs:label>InfectiousDisease</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Comedian">
+    <rdfs:label>Comedian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AirportOperator">
+    <rdfs:label>AirportOperator</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/AwardNominee">
+    <rdfs:label>AwardNominee</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/DutchMunicipality">
+    <rdfs:label>DutchMunicipality</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GovernmentAgency">
+    <rdfs:label>GovernmentAgency</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/PeriodicalEditor">
+    <rdfs:label>PeriodicalEditor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Stadium">
+    <rdfs:label>Stadium</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/EntertainmentAward">
+    <rdfs:label>EntertainmentAward</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProductionCompany">
+    <rdfs:label>ProductionCompany</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmActor">
+    <rdfs:label>FilmActor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SpacecraftManufacturer">
+    <rdfs:label>SpacecraftManufacturer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmProducer">
+    <rdfs:label>FilmProducer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Philosopher">
+    <rdfs:label>Philosopher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/EnglishMetropolitanBorough">
+    <rdfs:label>EnglishMetropolitanBorough</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Museum">
+    <rdfs:label>Museum</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/OperatingSystemDeveloper">
+    <rdfs:label>OperatingSystemDeveloper</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/FilmTheorist">
+    <rdfs:label>FilmTheorist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/GermanUrbanDistrict">
+    <rdfs:label>GermanUrbanDistrict</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Company">
+    <rdfs:label>Company</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ProgrammingLanguageDesigner">
+    <rdfs:label>ProgrammingLanguageDesigner</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Television_Network">
+    <rdfs:label>Television Network</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookColorist">
+    <rdfs:label>ComicBookColorist</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Saint">
+    <rdfs:label>Saint</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Movie">
+    <rdfs:label>Movie</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Film">
+    <rdfs:label>Film</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/SportsTeam">
+    <rdfs:label>SportsTeam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/VideoGamePublisher">
+    <rdfs:label>VideoGamePublisher</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/DisasterSurvivor">
+    <rdfs:label>DisasterSurvivor</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Bridge">
+    <rdfs:label>Bridge</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/Facility">
+    <rdfs:label>Facility</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/CricketUmpire">
+    <rdfs:label>CricketUmpire</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/RugbyPlayer">
+    <rdfs:label>RugbyPlayer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://OpenCalais.com/ComicBookWriter">
+    <rdfs:label>ComicBookWriter</rdfs:label>
+  </owl:Class>
+</rdf:RDF>

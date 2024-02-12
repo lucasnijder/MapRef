@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Crime"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Crime_and_mystery"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Environmental_science_and_egineering_and_technology"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Biography"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories/Collected_biographies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Romance"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Manga"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Industrial_OR_commcercial_art_and_design"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Mystery"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Crime_and_mystery"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Chemistry"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Travel"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Travel_and_holiday"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Classics"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies/Classical_texts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Other_technologies_and_applied_sciences"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_reference_material"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Historical_Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Historical_fiction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Erotic_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Astronomy_and_space_and_time"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fantasy"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Fantasy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Architecture"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_general_non_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_general_non_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/History_of_art_OR_art_and_design_styles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Biography"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories/Biography_general"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Comics"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Industrial_OR_commcercial_art_and_design"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Gay_And_Lesbian"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences/Society_and_culture_general_issues"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Biology_and_life_sciences"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_poetry_and_anthologies_and_annuals"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Suspense"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Thriller_and_suspense"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Business"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management/Business_and_management"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Library_and_information_sciences"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Poetry"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies/Poetry"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Humor_and_Comedy"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Humour"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/The_arts_general_issues"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Science_general_issuses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Religion"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Humanities/Religion_and_beliefs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Picture_books_and_activity_books_and_early_learning_material"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_fiction_and_true_stories"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_stationery_and_miscellaneous_items"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Christian"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Humanities/Religion_and_beliefs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/History"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Humanities/History"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Horror_and_ghost_stories"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Sagas"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Thriller"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Thriller_and_suspense"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Fiction_related_items"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Religious_and_spiritual_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Thriller_and_suspense"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Graphic_Novels"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Graphic_novels"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Historical_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Cookbooks"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Cookery_and_food_and_drink_etc"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Mathematics"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_reference_material"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science/Physics"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Modern_and_contemporary_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Self_Help"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Health_and_personal_development/Selfhelp_and_personal_development"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science_Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Science_fiction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Science_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Horror"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Horror_and_ghost_stories"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Graphic_novels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_poetry_and_anthologies_and_annuals"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Non_Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies/non_fiction_Prose"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning/Earth_sciences"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Personal_and_social_issues"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Fantasy"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Art_treatments_and_subjects"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Adventure"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Spirituality"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Humanities/Religion_and_beliefs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Theatre_studies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Photography_and_photographs"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Manga"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Graphic_novels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Music"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Music"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Paranormal"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Health_and_personal_development/Mind_and_Body_and_Spirit"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Romance"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Romance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Science"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_science"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Contemporary"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Modern_and_contemporary_fiction"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Young_Adult"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_fiction_and_true_stories"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Philosophy"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Humanities/Philosophy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Memoir"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories/Memoirs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Psychology"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences/Psychology"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Crime_and_mystery"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Childrens"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_stationery_and_miscellaneous_items"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Special_features"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Myth_and_legend_told_as_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Art"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/The_arts/Industrial_OR_commcercial_art_and_design"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Fiction"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items/Classic_fiction"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://goodreads.com/Sports"/>
+      <entity2 rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Sports_and_outdoor_recreation"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

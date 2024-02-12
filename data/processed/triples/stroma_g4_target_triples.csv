@@ -1,0 +1,53 @@
+head;tail;relation
+screens & room dividers;furniture;broadmatch
+furniture;furniture;broadmatch
+furniture;owl#thing;broadmatch
+beds & mattresses;furniture;broadmatch
+trunks & chests;furniture;broadmatch
+sideboards & buffets;furniture;broadmatch
+sofas, loveseats & chaises;furniture;broadmatch
+chairs;furniture;broadmatch
+vanities & makeup tables;furniture;broadmatch
+futons, frames & covers;furniture;broadmatch
+desks & home office furniture;furniture;broadmatch
+benches & stools;furniture;broadmatch
+entertainment units, tv stands;furniture;broadmatch
+nightstands;furniture;broadmatch
+armoires & wardrobes;furniture;broadmatch
+ottomans, footstools & poufs;furniture;broadmatch
+cabinets & cupboards;furniture;broadmatch
+bean bags & inflatables;furniture;broadmatch
+slipcovers;furniture;broadmatch
+dressers & chests of drawers;furniture;broadmatch
+bookcases;furniture;broadmatch
+bedroom sets;furniture;broadmatch
+tables;furniture;broadmatch
+cd & video racks;furniture;broadmatch
+dining sets;furniture;broadmatch
+bar stools;furniture;broadmatch
+furniture;screens & room dividers;narrowmatch
+furniture;furniture;narrowmatch
+owl#thing;furniture;narrowmatch
+furniture;beds & mattresses;narrowmatch
+furniture;trunks & chests;narrowmatch
+furniture;sideboards & buffets;narrowmatch
+furniture;sofas, loveseats & chaises;narrowmatch
+furniture;chairs;narrowmatch
+furniture;vanities & makeup tables;narrowmatch
+furniture;futons, frames & covers;narrowmatch
+furniture;desks & home office furniture;narrowmatch
+furniture;benches & stools;narrowmatch
+furniture;entertainment units, tv stands;narrowmatch
+furniture;nightstands;narrowmatch
+furniture;armoires & wardrobes;narrowmatch
+furniture;ottomans, footstools & poufs;narrowmatch
+furniture;cabinets & cupboards;narrowmatch
+furniture;bean bags & inflatables;narrowmatch
+furniture;slipcovers;narrowmatch
+furniture;dressers & chests of drawers;narrowmatch
+furniture;bookcases;narrowmatch
+furniture;bedroom sets;narrowmatch
+furniture;tables;narrowmatch
+furniture;cd & video racks;narrowmatch
+furniture;dining sets;narrowmatch
+furniture;bar stools;narrowmatch

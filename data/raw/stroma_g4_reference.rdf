@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Storage_Ottomans"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Ottomans,_Footstools_&amp;_Poufs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets/Wall-Mounted_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Specialty_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Step_Stools"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Ottomans,_Footstools_&amp;_Poufs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Dressers_&amp;_Chests_of_Drawers"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Dressers_&amp;_Chests_of_Drawers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Card_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Vertical_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Hampers"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Recliners"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Sofas,_Loveseats_&amp;_Chaises"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Coat_Racks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Desk_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Bedroom_Armoires"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Memory_Foam_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Breakfast_Trays"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Panel_Screens"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Screens_&amp;_Room_Dividers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chaise_Lounges"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Sofas,_Loveseats_&amp;_Chaises"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Armchairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/End_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets/Freestanding_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Beds_&amp;_Bed_Frames"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Media_Storage"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Armoires,_Chests_&amp;_Dressers"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Gliders,_Ottomans_&amp;_Rocking_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Toddler_Beds"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Bean_Bags"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bean_Bags_&amp;_Inflatables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Storage_Benches"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Sofas_&amp;_Couches"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Sofas,_Loveseats_&amp;_Chaises"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Plush_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/Coffee_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Travel_Beds"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons/Futon_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Stacking_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Step_Stools"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons/Futon_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Armchairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Folding_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Furniture_Sets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Drafting_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Desks_&amp;_Home_Office_Furniture"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Nightstands"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Nightstands"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Nesting_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Pillowtop_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Storage_Chests"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Trunks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Matresses_&amp;_Box_Springs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons/Futon_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Toy_Chests"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Bookcases,_Cabinets_&amp;_Shelves"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Oversized_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Lateral_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Folding_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Inner_Spring_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Desks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Desks_&amp;_Home_Office_Furniture"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Changing_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Vanities_&amp;_Vanity_Benches"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Vanities_&amp;_Makeup_Tables"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Bookcases"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bookcases"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Panel_Screens"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Screens_&amp;_Room_Dividers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Headboards"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bedroom_Sets"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Bar_Furniture/Bars_&amp;_Wine_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/China_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Mobile_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Bookcases,_Cabinets_&amp;_Shelves"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bookcases"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Medicine_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Stools"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Footboards"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bedroom_Sets"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Benches"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Cradles"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Stools"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Bar_Furniture/Barstools"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bar_Stools"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Bean_Bags"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bean_Bags_&amp;_Inflatables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Bookcases"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bookcases"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Chest_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Foam_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Rocking_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Gliders,_Ottomans_&amp;_Rocking_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Ottomans,_Footstools_&amp;_Poufs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Storage_Baskets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Video_Game_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Moses_Baskets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Curio_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Ottomans"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Ottomans,_Footstools_&amp;_Poufs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Furniture_Sets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Desks_&amp;_Home_Office_Furniture"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Game_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Armoires"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Flat_File_Cabinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Cradle_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Hypoallergenic_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Chests_&amp;_Dressers"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Dressers_&amp;_Chests_of_Drawers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Vanities"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Vanities_&amp;_Makeup_Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks/Standing_Baker&apos;s_Racks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Audio-Video_Shelving"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/CD_&amp;_Video_Racks"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Crib_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Portable_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Portable_Crib_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Firm_Mattresses"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Quilt_Stands"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bedroom_Sets"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Bassinets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Dining_Room_Sets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Dining_Sets"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Folding_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Sofas"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Sofas,_Loveseats_&amp;_Chaises"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons/Futon_Frames"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons/Futon_Frames"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Entertainment_Armoires"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Speaker_Stands"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Entertainment_Units,_TV_Stands"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Cribs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Bedroom_Sets"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Bedroom_Sets"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Directors_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks/Corner_Baker&apos;s_Racks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Buffets,_Credenzas_&amp;_Sideboards"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Sideboards_&amp;_Buffets"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs/Adjustable_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Television_Stands_&amp;_Entertainment_Centers"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Entertainment_Units,_TV_Stands"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desks"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Desks_&amp;_Home_Office_Furniture"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Computer_Armoires_&amp;_Hutches"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Rocking_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs/Swivel_Chairs"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Chairs"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Nightstands"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Nightstands"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/Pedestal_Tables"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/Tables"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Standing_Shelf_Units"/>
+      <entity2 rdf:resource="http://ebayFurniture.com/Furniture/CD_&amp;_Video_Racks"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

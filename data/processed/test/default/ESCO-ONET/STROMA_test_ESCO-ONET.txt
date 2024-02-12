@@ -1,0 +1,2778 @@
+chief executive officer :: chief executives
+chief operating officer :: chief executives
+airport chief executive :: chief executives
+social entrepreneur :: chief executives
+corporate social responsibility manager :: chief sustainability officers
+operations manager :: general and operations managers
+library manager :: general and operations managers
+business manager :: general and operations managers
+chief operating officer :: general and operations managers
+airport director :: general and operations managers
+strategic planning manager :: general and operations managers
+textile operations manager :: general and operations managers
+tourism product manager :: general and operations managers
+wood factory manager :: general and operations managers
+senator :: legislators
+member of parliament :: legislators
+city councillor :: legislators
+mayor :: legislators
+governor :: legislators
+promotion manager :: advertising and promotions managers
+marketing manager :: marketing managers
+clothing development manager :: marketing managers
+membership manager :: marketing managers
+sales manager :: sales managers
+trade regional manager :: sales managers
+auction house manager :: sales managers
+category manager :: sales managers
+motor vehicle aftersales manager :: sales managers
+movie distributor :: sales managers
+public relations manager :: public relations managers
+destination manager :: public relations managers
+fundraising manager :: fundraising managers
+defence administration officer :: administrative services managers
+membership manager :: administrative services managers
+manufacturing facility manager :: facilities managers
+facilities manager :: facilities managers
+hospitality establishment security officer :: security managers
+security manager :: security managers
+airside safety manager :: security managers
+ict security manager :: computer and information systems managers
+aviation data communications manager :: computer and information systems managers
+bank treasurer :: financial managers
+bank manager :: financial managers
+banking products manager :: financial managers
+brokerage firm director :: financial managers
+pension scheme manager :: financial managers
+financial manager :: treasurers and controllers
+public finance accountant :: treasurers and controllers
+bank treasurer :: treasurers and controllers
+corporate treasurer :: treasurers and controllers
+investment fund manager :: investment fund managers
+venture capitalist :: investment fund managers
+chemical plant manager :: industrial production managers
+leather production manager :: industrial production managers
+leather goods production manager :: industrial production managers
+metal production manager :: industrial production managers
+production supervisor :: industrial production managers
+manufacturing manager :: industrial production managers
+industrial production manager :: industrial production managers
+footwear product development manager :: industrial production managers
+footwear production manager :: industrial production managers
+foundry manager :: industrial production managers
+leather finishing operations manager :: industrial production managers
+leather goods product development manager :: industrial production managers
+metallurgical manager :: industrial production managers
+packaging production manager :: industrial production managers
+leather goods quality manager :: quality control systems managers
+textile quality manager :: quality control systems managers
+industrial quality manager :: quality control systems managers
+footwear quality manager :: quality control systems managers
+textile process controller :: quality control systems managers
+power plant manager :: geothermal production managers
+chemical plant manager :: biofuels production managers
+power plant manager :: biomass power plant managers
+power plant manager :: hydroelectric production managers
+purchasing manager :: purchasing managers
+leather raw materials purchasing manager :: purchasing managers
+textile sourcing merchandiser :: purchasing managers
+road operations manager :: transportation, storage, and distribution managers
+machinery, industrial equipment, ships and aircraft distribution manager :: transportation, storage, and distribution managers
+intermodal logistics manager :: transportation, storage, and distribution managers
+logistics and distribution manager :: transportation, storage, and distribution managers
+road transport division manager :: transportation, storage, and distribution managers
+rail logistics coordinator :: transportation, storage, and distribution managers
+warehouse manager :: transportation, storage, and distribution managers
+waste and scrap distribution manager :: transportation, storage, and distribution managers
+distribution manager :: transportation, storage, and distribution managers
+agricultural machinery and equipment distribution manager :: transportation, storage, and distribution managers
+agricultural raw materials, seeds and animal feeds distribution manager :: transportation, storage, and distribution managers
+beverages distribution manager :: transportation, storage, and distribution managers
+chemical products distribution manager :: transportation, storage, and distribution managers
+china and glassware distribution manager :: transportation, storage, and distribution managers
+clothing and footwear distribution manager :: transportation, storage, and distribution managers
+coffee, tea, cocoa and spices distribution manager :: transportation, storage, and distribution managers
+computers, computer peripheral equipment and software distribution manager :: transportation, storage, and distribution managers
+dairy products and edible oils distribution manager :: transportation, storage, and distribution managers
+electrical household appliances distribution manager :: transportation, storage, and distribution managers
+electronic and telecommunications equipment and parts distribution manager :: transportation, storage, and distribution managers
+finished leather warehouse manager :: transportation, storage, and distribution managers
+fish, crustaceans and molluscs distribution manager :: transportation, storage, and distribution managers
+flowers and plants distribution manager :: transportation, storage, and distribution managers
+fruit and vegetables distribution manager :: transportation, storage, and distribution managers
+furniture, carpets and lighting equipment distribution manager :: transportation, storage, and distribution managers
+hides, skins and leather products distribution manager :: transportation, storage, and distribution managers
+household goods distribution manager :: transportation, storage, and distribution managers
+import export manager :: transportation, storage, and distribution managers
+import export manager in agricultural machinery and equipment :: transportation, storage, and distribution managers
+import export manager in agricultural raw materials, seeds and animal feeds :: transportation, storage, and distribution managers
+import export manager in beverages :: transportation, storage, and distribution managers
+import export manager in chemical products :: transportation, storage, and distribution managers
+import export manager in china and other glassware :: transportation, storage, and distribution managers
+import export manager in clothing and footwear :: transportation, storage, and distribution managers
+import export manager in coffee, tea, cocoa and spices :: transportation, storage, and distribution managers
+import export manager in computers, computer peripheral equipment and software :: transportation, storage, and distribution managers
+import export manager in dairy products and edible oils :: transportation, storage, and distribution managers
+import export manager in electrical household appliances :: transportation, storage, and distribution managers
+import export manager in electronic and telecommunications equipment and parts :: transportation, storage, and distribution managers
+import export manager in fish, crustaceans and molluscs :: transportation, storage, and distribution managers
+import export manager in flowers and plants :: transportation, storage, and distribution managers
+import export manager in fruit and vegetables :: transportation, storage, and distribution managers
+import export manager in furniture, carpets and lighting equipment :: transportation, storage, and distribution managers
+import export manager in hardware, plumbing and heating equipment and supplies :: transportation, storage, and distribution managers
+import export manager in hides, skins and leather products :: transportation, storage, and distribution managers
+import export manager in household goods :: transportation, storage, and distribution managers
+import export manager in live animals :: transportation, storage, and distribution managers
+import export manager in machine tools :: transportation, storage, and distribution managers
+import export manager in machinery, industrial equipment, ships and aircraft :: transportation, storage, and distribution managers
+import export manager in meat and meat products :: transportation, storage, and distribution managers
+import export manager in metals and metal ores :: transportation, storage, and distribution managers
+import export manager in mining, construction and civil engineering machinery :: transportation, storage, and distribution managers
+import export manager in office furniture :: transportation, storage, and distribution managers
+import export manager in office machinery and equipment :: transportation, storage, and distribution managers
+import export manager in perfume and cosmetics :: transportation, storage, and distribution managers
+import export manager in pharmaceutical goods :: transportation, storage, and distribution managers
+import export manager in sugar, chocolate and sugar confectionery :: transportation, storage, and distribution managers
+import export manager in textile industry machinery :: transportation, storage, and distribution managers
+import export manager in textiles and textile semi-finished and raw materials :: transportation, storage, and distribution managers
+import export manager in tobacco products :: transportation, storage, and distribution managers
+import export manager in waste and scrap :: transportation, storage, and distribution managers
+import export manager in watches and jewellery :: transportation, storage, and distribution managers
+import export manager in wood and construction materials :: transportation, storage, and distribution managers
+inland water transport general manager :: transportation, storage, and distribution managers
+leather goods warehouse operator :: transportation, storage, and distribution managers
+live animals distribution manager :: transportation, storage, and distribution managers
+maritime water transport general manager :: transportation, storage, and distribution managers
+meat and meat products distribution manager :: transportation, storage, and distribution managers
+metals and metal ores distribution manager :: transportation, storage, and distribution managers
+mining, construction and civil engineering machinery distribution manager :: transportation, storage, and distribution managers
+perfume and cosmetics distribution manager :: transportation, storage, and distribution managers
+pharmaceutical goods distribution manager :: transportation, storage, and distribution managers
+pipelineãâ superintendent :: transportation, storage, and distribution managers
+port coordinator :: transportation, storage, and distribution managers
+rail operations manager :: transportation, storage, and distribution managers
+specialised goods distribution manager :: transportation, storage, and distribution managers
+sugar, chocolate and sugar confectionery distribution manager :: transportation, storage, and distribution managers
+textile industry machinery distribution manager :: transportation, storage, and distribution managers
+textiles, textile semi-finished and raw materials distribution manager :: transportation, storage, and distribution managers
+tobacco products distribution manager :: transportation, storage, and distribution managers
+watches and jewellery distribution manager :: transportation, storage, and distribution managers
+wood and construction materials distribution manager :: transportation, storage, and distribution managers
+supply chain manager :: supply chain managers
+human resources manager :: compensation and benefits managers
+resource manager :: human resources managers
+human resources manager :: human resources managers
+corporate training manager :: training and development managers
+horticulture production manager :: farmers, ranchers, and other agricultural managers
+vineyard manager :: farmers, ranchers, and other agricultural managers
+crop production manager :: farmers, ranchers, and other agricultural managers
+farm manager :: farmers, ranchers, and other agricultural managers
+aquaculture hatchery manager :: farmers, ranchers, and other agricultural managers
+aquaculture mooring manager :: farmers, ranchers, and other agricultural managers
+aquaculture production manager :: farmers, ranchers, and other agricultural managers
+aquaculture recirculation manager :: farmers, ranchers, and other agricultural managers
+construction manager :: construction managers
+child day care centre manager :: education and childcare administrators, preschool and daycare
+headteacher :: education administrators, kindergarten through secondary
+primary school head teacher :: education administrators, kindergarten through secondary
+secondary school head teacher :: education administrators, kindergarten through secondary
+deputy head teacher :: education administrators, kindergarten through secondary
+nursery school head teacher :: education administrators, kindergarten through secondary
+head of higher education institutions :: education administrators, postsecondary
+university department head :: education administrators, postsecondary
+arts education officer :: education administrators, all other
+project manager :: architectural and engineering managers
+aviation communications and frequency coordination manager :: architectural and engineering managers
+aviation surveillance and code coordination manager :: architectural and engineering managers
+oil and gas production manager :: architectural and engineering managers
+product development manager :: biofuels/biodiesel technology and product development managers
+restaurant manager :: food service managers
+head sommelier :: food service managers
+gambling manager :: gambling managers
+recreational facilities manager :: gambling managers
+cultural facilities manager :: entertainment and recreation managers, except gambling
+sport facility manager :: entertainment and recreation managers, except gambling
+cultural centre director :: entertainment and recreation managers, except gambling
+recreational facilities manager :: entertainment and recreation managers, except gambling
+recreation policy officer :: entertainment and recreation managers, except gambling
+camping ground manager :: lodging managers
+rooms division manager :: lodging managers
+accommodation manager :: lodging managers
+bed and breakfast operator :: lodging managers
+healthcare institution manager :: medical and health services managers
+elderly home manager :: medical and health services managers
+research manager :: natural sciences managers
+natural resources consultant :: natural sciences managers
+research and development manager :: natural sciences managers
+research manager :: clinical research coordinators
+real estate leasing manager :: property, real estate, and community association managers
+property acquisitions manager :: property, real estate, and community association managers
+real estate manager :: property, real estate, and community association managers
+rental manager :: property, real estate, and community association managers
+public housing manager :: social and community service managers
+social work supervisor :: social and community service managers
+social security administrator :: social and community service managers
+youth centre manager :: social and community service managers
+social services manager :: social and community service managers
+cultural policy officer :: social and community service managers
+enterprise development worker :: social and community service managers
+humanitarian advisor :: social and community service managers
+youth programme director :: social and community service managers
+emergency response coordinator :: emergency management directors
+fire commissioner :: emergency management directors
+rescue centre manager :: emergency management directors
+chief fire officer :: emergency management directors
+sport facility manager :: fitness and wellness coordinators
+spa manager :: fitness and wellness coordinators
+spa manager :: spa managers
+ambassador :: managers, all other
+animal facility manager :: managers, all other
+clothing development manager :: managers, all other
+clothing operations manager :: managers, all other
+consul :: managers, all other
+contract manager :: managers, all other
+department manager :: managers, all other
+elderly home manager :: managers, all other
+food production manager :: managers, all other
+forecast manager :: managers, all other
+games development manager :: managers, all other
+ict auditor manager :: managers, all other
+ict business development manager :: managers, all other
+ict vendor relationship manager :: managers, all other
+mine manager :: managers, all other
+mine production manager :: managers, all other
+product and services manager :: managers, all other
+product manager :: managers, all other
+publishing rights manager :: managers, all other
+quarry manager :: managers, all other
+railway station manager :: managers, all other
+retail entrepreneur :: managers, all other
+regulatory affairs manager :: regulatory affairs managers
+director of compliance and information security in gambling :: compliance managers
+pipeline compliance coordinator :: compliance managers
+power plant manager :: wind energy operations managers
+power plant manager :: wind energy development managers
+talent agent :: agents and business managers of artists, performers, and athletes
+green coffee buyer :: buyers and purchasing agents, farm products
+purchaser :: buyers and purchasing agents, farm products
+purchasing manager :: buyers and purchasing agents, farm products
+purchaser :: purchasing agents, except wholesale, retail, and farm products
+ict buyer :: purchasing agents, except wholesale, retail, and farm products
+set buyer :: purchasing agents, except wholesale, retail, and farm products
+loss adjuster :: claims adjusters, examiners, and investigators
+loss adjuster :: insurance appraisers, auto damage
+licensing officer :: compliance officers
+environmental health inspector :: environmental compliance inspectors
+building inspector :: government property inspectors and investigators
+coroner :: coroners
+import export specialist :: customs brokers
+import export specialist in china and other glassware :: customs brokers
+import export specialist in machinery, industrial equipment, ships and aircraft :: customs brokers
+import export specialist in  fish, crustaceans and molluscs :: customs brokers
+import export specialist in agricultural machinery and equipment :: customs brokers
+import export specialist in agricultural raw materials, seeds and animal feeds :: customs brokers
+import export specialist in beverages :: customs brokers
+import export specialist in chemical products :: customs brokers
+import export specialist in clothing and footwear :: customs brokers
+import export specialist in coffee, tea, cocoa and spices :: customs brokers
+import export specialist in computers, peripheral equipment and software :: customs brokers
+import export specialist in dairy products and edible oils :: customs brokers
+import export specialist in electrical household appliances :: customs brokers
+import export specialist in electronic and telecommunications equipment :: customs brokers
+import export specialist in flowers and plants :: customs brokers
+import export specialist in fruit and vegetables :: customs brokers
+import export specialist in furniture, carpets and lighting equipment :: customs brokers
+import export specialist in hardware, plumbing and heating equipment :: customs brokers
+import export specialist in hides, skins and leather products :: customs brokers
+import export specialist in household goods :: customs brokers
+import export specialist in live animals :: customs brokers
+import export specialist in machine tools :: customs brokers
+import export specialist in meat and meat products :: customs brokers
+import export specialist in metals and metal ores :: customs brokers
+import export specialist in mining, construction, civil engineering machinery :: customs brokers
+import export specialist in office furniture :: customs brokers
+import export specialist in office machinery and equipment :: customs brokers
+import export specialist in perfume and cosmetics :: customs brokers
+import export specialist in pharmaceutical goods :: customs brokers
+import export specialist in sugar, chocolate and sugar confectionery :: customs brokers
+import export specialist in textile industry machinery :: customs brokers
+import export specialist in textiles and textile semi-finished and raw materials :: customs brokers
+import export specialist in tobacco products :: customs brokers
+import export specialist in waste and scrap :: customs brokers
+import export specialist in watches and jewellery :: customs brokers
+import export specialist in wood and construction materials :: customs brokers
+manufacturing cost estimator :: cost estimators
+human resources assistant :: human resources specialists
+human resources officer :: human resources specialists
+labour relations officer :: labor relations specialists
+mediator :: labor relations specialists
+special-interest groups' official :: labor relations specialists
+logistics analyst :: logisticians
+logistics engineer :: logistics engineers
+logistics analyst :: logistics engineers
+logistics analyst :: logistics analysts
+logistics engineer :: logistics analysts
+ict project manager :: project management specialists
+project manager :: project management specialists
+event manager :: meeting, convention, and event planners
+wedding planner :: meeting, convention, and event planners
+venue director :: meeting, convention, and event planners
+occupational analyst :: compensation, benefits, and job analysis specialists
+relocation officer :: compensation, benefits, and job analysis specialists
+ict trainer :: training and development specialists
+search engine optimisation expert :: market research analysts and marketing specialists
+marketing consultant :: market research analysts and marketing specialists
+market research interviewer :: market research analysts and marketing specialists
+market research analyst :: market research analysts and marketing specialists
+pricing specialist :: market research analysts and marketing specialists
+tourism policy director :: market research analysts and marketing specialists
+search engine optimisation expert :: search marketing strategists
+location manager :: business operations specialists, all other
+ict disaster recovery analyst :: business continuity planners
+environmental programme coordinator :: sustainability specialists
+ict environmental manager :: sustainability specialists
+ebusiness manager :: online merchants
+online sales channel manager :: online merchants
+wholesale merchant in computers, computer peripheral equipment and software :: online merchants
+online marketer :: online merchants
+security consultant :: security management specialists
+financial auditor :: accountants and auditors
+accounting analyst :: accountants and auditors
+audit supervisor :: accountants and auditors
+bookkeeper :: accountants and auditors
+accountant :: accountants and auditors
+it auditor :: accountants and auditors
+personal property appraiser :: appraisers of personal and business property
+property appraiser :: appraisers and assessors of real estate
+budget manager :: budget analysts
+budget analyst :: budget analysts
+credit analyst :: credit analysts
+loan officer :: credit analysts
+credit risk analyst :: credit analysts
+investment analyst :: financial and investment analysts
+financial analyst :: financial and investment analysts
+securities analyst :: financial and investment analysts
+business valuer :: financial and investment analysts
+financial planner :: personal financial advisors
+insurance underwriter :: insurance underwriters
+property insurance underwriter :: insurance underwriters
+financial risk manager :: financial risk specialists
+financial auditor :: financial examiners
+student financial support coordinator :: credit counselors
+credit adviser :: credit counselors
+loan officer :: loan officers
+mortgage loan underwriter :: loan officers
+credit analyst :: loan officers
+credit adviser :: loan officers
+tax compliance officer :: tax examiners and collectors, and revenue agents
+tax clerk :: tax examiners and collectors, and revenue agents
+tax inspector :: tax examiners and collectors, and revenue agents
+tax advisor :: tax preparers
+accountant :: tax preparers
+venture capitalist :: financial specialists, all other
+securities analyst :: financial quantitative analysts
+financial analyst :: financial quantitative analysts
+business valuer :: financial quantitative analysts
+financial fraud examiner :: fraud examiners, investigators and analysts
+ict system analyst :: computer systems analysts
+ict system integration consultant :: computer systems analysts
+ict security engineer :: information security analysts
+ict resilience manager :: information security analysts
+embedded systems security engineer :: information security analysts
+computer scientist :: computer and information research scientists
+ict network administrator :: computer network support specialists
+ict network technician :: computer network support specialists
+ict help desk agent :: computer user support specialists
+ict network architect :: computer network architects
+ict network engineer :: computer network architects
+ict capacity planner :: computer network architects
+telecommunications engineer :: telecommunications engineering specialists
+telecommunications engineering technician :: telecommunications engineering specialists
+ict network engineer :: telecommunications engineering specialists
+database administrator :: database administrators
+database developer :: database administrators
+database integrator :: database administrators
+database designer :: database administrators
+data warehouse designer :: database administrators
+database designer :: database architects
+database integrator :: database architects
+data warehouse designer :: database architects
+database administrator :: database architects
+data warehouse designer :: data warehousing specialists
+database integrator :: data warehousing specialists
+database designer :: data warehousing specialists
+database developer :: data warehousing specialists
+database administrator :: data warehousing specialists
+ict network administrator :: network and computer systems administrators
+ict system administrator :: network and computer systems administrators
+ict application developer :: software developers
+software developer :: software developers
+ict system developer :: software developers
+software architect :: software developers
+software analyst :: software developers
+industrial mobile devices software developer :: software developers
+database developer :: software developers
+mobile application developer :: software developers
+user interface developer :: software developers
+embedded systems software developer :: software developers
+digital games developer :: software developers
+gambling games developer :: software developers
+software tester :: software quality assurance analysts and testers
+ict integration tester :: software quality assurance analysts and testers
+ict system tester :: software quality assurance analysts and testers
+ict accessibility tester :: software quality assurance analysts and testers
+ict usability tester :: software quality assurance analysts and testers
+digital games tester :: software quality assurance analysts and testers
+web developer :: web developers
+user interface designer :: web and digital interface designers
+digital games designer :: video game designers
+gambling games designer :: video game designers
+webmaster :: web administrators
+geographic information systems specialist :: geographic information systems technologists and technicians
+document management officer :: document management specialists
+ict documentation manager :: document management specialists
+file clerk :: document management specialists
+ethical hacker :: penetration testers
+embedded systems security engineer :: information security engineers
+digital forensics expert :: digital forensics analysts
+blockchain architect :: blockchain engineers
+blockchain developer :: blockchain engineers
+ict system architect :: computer systems engineers/architects
+software architect :: computer systems engineers/architects
+integration engineer :: computer systems engineers/architects
+cloud engineer :: computer systems engineers/architects
+ict network engineer :: computer systems engineers/architects
+blockchain architect :: computer systems engineers/architects
+enterprise architect :: computer systems engineers/architects
+ict change and configuration manager :: computer systems engineers/architects
+ict project manager :: information technology project managers
+project manager :: information technology project managers
+programme manager :: information technology project managers
+ict consultant :: information technology project managers
+actuarial assistant :: actuaries
+insurance rating analyst :: actuaries
+insurance risk consultant :: actuaries
+actuarial consultant :: actuaries
+mathematician :: mathematicians
+biometrician :: statisticians
+statistician :: statisticians
+statistician :: biostatisticians
+biometrician :: biostatisticians
+data scientist :: data scientists
+ict intelligent systems designer :: data scientists
+business analyst :: business intelligence analysts
+data analyst :: business intelligence analysts
+gambling games developer :: mathematical science occupations, all other
+scientific laboratory technician :: bioinformatics technicians
+architect :: architects, except landscape and naval
+interior architect :: architects, except landscape and naval
+landscape architect :: landscape architects
+landscape designer :: landscape architects
+cartographer :: cartographers and photogrammetrists
+mine surveying technician :: surveyors
+mine surveyor :: surveyors
+hydrographic surveyor :: surveyors
+flight test engineer :: aerospace engineers
+material stress analyst :: aerospace engineers
+aerospace engineering drafter :: aerospace engineers
+aerospace engineer :: aerospace engineers
+agricultural engineer :: agricultural engineers
+agricultural equipment design engineer :: agricultural engineers
+bioengineer :: bioengineers and biomedical engineers
+biomedical engineer :: bioengineers and biomedical engineers
+chemical engineer :: chemical engineers
+biochemical engineer :: chemical engineers
+civil engineer :: civil engineers
+construction engineer :: civil engineers
+transport engineer :: civil engineers
+drainage engineer :: civil engineers
+pipeline engineer :: civil engineers
+transport engineer :: transportation engineers
+civil engineer :: transportation engineers
+water engineer :: water/wastewater engineers
+wastewater engineer :: water/wastewater engineers
+drainage engineer :: water/wastewater engineers
+computer hardware engineer :: computer hardware engineers
+electronics engineer :: computer hardware engineers
+power electronics engineer :: electrical engineers
+electromechanical engineer :: electrical engineers
+electric power generation engineer :: electrical engineers
+electromagnetic engineer :: electrical engineers
+electrical engineer :: electrical engineers
+mine electrical engineer :: electrical engineers
+power distribution engineer :: electrical engineers
+substation engineer :: electrical engineers
+electronics engineer :: electronics engineers, except computer
+sensor engineer :: electronics engineers, except computer
+electronics engineering technician :: electronics engineers, except computer
+power electronics engineer :: electronics engineers, except computer
+integrated circuit design engineer :: electronics engineers, except computer
+microelectronics engineer :: electronics engineers, except computer
+sensor engineering technician :: electronics engineers, except computer
+predictive maintenance expert :: electronics engineers, except computer
+telecommunications analyst :: radio frequency identification device specialists
+environmental engineer :: environmental engineers
+environmental mining engineer :: environmental engineers
+health and safety engineer :: health and safety engineers, except mining safety engineers and inspectors
+fire prevention and protection engineer :: fire-prevention and protection engineers
+industrial engineer :: industrial engineers
+production engineer :: industrial engineers
+industrial tool design engineer :: industrial engineers
+ergonomist :: human factors engineers and ergonomists
+quality engineer :: validation engineers
+manufacturing engineer :: manufacturing engineers
+dependability engineer :: manufacturing engineers
+leather goods product developer :: manufacturing engineers
+rolling stock engineer :: manufacturing engineers
+naval architect :: marine engineers and naval architects
+marine engineer :: marine engineers and naval architects
+marine chief engineer :: marine engineers and naval architects
+material stress analyst :: materials engineers
+synthetic materials engineer :: materials engineers
+paper engineer :: materials engineers
+microelectronics materials engineer :: materials engineers
+surface engineer :: materials engineers
+metallurgist :: materials engineers
+textile, leather and footwear researcher :: materials engineers
+welding engineer :: materials engineers
+engine designer :: mechanical engineers
+rotating equipment engineer :: mechanical engineers
+mechanical engineer :: mechanical engineers
+mine mechanical engineer :: mechanical engineers
+precision engineer :: mechanical engineers
+alternative fuels engineer :: fuel cell engineers
+autonomous driving specialist :: automotive engineers
+automotive engineer :: automotive engineers
+powertrain engineer :: automotive engineers
+mining geotechnical engineer :: mining and geological engineers, including mining safety engineers
+mine development engineer :: mining and geological engineers, including mining safety engineers
+environmental mining engineer :: mining and geological engineers, including mining safety engineers
+quarry engineer :: mining and geological engineers, including mining safety engineers
+geological engineer :: mining and geological engineers, including mining safety engineers
+mine planning engineer :: mining and geological engineers, including mining safety engineers
+mine ventilation engineer :: mining and geological engineers, including mining safety engineers
+nuclear engineer :: nuclear engineers
+petroleum engineer :: petroleum engineers
+gas production engineer :: petroleum engineers
+application engineer :: engineers, all other
+commissioning engineer :: engineers, all other
+container equipment design engineer :: engineers, all other
+contract engineer :: engineers, all other
+dismantling engineer :: engineers, all other
+fluid power engineer :: engineers, all other
+gas distribution engineer :: engineers, all other
+heating, ventilation, air conditioning engineer :: engineers, all other
+patent engineer :: engineers, all other
+wood technology engineer :: engineers, all other
+mechatronics engineer :: mechatronics engineers
+embedded system designer :: mechatronics engineers
+smart home engineer :: mechatronics engineers
+microsystem engineer :: microsystems engineers
+photonics engineer :: photonics engineers
+robotics engineer :: robotics engineers
+nanoengineer :: nanosystems engineers
+onshore wind energy engineer :: wind energy engineers
+offshore renewable energy engineer :: wind energy engineers
+solar energy engineer :: solar energy systems engineers
+drafter :: architectural and civil drafters
+civil drafter :: architectural and civil drafters
+architectural drafter :: architectural and civil drafters
+drafter :: electrical and electronics drafters
+electrical drafter :: electrical and electronics drafters
+electronics drafter :: electrical and electronics drafters
+electromechanical drafter :: electrical and electronics drafters
+mechanical engineering drafter :: mechanical drafters
+drafter :: mechanical drafters
+aerospace engineering technician :: aerospace engineering and operations technologists and technicians
+civil engineering technician :: civil engineering technologists and technicians
+asphalt laboratory technician :: civil engineering technologists and technicians
+electrical engineering technician :: electrical and electronic engineering technologists and technicians
+computer hardware engineering technician :: electrical and electronic engineering technologists and technicians
+electronics engineering technician :: electrical and electronic engineering technologists and technicians
+computer hardware test technician :: electrical and electronic engineering technologists and technicians
+electromechanical engineering technician :: electro-mechanical and mechatronics technologists and technicians
+mechatronics engineering technician :: electro-mechanical and mechatronics technologists and technicians
+marine mechatronics technician :: electro-mechanical and mechatronics technologists and technicians
+robotics engineering technician :: robotics technicians
+water conservation technician :: environmental engineering technologists and technicians
+product development engineering technician :: industrial engineering technologists and technicians
+process engineering technician :: industrial engineering technologists and technicians
+industrial engineering technician :: industrial engineering technologists and technicians
+leather goods industrial engineer :: industrial engineering technologists and technicians
+production engineering technician :: industrial engineering technologists and technicians
+textile technologist :: industrial engineering technologists and technicians
+mechanical engineering technician :: mechanical engineering technologists and technicians
+pneumatic engineering technician :: mechanical engineering technologists and technicians
+automotive engineering technician :: automotive engineering technicians
+motor vehicle engine inspector :: automotive engineering technicians
+calibration technician :: calibration technologists and technicians
+precision device inspector :: calibration technologists and technicians
+metrology technician :: calibration technologists and technicians
+colour sampling technician :: engineering technologists and technicians, except drafters, all other
+commissioning technician :: engineering technologists and technicians, except drafters, all other
+food and beverage packaging technologist :: engineering technologists and technicians, except drafters, all other
+footwear product developer :: engineering technologists and technicians, except drafters, all other
+footwear production technician :: engineering technologists and technicians, except drafters, all other
+marine engineering technician :: engineering technologists and technicians, except drafters, all other
+rolling stock engineering technician :: engineering technologists and technicians, except drafters, all other
+wastewater treatment technician :: engineering technologists and technicians, except drafters, all other
+non-destructive testing specialist :: non-destructive testing specialists
+welding inspector :: non-destructive testing specialists
+photonics engineering technician :: photonics technicians
+surveying technician :: surveying and mapping technicians
+hydrographic surveying technician :: surveying and mapping technicians
+soil surveying technician :: surveying and mapping technicians
+mine surveying technician :: surveying and mapping technicians
+biologist :: animal scientists
+food technologist :: food scientists and technologists
+food analyst :: food scientists and technologists
+food safety specialist :: food scientists and technologists
+brewmaster :: food scientists and technologists
+cider master :: food scientists and technologists
+oenologist :: food scientists and technologists
+sensory scientist :: food scientists and technologists
+agricultural scientist :: soil and plant scientists
+soil scientist :: soil and plant scientists
+agronomist :: soil and plant scientists
+biophysicist :: biochemists and biophysicists
+biochemist :: biochemists and biophysicists
+microbiologist :: microbiologists
+biologist :: microbiologists
+biologist :: zoologists and wildlife biologists
+fisheries adviser :: zoologists and wildlife biologists
+bioinformatics scientist :: bioinformatics scientists
+biologist :: molecular and cellular biologists
+geneticist :: geneticists
+biologist :: biologists
+marine biologist :: biologists
+aquaculture biologist :: biologists
+microbiologist :: biologists
+biophysicist :: biologists
+natural resources consultant :: conservation scientists
+park guide :: park naturalists
+forester :: foresters
+forest ranger :: foresters
+forestry adviser :: foresters
+forestry inspector :: foresters
+epidemiologist :: epidemiologists
+specialist biomedical scientist :: medical scientists, except epidemiologists
+toxicologist :: medical scientists, except epidemiologists
+biomedical scientist advanced :: medical scientists, except epidemiologists
+biomedical scientist :: medical scientists, except epidemiologists
+astronomer :: astronomers
+physicist :: physicists
+meteorology technician :: atmospheric and space scientists
+aviation meteorologist :: atmospheric and space scientists
+weather forecaster :: atmospheric and space scientists
+meteorologist :: atmospheric and space scientists
+chemist :: chemists
+cosmetic chemist :: chemists
+chemical application specialist :: chemists
+analytical chemist :: chemists
+textile chemist :: chemists
+materials engineer :: materials scientists
+process metallurgist :: materials scientists
+rubber technologist :: materials scientists
+environmental expert :: environmental scientists and specialists, including health
+environmental scientist :: environmental scientists and specialists, including health
+environmental protection manager :: environmental scientists and specialists, including health
+airport environment officer :: environmental scientists and specialists, including health
+environmental policy officer :: climate change policy analysts
+policy officer :: climate change policy analysts
+environmental programme coordinator :: environmental restoration planners
+ecologist :: industrial ecologists
+exploration geologist :: geoscientists, except hydrologists and geographers
+seismologist :: geoscientists, except hydrologists and geographers
+geologist :: geoscientists, except hydrologists and geographers
+geophysicist :: geoscientists, except hydrologists and geographers
+environmental geologist :: geoscientists, except hydrologists and geographers
+mineralogist :: geoscientists, except hydrologists and geographers
+geochemist :: geoscientists, except hydrologists and geographers
+hydrogeologist :: hydrologists
+hydrologist :: hydrologists
+economic adviser :: economists
+economist :: economists
+trade development officer :: economists
+economist :: environmental economists
+demographer :: survey researchers
+field survey manager :: survey researchers
+social work researcher :: survey researchers
+market research analyst :: survey researchers
+survey enumerator :: survey researchers
+market research interviewer :: survey researchers
+psychologist :: industrial-organizational psychologists
+assistant clinical psychologist :: clinical and counseling psychologists
+psychotherapist :: clinical and counseling psychologists
+clinical psychologist :: clinical and counseling psychologists
+educational psychologist :: clinical and counseling psychologists
+health psychologist :: clinical and counseling psychologists
+psychologist :: clinical and counseling psychologists
+psychologist :: school psychologists
+educational psychologist :: school psychologists
+learning mentor :: school psychologists
+psychologist :: neuropsychologists
+clinical psychologist :: clinical neuropsychologists
+psychologist :: clinical neuropsychologists
+psychotherapist :: clinical neuropsychologists
+health psychologist :: clinical neuropsychologists
+educational psychologist :: clinical neuropsychologists
+sociologist :: sociologists
+anthropologist :: sociologists
+criminologist :: sociologists
+behavioural scientist :: sociologists
+political scientist :: sociologists
+airport planning engineer :: urban and regional planners
+transport planner :: urban and regional planners
+urban planner :: urban and regional planners
+government planning inspector :: urban and regional planners
+land planner :: urban and regional planners
+anthropologist :: anthropologists and archeologists
+archaeologist :: anthropologists and archeologists
+geographer :: geographers
+historian :: historians
+genealogist :: historians
+political affairs officer :: political scientists
+political campaign officer :: political scientists
+political scientist :: political scientists
+linguist :: social scientists and related workers, all other
+social services policy officer :: social scientists and related workers, all other
+transport planner :: transportation planners
+mobility services manager :: transportation planners
+ship planner :: transportation planners
+agricultural technician :: agricultural technicians
+aquaculture cage technician :: agricultural technicians
+aquaculture harvesting technician :: agricultural technicians
+aquaculture hatchery technician :: agricultural technicians
+aquaculture husbandry technician :: agricultural technicians
+aquaculture rearing technician :: agricultural technicians
+aquaculture recirculation technician :: agricultural technicians
+food analyst :: food science technicians
+farm milk controller :: food science technicians
+coffee taster :: food science technicians
+fisheries refrigeration engineer :: food science technicians
+malt master :: food science technicians
+viticulture adviser :: food science technicians
+biology technician :: biological technicians
+scientific laboratory technician :: biological technicians
+botanical technician :: biological technicians
+zoology technician :: biological technicians
+bacteriology technician :: biological technicians
+biotechnical technician :: biological technicians
+biochemistry technician :: biological technicians
+scientific laboratory technician :: chemical technicians
+chemical manufacturing quality technician :: chemical technicians
+chemistry technician :: chemical technicians
+assayer :: chemical technicians
+colour sampling technician :: chemical technicians
+leather laboratory technician :: chemical technicians
+tanning technician :: chemical technicians
+textile chemical quality technician :: chemical technicians
+textile quality technician :: chemical technicians
+environmental technician :: environmental science and protection technicians, including health
+hazardous materials inspector :: environmental science and protection technicians, including health
+geology technician :: geological technicians, except hydrologic technicians
+geotechnician :: geological technicians, except hydrologic technicians
+metallurgical technician :: geological technicians, except hydrologic technicians
+nuclear technician :: nuclear technicians
+physics technician :: nuclear technicians
+radiation protection technician :: nuclear monitoring technicians
+university research assistant :: social science research assistants
+forestry technician :: forest and conservation technicians
+graphologist :: forensic science technicians
+leather goods quality control laboratory technician :: quality control analysts
+chemical manufacturing quality technician :: quality control analysts
+call centre quality auditor :: quality control analysts
+footwear quality control laboratory technician :: quality control analysts
+footwear quality technician :: quality control analysts
+leather goods quality technician :: quality control analysts
+product quality controller :: quality control analysts
+product quality inspector :: quality control analysts
+vineyard cellar master :: quality control analysts
+remote sensing technician :: remote sensing technicians
+occupational health and safety inspector :: occupational health and safety specialists
+health and safety officer :: occupational health and safety specialists
+construction safety inspector :: occupational health and safety specialists
+health safety and environmental manager :: occupational health and safety specialists
+construction safety manager :: occupational health and safety specialists
+mine health and safety engineer :: occupational health and safety specialists
+transport health and safety inspector :: occupational health and safety specialists
+mine safety officer :: occupational health and safety specialists
+health and safety officer :: occupational health and safety technicians
+construction safety inspector :: occupational health and safety technicians
+mine safety officer :: occupational health and safety technicians
+transport health and safety inspector :: occupational health and safety technicians
+social counsellor :: substance abuse and behavioral disorder counselors
+clinical social worker :: substance abuse and behavioral disorder counselors
+drug and alcohol addiction counsellor :: substance abuse and behavioral disorder counselors
+career guidance advisor :: educational, guidance, and career counselors and advisors
+academic advisor :: educational, guidance, and career counselors and advisors
+educational counsellor :: educational, guidance, and career counselors and advisors
+academic support officer :: educational, guidance, and career counselors and advisors
+student financial support coordinator :: educational, guidance, and career counselors and advisors
+psychotherapist :: marriage and family therapists
+psychologist :: marriage and family therapists
+marriage counsellor :: marriage and family therapists
+mental health social worker :: mental health counselors
+drug and alcohol addiction counsellor :: mental health counselors
+marriage counsellor :: mental health counselors
+substance misuse worker :: mental health counselors
+rehabilitation support worker :: rehabilitation counselors
+occupational therapy assistant :: rehabilitation counselors
+immigration adviser :: counselors, all other
+victim support officer :: counselors, all other
+family social worker :: child, family, and school social workers
+family support worker :: child, family, and school social workers
+child care social worker :: child, family, and school social workers
+child welfare worker :: child, family, and school social workers
+education welfare officer :: child, family, and school social workers
+foster care support worker :: child, family, and school social workers
+hospital social worker :: healthcare social workers
+gerontology social worker :: healthcare social workers
+palliative care social worker :: healthcare social workers
+sexual violence counsellor :: mental health and substance abuse social workers
+drug and alcohol addiction counsellor :: mental health and substance abuse social workers
+substance misuse worker :: mental health and substance abuse social workers
+social counsellor :: mental health and substance abuse social workers
+military welfare worker :: mental health and substance abuse social workers
+mental health social worker :: mental health and substance abuse social workers
+mental health support worker :: mental health and substance abuse social workers
+community social worker :: social workers, all other
+social worker :: social workers, all other
+policy officer :: health education specialists
+community development officer :: health education specialists
+public health policy officer :: health education specialists
+healthcare consultant :: health education specialists
+weight loss consultant :: health education specialists
+youth offending team worker :: probation officers and correctional treatment specialists
+juvenile correctional officer :: probation officers and correctional treatment specialists
+probation officer :: probation officers and correctional treatment specialists
+gerontology social worker :: social and human service assistants
+social work assistant :: social and human service assistants
+adult community care worker :: community health workers
+community health worker :: community health workers
+homelessness worker :: community and social service specialists, all other
+housing support worker :: community and social service specialists, all other
+intercultural communication consultant :: community and social service specialists, all other
+social care worker :: community and social service specialists, all other
+youth information worker :: community and social service specialists, all other
+minister of religion :: clergy
+minister of religion :: directors, religious activities and education
+chaplain :: directors, religious activities and education
+missionary :: directors, religious activities and education
+corporate lawyer :: lawyers
+lawyer :: lawyers
+court clerk :: judicial law clerks
+judge :: administrative law judges, adjudicators, and hearing officers
+supreme court judge :: judges, magistrate judges, and magistrates
+justice of the peace :: judges, magistrate judges, and magistrates
+judge :: judges, magistrate judges, and magistrates
+legal assistant :: paralegals and legal assistants
+title closer :: title examiners, abstractors, and searchers
+immigration adviser :: legal support workers, all other
+legal guardian :: legal support workers, all other
+higher education lecturer :: business teachers, postsecondary
+business lecturer :: business teachers, postsecondary
+computer science lecturer :: computer science teachers, postsecondary
+higher education lecturer :: computer science teachers, postsecondary
+mathematics lecturer :: mathematical science teachers, postsecondary
+higher education lecturer :: mathematical science teachers, postsecondary
+architecture lecturer :: architecture teachers, postsecondary
+higher education lecturer :: architecture teachers, postsecondary
+engineering lecturer :: engineering teachers, postsecondary
+higher education lecturer :: agricultural sciences teachers, postsecondary
+biology lecturer :: biological science teachers, postsecondary
+higher education lecturer :: biological science teachers, postsecondary
+higher education lecturer :: forestry and conservation science teachers, postsecondary
+higher education lecturer :: atmospheric, earth, marine, and space sciences teachers, postsecondary
+space science lecturer :: atmospheric, earth, marine, and space sciences teachers, postsecondary
+earth science lecturer :: atmospheric, earth, marine, and space sciences teachers, postsecondary
+chemistry lecturer :: chemistry teachers, postsecondary
+higher education lecturer :: chemistry teachers, postsecondary
+higher education lecturer :: environmental science teachers, postsecondary
+physics lecturer :: physics teachers, postsecondary
+higher education lecturer :: physics teachers, postsecondary
+anthropology lecturer :: anthropology and archeology teachers, postsecondary
+archaeology lecturer :: anthropology and archeology teachers, postsecondary
+economics lecturer :: economics teachers, postsecondary
+earth science lecturer :: geography teachers, postsecondary
+politics lecturer :: political science teachers, postsecondary
+higher education lecturer :: psychology teachers, postsecondary
+psychology lecturer :: psychology teachers, postsecondary
+sociology lecturer :: sociology teachers, postsecondary
+dentistry lecturer :: health specialties teachers, postsecondary
+veterinary medicine lecturer :: health specialties teachers, postsecondary
+pharmacy lecturer :: health specialties teachers, postsecondary
+medicine lecturer :: health specialties teachers, postsecondary
+higher education lecturer :: health specialties teachers, postsecondary
+healthcare specialist lecturer :: health specialties teachers, postsecondary
+higher education lecturer :: nursing instructors and teachers, postsecondary
+nursing lecturer :: nursing instructors and teachers, postsecondary
+education studies lecturer :: education teachers, postsecondary
+higher education lecturer :: education teachers, postsecondary
+higher education lecturer :: library science teachers, postsecondary
+higher education lecturer :: criminal justice and law enforcement teachers, postsecondary
+higher education lecturer :: law teachers, postsecondary
+law lecturer :: law teachers, postsecondary
+social work lecturer :: social work teachers, postsecondary
+social work practice educator :: social work teachers, postsecondary
+drama teacher :: art, drama, and music teachers, postsecondary
+fine arts instructor :: art, drama, and music teachers, postsecondary
+music teacher :: art, drama, and music teachers, postsecondary
+visual arts teacher :: art, drama, and music teachers, postsecondary
+music instructor :: art, drama, and music teachers, postsecondary
+communications lecturer :: communications teachers, postsecondary
+university literature lecturer :: english language and literature teachers, postsecondary
+literary scholar :: english language and literature teachers, postsecondary
+modern languages lecturer :: foreign language and literature teachers, postsecondary
+university literature lecturer :: foreign language and literature teachers, postsecondary
+sign language teacher :: foreign language and literature teachers, postsecondary
+literary scholar :: foreign language and literature teachers, postsecondary
+history lecturer :: history teachers, postsecondary
+philosophy lecturer :: philosophy and religion teachers, postsecondary
+higher education lecturer :: family and consumer sciences teachers, postsecondary
+industrial arts vocational teacher :: career/technical education teachers, postsecondary
+vocational teacher :: career/technical education teachers, postsecondary
+medical laboratory technology vocational teacher :: career/technical education teachers, postsecondary
+transport technology vocational teacher :: career/technical education teachers, postsecondary
+hairdressing vocational teacher :: career/technical education teachers, postsecondary
+air traffic instructor :: career/technical education teachers, postsecondary
+beauty vocational teacher :: career/technical education teachers, postsecondary
+food service vocational teacher :: career/technical education teachers, postsecondary
+assessor of prior learning :: postsecondary teachers, all other
+early years teacher :: preschool teachers, except special education
+montessori school teacher :: preschool teachers, except special education
+freinet school teacher :: preschool teachers, except special education
+steiner school teacher :: preschool teachers, except special education
+early years teaching assistant :: preschool teachers, except special education
+early years teacher :: kindergarten teachers, except special education
+montessori school teacher :: kindergarten teachers, except special education
+freinet school teacher :: kindergarten teachers, except special education
+primary school teacher :: elementary school teachers, except special education
+language school teacher :: middle school teachers, except special and career/technical education
+secondary school teacher :: career/technical education teachers, middle school
+vocational teacher :: career/technical education teachers, middle school
+industrial arts vocational teacher :: career/technical education teachers, middle school
+science teacher secondary school :: secondary school teachers, except special and career/technical education
+art teacher secondary school :: secondary school teachers, except special and career/technical education
+classical languages teacher secondary school :: secondary school teachers, except special and career/technical education
+secondary school teacher :: secondary school teachers, except special and career/technical education
+secondary school teacher :: career/technical education teachers, secondary school
+vocational teacher :: career/technical education teachers, secondary school
+industrial arts vocational teacher :: career/technical education teachers, secondary school
+design and applied arts vocational teacher :: career/technical education teachers, secondary school
+business and marketing vocational teacher :: career/technical education teachers, secondary school
+transport technology vocational teacher :: career/technical education teachers, secondary school
+agriculture, forestry and fishery vocational teacher :: career/technical education teachers, secondary school
+food service vocational teacher :: career/technical education teachers, secondary school
+hospitality vocational teacher :: career/technical education teachers, secondary school
+travel and tourism vocational teacher :: career/technical education teachers, secondary school
+early years special educational needs teacher :: special education teachers, preschool
+special educational needs teacher :: special education teachers, preschool
+special educational needs itinerant teacher :: special education teachers, kindergarten
+special educational needs teacher :: special education teachers, kindergarten
+early years special educational needs teacher :: special education teachers, kindergarten
+special educational needs teacher :: special education teachers, elementary school
+special educational needs itinerant teacher :: special education teachers, elementary school
+special educational needs teacher primary school :: special education teachers, elementary school
+special educational needs teacher :: special education teachers, middle school
+special educational needs teacher secondary school :: special education teachers, secondary school
+special educational needs teacher :: special education teachers, secondary school
+sports instructor :: adapted physical education specialists
+language school teacher :: adult basic education, adult secondary education, and english as a second language instructors
+adult literacy teacher :: adult basic education, adult secondary education, and english as a second language instructors
+life coach :: self-enrichment teachers
+assistant outdoor animator :: self-enrichment teachers
+specialised outdoor animator :: self-enrichment teachers
+outdoor activities instructor :: self-enrichment teachers
+tutor :: tutors
+learning mentor :: tutors
+bus driving instructor :: teachers and instructors, all other
+cabin crew instructor :: teachers and instructors, all other
+car driving instructor :: teachers and instructors, all other
+circus arts teacher :: teachers and instructors, all other
+driving instructor :: teachers and instructors, all other
+first aid instructor :: teachers and instructors, all other
+golf instructor :: teachers and instructors, all other
+horse riding instructor :: teachers and instructors, all other
+maritime instructor :: teachers and instructors, all other
+motorcycle instructor :: teachers and instructors, all other
+occupational driving instructor :: teachers and instructors, all other
+occupational railway instructor :: teachers and instructors, all other
+ski instructor :: teachers and instructors, all other
+snowboard instructor :: teachers and instructors, all other
+survival instructor :: teachers and instructors, all other
+swimming teacher :: teachers and instructors, all other
+truck driving instructor :: teachers and instructors, all other
+vessel steering instructor :: teachers and instructors, all other
+zoo educator :: teachers and instructors, all other
+information manager :: archivists
+exhibition registrar :: archivists
+big data archive librarian :: archivists
+archivist :: archivists
+exhibition curator :: curators
+collection manager :: curators
+museum scientist :: curators
+exhibition registrar :: curators
+zoo curator :: curators
+cultural visitor services manager :: curators
+conservator :: museum technicians and conservators
+art restorer :: museum technicians and conservators
+book restorer :: museum technicians and conservators
+archivist :: museum technicians and conservators
+information manager :: librarians and media collections specialists
+librarian :: librarians and media collections specialists
+big data archive librarian :: librarians and media collections specialists
+library assistant :: library technicians
+e-learning developer :: instructional coordinators
+secondary school teaching assistant :: teaching assistants, preschool, elementary, middle, and secondary school, except special education
+primary school teaching assistant :: teaching assistants, preschool, elementary, middle, and secondary school, except special education
+early years teaching assistant :: teaching assistants, preschool, elementary, middle, and secondary school, except special education
+special educational needs assistant :: teaching assistants, special education
+university teaching assistant :: teaching assistants, postsecondary
+creative director :: art directors
+production designer :: art directors
+animation director :: art directors
+video and motion picture director :: art directors
+art director :: art directors
+performance flying director :: art directors
+stage manager :: art directors
+decorative painter :: craft artists
+glass artist :: craft artists
+porcelain painter :: craft artists
+ceramicist :: craft artists
+ceramic painter :: craft artists
+glass painter :: craft artists
+artisan papermaker :: craft artists
+wood painter :: craft artists
+antique furniture reproducer :: craft artists
+basketmaker :: craft artists
+carpet weaver :: craft artists
+guitar maker :: craft artists
+harp maker :: craft artists
+harpsichord maker :: craft artists
+made-up textile articles manufacturer :: craft artists
+conceptual artist :: fine artists, including painters, sculptors, and illustrators
+drawing artist :: fine artists, including painters, sculptors, and illustrators
+artistic painter :: fine artists, including painters, sculptors, and illustrators
+illustrator :: fine artists, including painters, sculptors, and illustrators
+digital artist :: fine artists, including painters, sculptors, and illustrators
+decorative painter :: fine artists, including painters, sculptors, and illustrators
+cartoonist :: fine artists, including painters, sculptors, and illustrators
+special effects artist :: special effects artists and animators
+animator :: special effects artists and animators
+animation layout artist :: special effects artists and animators
+3d animator :: special effects artists and animators
+video artist :: special effects artists and animators
+storyboard artist :: special effects artists and animators
+3d modeller :: special effects artists and animators
+community artist :: artists and related workers, all other
+fortune teller :: artists and related workers, all other
+location manager :: artists and related workers, all other
+prop master/prop mistress :: artists and related workers, all other
+industrial designer :: commercial and industrial designers
+automotive designer :: commercial and industrial designers
+design engineer :: commercial and industrial designers
+furniture designer :: commercial and industrial designers
+leather goods product developer :: commercial and industrial designers
+textile product developer :: commercial and industrial designers
+fashion designer :: fashion designers
+clothing fashion designer :: fashion designers
+textile designer :: fashion designers
+leather goods designer :: fashion designers
+clothing cad technician :: fashion designers
+footwear designer :: fashion designers
+costume designer :: fashion designers
+footwear 3d developer :: fashion designers
+flower and garden specialised seller :: floral designers
+graphic designer :: graphic designers
+interior designer :: interior designers
+visual merchandiser :: merchandise displayers and window trimmers
+set builder :: set and exhibit designers
+miniature set designer :: set and exhibit designers
+production designer :: set and exhibit designers
+puppet designer :: designers, all other
+pyrotechnic designer :: designers, all other
+voice-over artist :: actors
+puppeteer :: actors
+performance artist :: actors
+actor/actress :: actors
+stand-up comedian :: actors
+prompter :: actors
+video and motion picture director :: producers and directors
+producer :: producers and directors
+video and motion picture producer :: producers and directors
+radio producer :: producers and directors
+assistant video and motion picture director :: producers and directors
+broadcasting programme director :: producers and directors
+stage director :: producers and directors
+fight director :: producers and directors
+broadcasting programme director :: media programming directors
+radio producer :: media programming directors
+casting director :: talent directors
+talent agent :: talent directors
+post-production supervisor :: media technical directors/managers
+radio producer :: media technical directors/managers
+broadcasting programme director :: media technical directors/managers
+producer :: media technical directors/managers
+video and motion picture producer :: media technical directors/managers
+script supervisor :: media technical directors/managers
+video and motion picture director :: media technical directors/managers
+professional athlete :: athletes and sports competitors
+football coach :: coaches and scouts
+tennis coach :: coaches and scouts
+ice-skating coach :: coaches and scouts
+sports coach :: coaches and scouts
+sports official :: umpires, referees, and other sports officials
+dancer :: dancers
+choreographer :: choreographers
+dance rãâ©pãâ©titeur :: choreographers
+composer :: music directors and composers
+music director :: music directors and composers
+musical conductor :: music directors and composers
+music arranger :: music directors and composers
+choirmaster/choirmistress :: music directors and composers
+music producer :: music directors and composers
+lyricist :: music directors and composers
+variety artist :: musicians and singers
+musician :: musicians and singers
+singer :: musicians and singers
+disc jockey :: disc jockeys, except radio
+psychic :: entertainers and performers, sports and related workers, all other
+pyrotechnic designer :: entertainers and performers, sports and related workers, all other
+stunt performer :: entertainers and performers, sports and related workers, all other
+news anchor :: broadcast announcers and radio disc jockeys
+disc jockey :: broadcast announcers and radio disc jockeys
+presenter :: broadcast announcers and radio disc jockeys
+journalist :: news analysts, reporters, and journalists
+entertainment journalist :: news analysts, reporters, and journalists
+business journalist :: news analysts, reporters, and journalists
+crime journalist :: news analysts, reporters, and journalists
+sports journalist :: news analysts, reporters, and journalists
+magazine editor :: news analysts, reporters, and journalists
+public relations manager :: public relations specialists
+public affairs consultant :: public relations specialists
+spokesperson :: public relations specialists
+communication manager :: public relations specialists
+editor-in-chief :: editors
+magazine editor :: editors
+copy editor :: editors
+book editor :: editors
+editorial assistant :: editors
+newspaper editor :: editors
+fact checker :: editors
+columnist :: editors
+book publisher :: editors
+technical communicator :: technical writers
+writer :: writers and authors
+advertising copywriter :: writers and authors
+speechwriter :: writers and authors
+blogger :: writers and authors
+lyricist :: poets, lyricists and creative writers
+writer :: poets, lyricists and creative writers
+script writer :: poets, lyricists and creative writers
+vlogger :: poets, lyricists and creative writers
+translator :: interpreters and translators
+interpreter :: interpreters and translators
+subtitler :: interpreters and translators
+sign language interpreter :: interpreters and translators
+lawyer linguist :: interpreters and translators
+localiser :: interpreters and translators
+court reporter :: court reporters and simultaneous captioners
+audio describer :: media and communication workers, all other
+audio-visual technician :: audio and video technicians
+video technician :: audio and video technicians
+recording studio technician :: audio and video technicians
+sound operator :: audio and video technicians
+boom operator :: audio and video technicians
+audio production technician :: audio and video technicians
+performance rental technician :: audio and video technicians
+instrument technician :: audio and video technicians
+audio-visual technician :: broadcast technicians
+broadcast technician :: broadcast technicians
+audio-visual technician :: sound engineering technicians
+recording studio technician :: sound engineering technicians
+audio production technician :: sound engineering technicians
+sound operator :: sound engineering technicians
+sound mastering engineer :: sound engineering technicians
+sound designer :: sound engineering technicians
+boom operator :: sound engineering technicians
+performance lighting technician :: lighting technicians
+intelligent lighting engineer :: lighting technicians
+light board operator :: lighting technicians
+followspot operator :: lighting technicians
+photographer :: photographers
+video artist :: photographers
+photojournalist :: photographers
+audio-visual technician :: camera operators, television, video, and film
+camera operator :: camera operators, television, video, and film
+performance video operator :: camera operators, television, video, and film
+video and motion picture editor :: film and video editors
+video artist :: film and video editors
+motion picture film developer :: film and video editors
+director of photography :: film and video editors
+scenery technician :: media and communication equipment workers, all other
+stage machinist :: media and communication equipment workers, all other
+stagehand :: media and communication equipment workers, all other
+chiropractor :: chiropractors
+specialist chiropractor :: chiropractors
+chiropractic assistant :: chiropractors
+dental practitioner :: dentists, general
+specialist dentist :: oral and maxillofacial surgeons
+specialist dentist :: orthodontists
+dental practitioner :: orthodontists
+specialist dentist :: prosthodontists
+dietitian :: dietitians and nutritionists
+prepared meals nutritionist :: dietitians and nutritionists
+dietetic technician :: dietitians and nutritionists
+optometrist :: optometrists
+specialist pharmacist :: pharmacists
+pharmacist :: pharmacists
+anaesthetic technician :: anesthesiologist assistants
+podiatrist :: podiatrists
+podiatry assistant :: podiatrists
+occupational therapist :: occupational therapists
+occupational therapy assistant :: occupational therapists
+occupational therapy assistant :: low vision therapists, orientation and mobility specialists, and vision rehabilitation therapists
+assistive technologist :: low vision therapists, orientation and mobility specialists, and vision rehabilitation therapists
+physiotherapist :: physical therapists
+physiotherapy assistant :: physical therapists
+advanced physiotherapist :: physical therapists
+sport therapist :: physical therapists
+radiation therapist :: radiation therapists
+recreational therapist :: recreational therapists
+respiratory therapy technician :: respiratory therapists
+clinical perfusion scientist :: respiratory therapists
+speech and language therapist :: speech-language pathologists
+personal trainer :: exercise physiologists
+animal assisted therapist :: therapists, all other
+dance therapist :: art therapists
+music therapist :: art therapists
+art therapist :: art therapists
+music therapist :: music therapists
+recreational therapist :: music therapists
+dance therapist :: music therapists
+specialised veterinarian :: veterinarians
+official veterinarian :: veterinarians
+animal chiropractor :: veterinarians
+general veterinarian :: veterinarians
+animal massage therapist :: veterinarians
+animal therapist :: veterinarians
+aquatic animal health professional :: veterinarians
+specialist nurse :: registered nurses
+nurse responsible for general care :: registered nurses
+advanced nurse practitioner :: registered nurses
+advanced nurse practitioner :: acute care nurses
+specialist nurse :: acute care nurses
+nurse responsible for general care :: acute care nurses
+nurse responsible for general care :: advanced practice psychiatric nurses
+specialist nurse :: advanced practice psychiatric nurses
+advanced nurse practitioner :: advanced practice psychiatric nurses
+specialist nurse :: critical care nurses
+advanced nurse practitioner :: critical care nurses
+nurse responsible for general care :: clinical nurse specialists
+specialist nurse :: clinical nurse specialists
+midwife :: clinical nurse specialists
+advanced nurse practitioner :: clinical nurse specialists
+specialist nurse :: nurse anesthetists
+specialist nurse :: nurse midwives
+advanced nurse practitioner :: nurse midwives
+midwife :: nurse practitioners
+nurse responsible for general care :: nurse practitioners
+specialist nurse :: nurse practitioners
+advanced nurse practitioner :: nurse practitioners
+audiologist :: audiologists
+anaesthetic technician :: anesthesiologists
+specialised doctor :: anesthesiologists
+specialised doctor :: cardiologists
+specialised doctor :: dermatologists
+specialised doctor :: emergency medicine physicians
+general practitioner :: family medicine physicians
+general practitioner :: general internal medicine physicians
+specialised doctor :: neurologists
+specialised doctor :: obstetricians and gynecologists
+specialised doctor :: pediatricians, general
+specialised doctor :: physicians, pathologists
+specialised doctor :: psychiatrists
+specialised doctor :: radiologists
+diagnostic radiographer :: radiologists
+radiographer :: radiologists
+nuclear medicine radiographer :: radiologists
+specialised doctor :: allergists and immunologists
+immunologist :: allergists and immunologists
+specialised doctor :: urologists
+specialised doctor :: physical medicine and rehabilitation physicians
+specialised doctor :: preventive medicine physicians
+specialised doctor :: sports medicine physicians
+specialised doctor :: ophthalmologists, except pediatric
+specialised doctor :: orthopedic surgeons, except pediatric
+specialised doctor :: pediatric surgeons
+traditional chinese medicine therapist :: acupuncturists
+complementary therapist :: acupuncturists
+acupuncturist :: acupuncturists
+dental hygienist :: dental hygienists
+homeopath :: naturopathic physicians
+traditional chinese medicine therapist :: naturopathic physicians
+acupuncturist :: naturopathic physicians
+shiatsu practitioner :: naturopathic physicians
+complementary therapist :: naturopathic physicians
+aromatherapist :: naturopathic physicians
+orthoptist :: orthoptists
+bacteriology technician :: medical and clinical laboratory technologists
+cytology screener :: medical and clinical laboratory technologists
+biomedical scientist :: medical and clinical laboratory technologists
+cytology screener :: cytogenetic technologists
+cytology screener :: cytotechnologists
+biomedical scientist :: cytotechnologists
+biomedical scientist :: histotechnologists
+biology technician :: histology technicians
+nuclear medicine radiographer :: nuclear medicine technologists
+diagnostic radiographer :: radiologic technologists and technicians
+radiographer :: radiologic technologists and technicians
+radiation therapist :: radiologic technologists and technicians
+nuclear medicine radiographer :: radiologic technologists and technicians
+diagnostic radiographer :: magnetic resonance imaging technologists
+paramedic in emergency responses :: paramedics
+dietetic technician :: dietetic technicians
+prepared meals nutritionist :: dietetic technicians
+diet cook :: dietetic technicians
+pharmacy technician :: pharmacy technicians
+mental health support worker :: psychiatric technicians
+doctors' surgery assistant :: surgical technologists
+veterinary technician :: veterinary technologists and technicians
+home care aide :: licensed practical and licensed vocational nurses
+nurse assistant :: licensed practical and licensed vocational nurses
+healthcare assistant :: licensed practical and licensed vocational nurses
+palliative care social worker :: licensed practical and licensed vocational nurses
+clinical coder :: medical records specialists
+medical transcriptionist :: medical records specialists
+medical records clerk :: medical records specialists
+optician :: opticians, dispensing
+prosthetist-orthotist :: orthotists and prosthetists
+audiology technician :: hearing aid specialists
+diagnostic radiographer :: neurodiagnostic technologists
+midwife :: midwives
+home care aide :: home health aides
+disability support worker :: home health aides
+adult community care worker :: home health aides
+companion :: personal care aides
+home care aide :: personal care aides
+care at home worker :: personal care aides
+disability support worker :: personal care aides
+nurse assistant :: nursing assistants
+hospital porter :: orderlies
+healthcare assistant :: psychiatric aides
+nurse assistant :: psychiatric aides
+occupational therapy assistant :: occupational therapy assistants
+rehabilitation support worker :: occupational therapy assistants
+occupational therapy assistant :: occupational therapy aides
+chiropractic assistant :: physical therapist assistants
+physiotherapy assistant :: physical therapist assistants
+sport therapist :: physical therapist assistants
+podiatry assistant :: physical therapist assistants
+occupational therapy assistant :: physical therapist assistants
+massage therapist :: physical therapist assistants
+acupuncturist :: physical therapist assistants
+complementary therapist :: massage therapists
+massage therapist :: massage therapists
+masseur/masseuse :: massage therapists
+shiatsu practitioner :: massage therapists
+dental chairside assistant :: dental assistants
+chiropractic assistant :: medical assistants
+sterile services technician :: medical equipment preparers
+respiratory therapy technician :: medical equipment preparers
+medical laboratory assistant :: medical equipment preparers
+clinical coder :: medical transcriptionists
+medical records clerk :: medical transcriptionists
+medical transcriptionist :: medical transcriptionists
+pharmacy assistant :: pharmacy aides
+veterinary nurse :: veterinary assistants and laboratory animal caretakers
+phlebotomist :: phlebotomists
+correctional services manager :: first-line supervisors of correctional officers
+police commissioner :: first-line supervisors of police and detectives
+security guard supervisor :: first-line supervisors of security workers
+mine rescue officer :: first-line supervisors of protective service workers, all other
+firefighter :: firefighters
+industrial firefighter :: firefighters
+marine firefighter :: firefighters
+fire inspector :: fire inspectors and investigators
+forestry inspector :: forest fire inspectors and prevention specialists
+fire inspector :: forest fire inspectors and prevention specialists
+forest ranger :: forest fire inspectors and prevention specialists
+court bailiff :: bailiffs
+juvenile correctional officer :: correctional officers and jailers
+probation officer :: correctional officers and jailers
+court bailiff :: correctional officers and jailers
+prison officer :: correctional officers and jailers
+criminal investigator :: detectives and criminal investigators
+police detective :: detectives and criminal investigators
+intelligence officer :: intelligence analysts
+game keeper :: fish and game wardens
+civil enforcement officer :: parking enforcement workers
+police officer :: police and sheriff's patrol officers
+civil enforcement officer :: police and sheriff's patrol officers
+police detective :: police and sheriff's patrol officers
+police inspector :: police and sheriff's patrol officers
+street warden :: police and sheriff's patrol officers
+court bailiff :: police and sheriff's patrol officers
+criminal investigator :: police and sheriff's patrol officers
+import export specialist :: customs and border protection officers
+immigration officer :: customs and border protection officers
+customs officer :: customs and border protection officers
+police officer :: transit and railroad police
+civil enforcement officer :: transit and railroad police
+animal welfare inspector :: animal control workers
+private detective :: private detectives and investigators
+police detective :: private detectives and investigators
+store detective :: private detectives and investigators
+gaming inspector :: gambling surveillance officers and gambling investigators
+security guard :: security guards
+crossing guard :: crossing guards and flaggers
+rail traffic controller :: crossing guards and flaggers
+rail switchperson :: crossing guards and flaggers
+life guard :: lifeguards, ski patrol, and other recreational protective service workers
+swimming facility attendant :: lifeguards, ski patrol, and other recreational protective service workers
+coastguard watch officer :: lifeguards, ski patrol, and other recreational protective service workers
+hand luggage inspector :: transportation security screeners
+school bus attendant :: school bus monitors
+chef :: chefs and head cooks
+head chef :: chefs and head cooks
+grill cook :: chefs and head cooks
+industrial cook :: chefs and head cooks
+diet cook :: chefs and head cooks
+fish cook :: chefs and head cooks
+cook :: chefs and head cooks
+head sommelier :: first-line supervisors of food preparation and serving workers
+cook :: cooks, fast food
+fish cook :: cooks, institution and cafeteria
+grill cook :: cooks, institution and cafeteria
+pizzaiolo :: cooks, institution and cafeteria
+cook :: cooks, institution and cafeteria
+private chef :: cooks, private household
+cook :: cooks, private household
+diet cook :: cooks, private household
+diet cook :: cooks, restaurant
+industrial cook :: cooks, restaurant
+grill cook :: cooks, restaurant
+fish cook :: cooks, restaurant
+pizzaiolo :: cooks, restaurant
+cook :: cooks, restaurant
+grill cook :: cooks, short order
+cook :: cooks, short order
+kitchen assistant :: food preparation workers
+food service worker :: food preparation workers
+cocktail bartender :: bartenders
+bartender :: bartenders
+food service worker :: fast food and counter workers
+street food vendor :: fast food and counter workers
+quick service restaurant crew member :: fast food and counter workers
+barista :: baristas
+waiter/waitress :: waiters and waitresses
+waiter/waitress :: food servers, nonrestaurant
+head waiter/head waitress :: food servers, nonrestaurant
+food service worker :: food servers, nonrestaurant
+kitchen porter :: dishwashers
+restaurant host/restaurant hostess :: hosts and hostesses, restaurant, lounge, and coffee shop
+usher :: hosts and hostesses, restaurant, lounge, and coffee shop
+club host/club hostess :: hosts and hostesses, restaurant, lounge, and coffee shop
+host/hostess :: hosts and hostesses, restaurant, lounge, and coffee shop
+sommelier :: food preparation and serving related workers, all other
+wine sommelier :: food preparation and serving related workers, all other
+housekeeping supervisor :: first-line supervisors of housekeeping and janitorial workers
+building cleaner :: janitors and cleaners, except maids and housekeeping cleaners
+window cleaner :: janitors and cleaners, except maids and housekeeping cleaners
+building exterior cleaner :: janitors and cleaners, except maids and housekeeping cleaners
+amusement park cleaner :: janitors and cleaners, except maids and housekeeping cleaners
+building caretaker :: janitors and cleaners, except maids and housekeeping cleaners
+toilet attendant :: janitors and cleaners, except maids and housekeeping cleaners
+train cleaner :: janitors and cleaners, except maids and housekeeping cleaners
+room attendant :: maids and housekeeping cleaners
+domestic cleaner :: maids and housekeeping cleaners
+pest management worker :: pest control workers
+landscape gardener :: landscaping and groundskeeping workers
+garden labourer :: landscaping and groundskeeping workers
+groundsman/groundswoman :: landscaping and groundskeeping workers
+pesticides sprayer :: pesticide handlers, sprayers, and applicators, vegetation
+tree surgeon :: tree trimmers and pruners
+casino gaming manager :: first-line supervisors of gambling services workers
+hospitality entertainment manager :: first-line supervisors of entertainment and recreation workers, except gambling services
+activity leader :: first-line supervisors of entertainment and recreation workers, except gambling services
+outdoor activities coordinator :: first-line supervisors of entertainment and recreation workers, except gambling services
+dog trainer :: animal trainers
+guide dog instructor :: animal trainers
+animal handler :: animal trainers
+animal trainer :: animal trainers
+horse trainer :: animal trainers
+animal care attendant :: animal caretakers
+zookeeper :: animal caretakers
+animal shelter worker :: animal caretakers
+kennel worker :: animal caretakers
+animal groomer :: animal caretakers
+equine worker :: animal caretakers
+farrier :: animal caretakers
+groom :: animal caretakers
+gaming dealer :: gambling dealers
+bookmaker :: gambling and sports book writers and runners
+projectionist :: motion picture projectionists
+performance video operator :: motion picture projectionists
+usher :: ushers, lobby attendants, and ticket takers
+amusement and recreation attendant :: ushers, lobby attendants, and ticket takers
+ticket issuing clerk :: ushers, lobby attendants, and ticket takers
+attraction operator :: ushers, lobby attendants, and ticket takers
+doorman/doorwoman :: ushers, lobby attendants, and ticket takers
+ticket sales agent :: ushers, lobby attendants, and ticket takers
+cloak room attendant :: ushers, lobby attendants, and ticket takers
+amusement and recreation attendant :: amusement and recreation attendants
+attraction operator :: amusement and recreation attendants
+camping ground operative :: amusement and recreation attendants
+costume attendant :: costume attendants
+dresser :: costume attendants
+locker room attendant :: locker room, coatroom, and dressing room attendants
+cloak room attendant :: locker room, coatroom, and dressing room attendants
+spa attendant :: locker room, coatroom, and dressing room attendants
+leisure attendant :: locker room, coatroom, and dressing room attendants
+embalmer :: embalmers
+embalmer :: crematory operators
+funeral attendant :: funeral attendants
+funeral services director :: morticians, undertakers, and funeral arrangers
+barber :: barbers
+hairdresser :: hairdressers, hairstylists, and cosmetologists
+pedicurist :: hairdressers, hairstylists, and cosmetologists
+hair removal technician :: hairdressers, hairstylists, and cosmetologists
+manicurist :: hairdressers, hairstylists, and cosmetologists
+aesthetician :: hairdressers, hairstylists, and cosmetologists
+performance hairdresser :: hairdressers, hairstylists, and cosmetologists
+make-up artist :: makeup artists, theatrical and performance
+make-up and hair designer :: makeup artists, theatrical and performance
+aesthetician :: manicurists and pedicurists
+manicurist :: manicurists and pedicurists
+pedicurist :: manicurists and pedicurists
+hairdresser :: shampooers
+barber :: shampooers
+hairdresser assistant :: shampooers
+hair removal technician :: skincare specialists
+aesthetician :: skincare specialists
+hotel porter :: baggage porters and bellhops
+airport baggage handler :: baggage porters and bellhops
+hotel concierge :: concierges
+tourist guide :: tour guides and escorts
+mountain guide :: tour guides and escorts
+park guide :: tour guides and escorts
+zoo educator :: tour guides and escorts
+tour organiser :: travel guides
+child care coordinator :: childcare workers
+child care worker :: childcare workers
+nanny :: nannies
+sports instructor :: exercise trainers and group fitness instructors
+fitness instructor :: exercise trainers and group fitness instructors
+personal trainer :: exercise trainers and group fitness instructors
+pilates teacher :: exercise trainers and group fitness instructors
+boxing instructor :: exercise trainers and group fitness instructors
+shiatsu practitioner :: exercise trainers and group fitness instructors
+outdoor animator :: recreation workers
+activity leader :: recreation workers
+tourist animator :: recreation workers
+specialised outdoor animator :: recreation workers
+assistant outdoor animator :: recreation workers
+housing manager :: residential advisors
+clothing shop manager :: first-line supervisors of retail sales workers
+textile shop manager :: first-line supervisors of retail sales workers
+shop manager :: first-line supervisors of retail sales workers
+shop supervisor :: first-line supervisors of retail sales workers
+sporting and outdoor accessories shop manager :: first-line supervisors of retail sales workers
+second-hand shop manager :: first-line supervisors of retail sales workers
+ammunition shop manager :: first-line supervisors of retail sales workers
+antique shop manager :: first-line supervisors of retail sales workers
+beverages shop manager :: first-line supervisors of retail sales workers
+building materials shop manager :: first-line supervisors of retail sales workers
+computer shop manager :: first-line supervisors of retail sales workers
+computer software and multimedia shop manager :: first-line supervisors of retail sales workers
+confectionery shop manager :: first-line supervisors of retail sales workers
+cosmetics and perfume shop manager :: first-line supervisors of retail sales workers
+craft shop manager :: first-line supervisors of retail sales workers
+delicatessen shop manager :: first-line supervisors of retail sales workers
+department store manager :: first-line supervisors of retail sales workers
+domestic appliances shop manager :: first-line supervisors of retail sales workers
+drugstore manager :: first-line supervisors of retail sales workers
+fish and seafood shop manager :: first-line supervisors of retail sales workers
+floor and wall coverings shop manager :: first-line supervisors of retail sales workers
+fruit and vegetables shop manager :: first-line supervisors of retail sales workers
+fuel station manager :: first-line supervisors of retail sales workers
+furniture shop manager :: first-line supervisors of retail sales workers
+hardware and paint shop manager :: first-line supervisors of retail sales workers
+jewellery and watches shop manager :: first-line supervisors of retail sales workers
+kitchen and bathroom shop manager :: first-line supervisors of retail sales workers
+meat and meat products shop manager :: first-line supervisors of retail sales workers
+medical goods shop manager :: first-line supervisors of retail sales workers
+motor vehicle shop manager :: first-line supervisors of retail sales workers
+music and video shop manager :: first-line supervisors of retail sales workers
+orthopaedic supply shop manager :: first-line supervisors of retail sales workers
+pet and pet food shop manager :: first-line supervisors of retail sales workers
+photography shop manager :: first-line supervisors of retail sales workers
+retail department manager :: first-line supervisors of retail sales workers
+telecommunication equipment shop manager :: first-line supervisors of retail sales workers
+tobacco shop manager :: first-line supervisors of retail sales workers
+toys and games shop manager :: first-line supervisors of retail sales workers
+shop supervisor :: first-line supervisors of non-retail sales workers
+second-hand shop manager :: first-line supervisors of non-retail sales workers
+press and stationery shop manager :: first-line supervisors of non-retail sales workers
+supermarket manager :: first-line supervisors of non-retail sales workers
+sporting and outdoor accessories shop manager :: first-line supervisors of non-retail sales workers
+bookshop manager :: first-line supervisors of non-retail sales workers
+shoe and leather accessories shop manager :: first-line supervisors of non-retail sales workers
+cashier :: cashiers
+casino cashier :: cashiers
+lottery cashier :: cashiers
+foreign exchange cashier :: cashiers
+casino cashier :: gambling change persons and booth cashiers
+lottery cashier :: gambling change persons and booth cashiers
+rental service representative :: counter and rental clerks
+rental service representative in recreational and sports goods :: counter and rental clerks
+rental service representative in video tapes and disks :: counter and rental clerks
+rental service representative in trucks :: counter and rental clerks
+rental service representative in construction and civil engineering machinery :: counter and rental clerks
+rental service representative in personal and household goods :: counter and rental clerks
+rental service representative in agricultural machinery and equipment :: counter and rental clerks
+rental service representative in office machinery and equipment :: counter and rental clerks
+rental service representative in other machinery, equipment and tangible goods :: counter and rental clerks
+rental service representative in water transport equipment :: counter and rental clerks
+rental service representative in air transport equipment :: counter and rental clerks
+vehicle rental agent :: counter and rental clerks
+sales assistant :: parts salespersons
+motor vehicles parts advisor :: parts salespersons
+furniture specialised seller :: retail salespersons
+hardware and paint specialised seller :: retail salespersons
+toys and games specialised seller :: retail salespersons
+floor and wall coverings specialised seller :: retail salespersons
+second-hand goods specialised seller :: retail salespersons
+building materials specialised seller :: retail salespersons
+music and video shop specialised seller :: retail salespersons
+domestic appliances specialised seller :: retail salespersons
+specialised seller :: retail salespersons
+ammunition specialised seller :: retail salespersons
+audio and video equipment specialised seller :: retail salespersons
+beverages specialised seller :: retail salespersons
+bookshop specialised seller :: retail salespersons
+clothing specialised seller :: retail salespersons
+computer and accessories specialised seller :: retail salespersons
+computer games, multimedia and software specialised seller :: retail salespersons
+confectionery specialised seller :: retail salespersons
+cosmetics and perfume specialised seller :: retail salespersons
+delicatessen specialised seller :: retail salespersons
+fish and seafood specialised seller :: retail salespersons
+fruit and vegetables specialised seller :: retail salespersons
+jewellery and watches specialised seller :: retail salespersons
+orthopaedic supplies specialised seller :: retail salespersons
+pet and pet food specialised seller :: retail salespersons
+press and stationery specialised seller :: retail salespersons
+shoe and leather accessories specialised seller :: retail salespersons
+shop assistant :: retail salespersons
+specialised antique dealer :: retail salespersons
+sporting accessories specialised seller :: retail salespersons
+telecommunications equipment specialised seller :: retail salespersons
+textile specialised seller :: retail salespersons
+tobacco specialised seller :: retail salespersons
+advertising sales agent :: advertising sales agents
+insurance broker :: insurance sales agents
+securities trader :: securities, commodities, and financial services sales agents
+commodity trader :: securities, commodities, and financial services sales agents
+energy trader :: securities, commodities, and financial services sales agents
+foreign exchange trader :: securities, commodities, and financial services sales agents
+futures trader :: securities, commodities, and financial services sales agents
+stock trader :: securities, commodities, and financial services sales agents
+ticket sales agent :: travel agents
+travel agent :: travel agents
+tourism contract negotiator :: travel agents
+commercial sales representative :: sales representatives of services, except advertising, insurance, financial services, and travel
+electricity sales representative :: sales representatives of services, except advertising, insurance, financial services, and travel
+renewable energy sales representative :: sales representatives of services, except advertising, insurance, financial services, and travel
+client relations manager :: sales representatives of services, except advertising, insurance, financial services, and travel
+technical sales representative in chemical products :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in hardware, plumbing and heating equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in machinery and industrial equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in office machinery and equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in electronic and telecommunications equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in the textile machinery industry :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in mining and construction machinery :: sales representatives, wholesale and manufacturing, technical and scientific products
+technical sales representative in agricultural machinery and equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+client relations manager :: sales representatives, wholesale and manufacturing, technical and scientific products
+ict account manager :: sales representatives, wholesale and manufacturing, technical and scientific products
+medical sales representative :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in agricultural machinery and equipment :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in chemical products :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in electrical household appliances :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in electronic and telecommunications equipment and parts :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in hardware, plumbing and heating equipment and supplies :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in machinery, industrial equipment, ships and aircraft :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in metals and metal ores :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in mining, construction and civil engineering machinery :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in pharmaceutical goods :: sales representatives, wholesale and manufacturing, technical and scientific products
+wholesale merchant in textile industry machinery :: sales representatives, wholesale and manufacturing, technical and scientific products
+renewable energy sales representative :: solar sales representatives and assessors
+solar energy sales consultant :: solar sales representatives and assessors
+renewable energy consultant :: solar sales representatives and assessors
+energy consultant :: solar sales representatives and assessors
+commercial sales representative :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in the textile machinery industry :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in mining and construction machinery :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in agricultural machinery and equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in chemical products :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in machinery and industrial equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in office machinery and equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in machine tools :: sales representatives, wholesale and manufacturing, except technical and scientific products
+technical sales representative in electronic and telecommunications equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+client relations manager :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in agricultural raw materials, seeds and animal feeds :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in beverages :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in china and other glassware :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in clothing and footwear :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in coffee, tea, cocoa and spices :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in dairy products and edible oils :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in fish, crustaceans and molluscs :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in flowers and plants :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in fruit and vegetables :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in furniture, carpets and lighting equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in hides, skins and leather products :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in household goods :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in live animals :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in meat and meat products :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in office furniture :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in office machinery and equipment :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in perfume and cosmetics :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in sugar, chocolate and sugar confectionery :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in textiles and textile semi-finished and raw materials :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in tobacco products :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in waste and scrap :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in watches and jewellery :: sales representatives, wholesale and manufacturing, except technical and scientific products
+wholesale merchant in wood and construction materials :: sales representatives, wholesale and manufacturing, except technical and scientific products
+promotions demonstrator :: demonstrators and product promoters
+fashion model :: models
+art model :: models
+real estate leasing manager :: real estate brokers
+property acquisitions manager :: real estate brokers
+letting agent :: real estate sales agents
+real estate agent :: real estate sales agents
+sales engineer :: sales engineers
+technical sales representative in office machinery and equipment :: sales engineers
+technical sales representative in chemical products :: sales engineers
+technical sales representative in hardware, plumbing and heating equipment :: sales engineers
+technical sales representative in the textile machinery industry :: sales engineers
+technical sales representative in agricultural machinery and equipment :: sales engineers
+technical sales representative in machinery and industrial equipment :: sales engineers
+technical sales representative in mining and construction machinery :: sales engineers
+technical sales representative in electronic and telecommunications equipment :: sales engineers
+call centre agent :: telemarketers
+door to door seller :: door-to-door sales workers, news and street vendors, and related workers
+hawker :: door-to-door sales workers, news and street vendors, and related workers
+street food vendor :: door-to-door sales workers, news and street vendors, and related workers
+leaflet distributor :: door-to-door sales workers, news and street vendors, and related workers
+market vendor :: door-to-door sales workers, news and street vendors, and related workers
+car leasing agent :: sales and related workers, all other
+office manager :: first-line supervisors of office and administrative support workers
+call centre supervisor :: first-line supervisors of office and administrative support workers
+contact centre supervisor :: first-line supervisors of office and administrative support workers
+call centre analyst :: first-line supervisors of office and administrative support workers
+telephone switchboard operator :: switchboard operators, including answering service
+emergency medical dispatcher :: switchboard operators, including answering service
+call centre agent :: switchboard operators, including answering service
+rail switchperson :: switchboard operators, including answering service
+telephone switchboard operator :: telephone operators
+call centre agent :: telephone operators
+emergency medical dispatcher :: telephone operators
+customer contact centre information clerk :: telephone operators
+crisis helpline operator :: telephone operators
+debt collector :: bill and account collectors
+billing clerk :: billing and posting clerks
+accounting assistant :: bookkeeping, accounting, and auditing clerks
+bookkeeper :: bookkeeping, accounting, and auditing clerks
+auditing clerk :: bookkeeping, accounting, and auditing clerks
+accounting analyst :: bookkeeping, accounting, and auditing clerks
+accountant :: bookkeeping, accounting, and auditing clerks
+billing clerk :: bookkeeping, accounting, and auditing clerks
+payroll clerk :: bookkeeping, accounting, and auditing clerks
+casino cashier :: gambling cage workers
+payroll clerk :: payroll and timekeeping clerks
+ict buyer :: procurement clerks
+purchase planner :: procurement clerks
+procurement support officer :: procurement clerks
+bank teller :: tellers
+financial markets back office administrator :: brokerage clerks
+back office specialist :: brokerage clerks
+foreign language correspondence clerk :: correspondence clerks
+court clerk :: court, municipal, and license clerks
+customer service representative :: customer service representatives
+medical records clerk :: file clerks
+file clerk :: file clerks
+hotel concierge :: hotel, motel, and resort desk clerks
+survey enumerator :: interviewers, except eligibility and loan
+market research interviewer :: interviewers, except eligibility and loan
+library assistant :: library assistants, clerical
+zoo registrar :: library assistants, clerical
+bank account manager :: new accounts clerks
+sales processor :: order clerks
+office clerk :: order clerks
+human resources assistant :: human resources assistants, except payroll and timekeeping
+human resources officer :: human resources assistants, except payroll and timekeeping
+hospitality establishment receptionist :: receptionists and information clerks
+receptionist :: receptionists and information clerks
+front line medical receptionist :: receptionists and information clerks
+customer contact centre information clerk :: receptionists and information clerks
+veterinary receptionist :: receptionists and information clerks
+travel consultant :: reservation and transportation ticket agents and travel clerks
+ticket sales agent :: reservation and transportation ticket agents and travel clerks
+ticket issuing clerk :: reservation and transportation ticket agents and travel clerks
+membership administrator :: information and record clerks, all other
+freight transport dispatcher :: cargo and freight agents
+aircraft cargo operations coordinator :: cargo and freight agents
+freight transport dispatcher :: freight forwarders
+international forwarding operations coordinator :: freight forwarders
+rail logistics coordinator :: freight forwarders
+car and van delivery driver :: couriers and messengers
+motorcycle delivery person :: couriers and messengers
+postman/postwoman :: couriers and messengers
+bicycle courier :: couriers and messengers
+emergency medical dispatcher :: public safety telecommunicators
+distribution centre dispatcher :: dispatchers, except police, fire, and ambulance
+ship pilot dispatcher :: dispatchers, except police, fire, and ambulance
+taxi controller :: dispatchers, except police, fire, and ambulance
+aircraft dispatcher :: dispatchers, except police, fire, and ambulance
+bus route supervisor :: dispatchers, except police, fire, and ambulance
+freight transport dispatcher :: dispatchers, except police, fire, and ambulance
+train dispatcher :: dispatchers, except police, fire, and ambulance
+vessel operations coordinator :: dispatchers, except police, fire, and ambulance
+meter reader :: meter readers, utilities
+post office counter clerk :: postal service clerks
+postman/postwoman :: postal service mail carriers
+mail clerk :: postal service mail sorters, processors, and processing machine operators
+leather production planner :: production, planning, and expediting clerks
+food production planner :: production, planning, and expediting clerks
+machinery assembly coordinator :: production, planning, and expediting clerks
+gas scheduling representative :: production, planning, and expediting clerks
+raw materials warehouse specialist :: shipping, receiving, and inventory clerks
+inventory coordinator :: shipping, receiving, and inventory clerks
+move coordinator :: shipping, receiving, and inventory clerks
+raw material reception operator :: weighers, measurers, checkers, and samplers, recordkeeping
+executive assistant :: executive secretaries and executive administrative assistants
+parliamentary assistant :: executive secretaries and executive administrative assistants
+legal administrative assistant :: legal secretaries and administrative assistants
+medical administrative assistant :: medical secretaries and administrative assistants
+chiropractic assistant :: medical secretaries and administrative assistants
+front line medical receptionist :: medical secretaries and administrative assistants
+medical transcriptionist :: medical secretaries and administrative assistants
+administrative assistant :: secretaries and administrative assistants, except legal, medical, and executive
+secretary :: secretaries and administrative assistants, except legal, medical, and executive
+data entry clerk :: data entry keyers
+typist :: word processors and typists
+court reporter :: word processors and typists
+medical transcriptionist :: word processors and typists
+desktop publisher :: desktop publishers
+typesetter :: desktop publishers
+insurance clerk :: insurance claims and policy processing clerks
+mail clerk :: mail clerks and mail machine operators, except postal service
+office clerk :: office clerks, general
+reprographics technician :: office machine operators, except computer
+bindery operator :: office machine operators, except computer
+scanning operator :: office machine operators, except computer
+print folding operator :: office machine operators, except computer
+proofreader :: proofreaders and copy markers
+typesetter :: proofreaders and copy markers
+copy editor :: proofreaders and copy markers
+statistical assistant :: statistical assistants
+actuarial assistant :: statistical assistants
+election observer :: office and administrative support workers, all other
+aquaculture site supervisor :: first-line supervisors of farming, fishing, and forestry workers
+forestry technician :: first-line supervisors of farming, fishing, and forestry workers
+agronomic crop production team leader :: first-line supervisors of farming, fishing, and forestry workers
+fruit production team leader :: first-line supervisors of farming, fishing, and forestry workers
+equine yard manager :: first-line supervisors of farming, fishing, and forestry workers
+vineyard supervisor :: first-line supervisors of farming, fishing, and forestry workers
+farm milk controller :: agricultural inspectors
+food safety inspector :: agricultural inspectors
+agricultural inspector :: agricultural inspectors
+pig breeder :: animal breeders
+cattle breeder :: animal breeders
+poultry breeder :: animal breeders
+bee breeder :: animal breeders
+sheep breeder :: animal breeders
+dog breeder :: animal breeders
+fur animals breeder :: animal breeders
+horse breeder :: animal breeders
+food grader :: graders and sorters, agricultural products
+product grader :: graders and sorters, agricultural products
+leaf sorter :: graders and sorters, agricultural products
+hide grader :: graders and sorters, agricultural products
+leaf tier :: graders and sorters, agricultural products
+land-based machinery operator :: agricultural equipment operators
+aquaculture cage mooring worker :: agricultural equipment operators
+cotton gin operator :: agricultural equipment operators
+crop production worker :: farmworkers and laborers, crop, nursery, and greenhouse
+horticulture worker :: farmworkers and laborers, crop, nursery, and greenhouse
+fruit and vegetable picker :: farmworkers and laborers, crop, nursery, and greenhouse
+vineyard worker :: farmworkers and laborers, crop, nursery, and greenhouse
+vineyard machinery operator :: farmworkers and laborers, crop, nursery, and greenhouse
+pig breeder :: farmworkers, farm, ranch, and aquacultural animals
+poultry breeder :: farmworkers, farm, ranch, and aquacultural animals
+aquaculture hatchery worker :: farmworkers, farm, ranch, and aquacultural animals
+aquaculture husbandry worker :: farmworkers, farm, ranch, and aquacultural animals
+cattle pedicure :: farmworkers, farm, ranch, and aquacultural animals
+water-based aquaculture worker :: farmworkers, farm, ranch, and aquacultural animals
+aquaculture harvesting worker :: agricultural workers, all other
+hunter :: fishing and hunting workers
+boatswain :: fishing and hunting workers
+deep-sea fishery worker :: fishing and hunting workers
+fisheries deckhand :: fishing and hunting workers
+fishing net maker :: fishing and hunting workers
+on foot aquatic resources collector :: fishing and hunting workers
+forest worker :: forest and conservation workers
+forestry equipment operator :: logging equipment operators
+veneer grader :: log graders and scalers
+engineered wood board grader :: log graders and scalers
+pulp grader :: log graders and scalers
+lumber grader :: log graders and scalers
+construction general supervisor :: first-line supervisors of construction trades and extraction workers
+bridge construction supervisor :: first-line supervisors of construction trades and extraction workers
+dredging supervisor :: first-line supervisors of construction trades and extraction workers
+demolition supervisor :: first-line supervisors of construction trades and extraction workers
+construction scaffolding supervisor :: first-line supervisors of construction trades and extraction workers
+concrete finisher supervisor :: first-line supervisors of construction trades and extraction workers
+sewer construction supervisor :: first-line supervisors of construction trades and extraction workers
+road construction supervisor :: first-line supervisors of construction trades and extraction workers
+structural ironwork supervisor :: first-line supervisors of construction trades and extraction workers
+roofing supervisor :: first-line supervisors of construction trades and extraction workers
+construction painting supervisor :: first-line supervisors of construction trades and extraction workers
+lift installation supervisor :: first-line supervisors of construction trades and extraction workers
+mine shift manager :: first-line supervisors of construction trades and extraction workers
+paperhanger supervisor :: first-line supervisors of construction trades and extraction workers
+pipeline route manager :: first-line supervisors of construction trades and extraction workers
+plumbing supervisor :: first-line supervisors of construction trades and extraction workers
+boilermaker :: boilermakers
+marine fitter :: boilermakers
+container equipment assembler :: boilermakers
+bricklayer :: brickmasons and blockmasons
+stonemason :: stonemasons
+carpenter :: carpenters
+carpet fitter :: carpet installers
+resilient floor layer :: floor layers, except carpet, wood, and hard tiles
+tile fitter :: tile and stone setters
+concrete finisher :: cement masons and concrete finishers
+terrazzo setter :: terrazzo workers and finishers
+building construction worker :: construction laborers
+road construction worker :: construction laborers
+civil engineering worker :: construction laborers
+concrete finisher :: construction laborers
+demolition worker :: construction laborers
+road construction worker :: paving, surfacing, and tamping equipment operators
+road roller operator :: paving, surfacing, and tamping equipment operators
+scraper operator :: paving, surfacing, and tamping equipment operators
+road maintenance worker :: paving, surfacing, and tamping equipment operators
+grader operator :: paving, surfacing, and tamping equipment operators
+pile driving hammer operator :: pile driver operators
+bulldozer operator :: operating engineers and other construction equipment operators
+excavator operator :: operating engineers and other construction equipment operators
+road roller operator :: operating engineers and other construction equipment operators
+scraper operator :: operating engineers and other construction equipment operators
+road construction worker :: operating engineers and other construction equipment operators
+grader operator :: operating engineers and other construction equipment operators
+ceiling installer :: drywall and ceiling tile installers
+electrician :: electricians
+industrial electrician :: electricians
+domestic electrician :: electricians
+building electrician :: electricians
+event electrician :: electricians
+plate glass installer :: glaziers
+vehicle glazier :: glaziers
+insulation worker :: insulation workers, floor, ceiling, and wall
+insulation worker :: insulation workers, mechanical
+construction painter :: painters, construction and maintenance
+paperhanger :: paperhangers
+advertising installer :: paperhangers
+drainage worker :: pipelayers
+sewer construction worker :: pipelayers
+civil engineering worker :: pipelayers
+plumber :: plumbers, pipefitters, and steamfitters
+sprinkler fitter :: plumbers, pipefitters, and steamfitters
+solar energy technician :: solar thermal installers and technicians
+plasterer :: plasterers and stucco masons
+roofer :: roofers
+sheet metal worker :: sheet metal workers
+structural ironworker :: structural iron and steel workers
+solar energy technician :: solar photovoltaic installers
+tent installer :: helpers, construction trades, all other
+utilities inspector :: construction and building inspectors
+construction quality inspector :: construction and building inspectors
+construction safety inspector :: construction and building inspectors
+building inspector :: construction and building inspectors
+bridge inspector :: construction and building inspectors
+energy analyst :: energy auditors
+energy conservation officer :: energy auditors
+energy consultant :: energy auditors
+renewable energy consultant :: energy auditors
+domestic energy assessor :: energy auditors
+energy assessor :: energy auditors
+lift technician :: elevator and escalator installers and repairers
+building construction worker :: fence erectors
+decontamination worker :: hazardous materials removal workers
+asbestos abatement worker :: hazardous materials removal workers
+liquid waste treatment plant operator :: hazardous materials removal workers
+road maintenance worker :: highway maintenance workers
+road marker :: highway maintenance workers
+road sign installer :: highway maintenance workers
+snow-clearing worker :: highway maintenance workers
+rail maintenance technician :: rail-track laying and maintenance equipment operators
+rail layer :: rail-track laying and maintenance equipment operators
+septic tank servicer :: septic tank servicers and sewer pipe cleaners
+sewerage cleaner :: septic tank servicers and sewer pipe cleaners
+road construction worker :: segmental pavers
+derrickhand :: derrick operators, oil and gas
+oil rig motorhand :: rotary drill operators, oil and gas
+drill operator :: rotary drill operators, oil and gas
+driller :: rotary drill operators, oil and gas
+surface mine plant operator :: excavating and loading machine and dragline operators, surface mining
+surface miner :: excavating and loading machine and dragline operators, surface mining
+tunnel boring machine operator :: earth drillers, except oil and gas
+bomb disposal technician :: explosives workers, ordnance handling experts, and blasters
+underground heavy equipment operator :: continuous mining machine operators
+underground heavy equipment operator :: roof bolters, mining
+underground heavy equipment operator :: loading and moving machine operators, underground mining
+underground miner :: loading and moving machine operators, underground mining
+stone splitter :: rock splitters, quarry
+mineral crushing operator :: rock splitters, quarry
+stone planer :: rock splitters, quarry
+stone driller :: rock splitters, quarry
+roustabout :: roustabouts, oil and gas
+mining assistant :: helpers--extraction workers
+vehicle maintenance supervisor :: first-line supervisors of mechanics, installers, and repairers
+garage manager :: first-line supervisors of mechanics, installers, and repairers
+industrial maintenance supervisor :: first-line supervisors of mechanics, installers, and repairers
+precision mechanics supervisor :: first-line supervisors of mechanics, installers, and repairers
+water conservation technician supervisor :: first-line supervisors of mechanics, installers, and repairers
+computer hardware repair technician :: computer, automated teller, and office machine repairers
+ict technician :: computer, automated teller, and office machine repairers
+atm repair technician :: computer, automated teller, and office machine repairers
+office equipment repair technician :: computer, automated teller, and office machine repairers
+telecommunications technician :: radio, cellular, and tower equipment installers and repairers
+telecommunications equipment maintainer :: radio, cellular, and tower equipment installers and repairers
+communication infrastructure maintainer :: radio, cellular, and tower equipment installers and repairers
+radio technician :: radio, cellular, and tower equipment installers and repairers
+telecommunications engineering technician :: radio, cellular, and tower equipment installers and repairers
+telecommunications engineer :: radio, cellular, and tower equipment installers and repairers
+mobile phone repair technician :: radio, cellular, and tower equipment installers and repairers
+telecommunications technician :: telecommunications equipment installers and repairers, except line installers
+radio technician :: telecommunications equipment installers and repairers, except line installers
+avionics technician :: avionics technicians
+aircraft maintenance technician :: avionics technicians
+aerospace engineering technician :: avionics technicians
+electrical mechanic :: electric motor, power tool, and related repairers
+electrician :: electric motor, power tool, and related repairers
+automotive electrician :: electric motor, power tool, and related repairers
+power tool repair technician :: electric motor, power tool, and related repairers
+telecommunications technician :: electrical and electronics installers and repairers, transportation equipment
+marine electronics technician :: electrical and electronics installers and repairers, transportation equipment
+consumer electronics repair technician :: electrical and electronics repairers, commercial and industrial equipment
+electrician :: electrical and electronics repairers, commercial and industrial equipment
+industrial electrician :: electrical and electronics repairers, commercial and industrial equipment
+building electrician :: electrical and electronics repairers, commercial and industrial equipment
+marine electronics technician :: electrical and electronics repairers, commercial and industrial equipment
+railway electronic technician :: electrical and electronics repairers, commercial and industrial equipment
+electrician :: electrical and electronics repairers, powerhouse, substation, and relay
+industrial electrician :: electrical and electronics repairers, powerhouse, substation, and relay
+building electrician :: electrical and electronics repairers, powerhouse, substation, and relay
+street lighting electrician :: electrical and electronics repairers, powerhouse, substation, and relay
+electrical power distributor :: electrical and electronics repairers, powerhouse, substation, and relay
+overhead line worker :: electrical and electronics repairers, powerhouse, substation, and relay
+vehicle electronics installer :: electronic equipment installers and repairers, motor vehicles
+automotive electrician :: electronic equipment installers and repairers, motor vehicles
+security alarm technician :: security and fire alarm systems installers
+fire protection technician :: security and fire alarm systems installers
+sprinkler fitter :: security and fire alarm systems installers
+avionics technician :: aircraft mechanics and service technicians
+aerospace engineering technician :: aircraft mechanics and service technicians
+aircraft gas turbine engine overhaul technician :: aircraft mechanics and service technicians
+aircraft engine tester :: aircraft mechanics and service technicians
+aircraft maintenance technician :: aircraft mechanics and service technicians
+restoration technician :: automotive body and related repairers
+vehicle glazier :: automotive body and related repairers
+vehicle glazier :: automotive glass installers and repairers
+vehicle technician :: automotive service technicians and mechanics
+automotive brake technician :: automotive service technicians and mechanics
+roadside vehicle technician :: automotive service technicians and mechanics
+diesel engine mechanic :: bus and truck mechanics and diesel engine specialists
+vehicle technician :: bus and truck mechanics and diesel engine specialists
+automotive brake technician :: bus and truck mechanics and diesel engine specialists
+roadside vehicle technician :: bus and truck mechanics and diesel engine specialists
+land-based machinery technician :: farm equipment mechanics and service technicians
+agricultural machinery technician :: farm equipment mechanics and service technicians
+irrigation system installer :: farm equipment mechanics and service technicians
+water-based aquaculture technician :: farm equipment mechanics and service technicians
+mining equipment mechanic :: mobile heavy equipment mechanics, except engines
+construction equipment technician :: mobile heavy equipment mechanics, except engines
+land-based machinery technician :: mobile heavy equipment mechanics, except engines
+forge equipment technician :: mobile heavy equipment mechanics, except engines
+agricultural machinery technician :: mobile heavy equipment mechanics, except engines
+marine mechanic :: motorboat mechanics and service technicians
+vehicle technician :: motorcycle mechanics
+power tool repair technician :: outdoor power equipment and other small engine mechanics
+bicycle mechanic :: bicycle repairers
+vehicle technician :: recreational vehicle service technicians
+tyre fitter :: tire repairers and changers
+tyre vulcaniser :: tire repairers and changers
+door installer :: mechanical door repairers
+electric meter technician :: control and valve installers and repairers, except mechanical door
+heating and ventilation service engineer :: heating, air conditioning, and refrigeration mechanics and installers
+fireplace installer :: heating, air conditioning, and refrigeration mechanics and installers
+household appliances repair technician :: home appliance repairers
+smart home installer :: home appliance repairers
+industrial machinery mechanic :: industrial machinery mechanics
+rotating equipment mechanic :: industrial machinery mechanics
+textile machinery technician :: industrial machinery mechanics
+forge equipment technician :: industrial machinery mechanics
+industrial machinery assembler :: industrial machinery mechanics
+footwear maintenance technician :: industrial machinery mechanics
+leather goods maintenance technician :: industrial machinery mechanics
+pneumatic systems technician :: industrial machinery mechanics
+water plant technician :: industrial machinery mechanics
+greaser :: maintenance workers, machinery
+industrial machinery mechanic :: millwrights
+hand brick moulder :: refractory materials repairers, except brickmasons
+electricity distribution technician :: electrical power-line installers and repairers
+overhead line worker :: electrical power-line installers and repairers
+cable jointer :: electrical power-line installers and repairers
+street lighting electrician :: electrical power-line installers and repairers
+communication infrastructure maintainer :: telecommunications line installers and repairers
+consumer electronics repair technician :: camera and photographic equipment repairers
+medical device engineering technician :: medical equipment repairers
+optical instrument repairer :: medical equipment repairers
+medical device engineer :: medical equipment repairers
+musical instrument technician :: musical instrument repairers and tuners
+instrument technician :: musical instrument repairers and tuners
+watch and clock repairer :: watch and clock repairers
+handyman :: maintenance and repair workers, general
+offshore renewable energy technician :: wind turbine service technicians
+vending machine operator :: coin, vending, and amusement machine servicers and repairers
+construction commercial diver :: commercial divers
+rescue diver :: commercial divers
+harvest diver :: commercial divers
+locksmith :: locksmiths and safe repairers
+house builder :: manufactured building and mobile home installers
+rigger :: riggers
+high rigger :: riggers
+ground rigger :: riggers
+boat rigger :: riggers
+rail maintenance technician :: signal and track switch repairers
+geothermal technician :: geothermal technicians
+production supervisor :: first-line supervisors of production and operating workers
+plastic and rubber products manufacturing supervisor :: first-line supervisors of production and operating workers
+machine operator supervisor :: first-line supervisors of production and operating workers
+paper mill supervisor :: first-line supervisors of production and operating workers
+metal production supervisor :: first-line supervisors of production and operating workers
+footwear assembly supervisor :: first-line supervisors of production and operating workers
+machinery assembly supervisor :: first-line supervisors of production and operating workers
+rolling stock assembly supervisor :: first-line supervisors of production and operating workers
+aircraft assembly supervisor :: first-line supervisors of production and operating workers
+animal feed supervisor :: first-line supervisors of production and operating workers
+container equipment assembly supervisor :: first-line supervisors of production and operating workers
+dairy processing technician :: first-line supervisors of production and operating workers
+electrical equipment production supervisor :: first-line supervisors of production and operating workers
+electronics production supervisor :: first-line supervisors of production and operating workers
+footwear production supervisor :: first-line supervisors of production and operating workers
+greenãâ coffeeãâ coordinator :: first-line supervisors of production and operating workers
+leather goods production supervisor :: first-line supervisors of production and operating workers
+leather wet processing department manager :: first-line supervisors of production and operating workers
+malt house supervisor :: first-line supervisors of production and operating workers
+print studio supervisor :: first-line supervisors of production and operating workers
+refinery shift manager :: first-line supervisors of production and operating workers
+vessel assembly supervisor :: first-line supervisors of production and operating workers
+welding coordinator :: first-line supervisors of production and operating workers
+aircraft assembler :: aircraft structure, surfaces, rigging, and systems assemblers
+insulating tube winder :: coil winders, tapers, and finishers
+winding machine operator :: coil winders, tapers, and finishers
+electronic equipment assembler :: electrical and electronic equipment assemblers
+electrical equipment assembler :: electrical and electronic equipment assemblers
+control panel assembler :: electrical and electronic equipment assemblers
+battery assembler :: electrical and electronic equipment assemblers
+electromechanical equipment assembler :: electromechanical equipment assemblers
+motor vehicle engine assembler :: engine and other machine assemblers
+vessel engine assembler :: engine and other machine assemblers
+aircraft engine assembler :: engine and other machine assemblers
+industrial machinery assembler :: engine and other machine assemblers
+ornamental metal worker :: structural metal fabricators and fitters
+spot welder :: structural metal fabricators and fitters
+metal products assembler :: structural metal fabricators and fitters
+riveter :: structural metal fabricators and fitters
+fiberglass laminator :: fiberglass laminators and fabricators
+clock and watchmaker :: timing device assemblers and adjusters
+watch and clock repairer :: timing device assemblers and adjusters
+industrial machinery assembler :: team assemblers
+metal products assembler :: team assemblers
+rolling stock assembler :: team assemblers
+motor vehicle parts assembler :: team assemblers
+bicycle assembler :: team assemblers
+vessel engine assembler :: team assemblers
+motor vehicle assembler :: team assemblers
+motor vehicle body assembler :: team assemblers
+motorcycle assembler :: team assemblers
+manufactured wooden building assembler :: team assemblers
+furniture assembler :: assemblers and fabricators, all other
+wicker furniture maker :: assemblers and fabricators, all other
+baker :: bakers
+pastry maker :: bakers
+confectioner :: bakers
+butcher :: butchers and meat cutters
+kosher butcher :: butchers and meat cutters
+halal butcher :: butchers and meat cutters
+meat cutter :: meat, poultry, and fish cutters and trimmers
+fish trimmer :: meat, poultry, and fish cutters and trimmers
+slaughterer :: slaughterers and meat packers
+kosher slaughterer :: slaughterers and meat packers
+halal slaughterer :: slaughterers and meat packers
+dryer attendant :: food and tobacco roasting, baking, and drying machine operators and tenders
+cacao bean roaster :: food and tobacco roasting, baking, and drying machine operators and tenders
+malt kiln operator :: food and tobacco roasting, baking, and drying machine operators and tenders
+coffee roaster :: food and tobacco roasting, baking, and drying machine operators and tenders
+brew house operator :: food batchmakers
+bulk filler :: food batchmakers
+candy machine operator :: food batchmakers
+hydrogenation machine operator :: food batchmakers
+blanching operator :: food processing workers, all other
+cellar operator :: food processing workers, all other
+chocolate moulding operator :: food processing workers, all other
+cider fermentation operator :: food processing workers, all other
+cocoa mill operator :: food processing workers, all other
+cocoa press operator :: food processing workers, all other
+coffee grinder :: food processing workers, all other
+dairy products maker :: food processing workers, all other
+fish production operator :: food processing workers, all other
+fruit and vegetable canner :: food processing workers, all other
+fruit-press operator :: food processing workers, all other
+honey extractor :: food processing workers, all other
+master coffee roaster :: food processing workers, all other
+milk reception operator :: food processing workers, all other
+oil mill operator :: food processing workers, all other
+yeast distiller :: food processing workers, all other
+extrusion machine operator :: extruding and drawing machine setters, operators, and tenders, metal and plastic
+swaging machine operator :: forging machine setters, operators, and tenders, metal and plastic
+drop forging hammer worker :: forging machine setters, operators, and tenders, metal and plastic
+mechanical forging press worker :: forging machine setters, operators, and tenders, metal and plastic
+upsetting machine operator :: forging machine setters, operators, and tenders, metal and plastic
+metal drawing machine operator :: forging machine setters, operators, and tenders, metal and plastic
+hydraulic forging press worker :: forging machine setters, operators, and tenders, metal and plastic
+straightening machine operator :: forging machine setters, operators, and tenders, metal and plastic
+stamping press operator :: forging machine setters, operators, and tenders, metal and plastic
+spring maker :: forging machine setters, operators, and tenders, metal and plastic
+metal rolling mill operator :: rolling machine setters, operators, and tenders, metal and plastic
+plastic rolling machine operator :: rolling machine setters, operators, and tenders, metal and plastic
+punch press operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+laser cutting machine operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+metal nibbling operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+metal sawing machine operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+slitter operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+straightening machine operator :: cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+drilling machine operator :: drilling and boring machine tool setters, operators, and tenders, metal and plastic
+boring machine operator :: drilling and boring machine tool setters, operators, and tenders, metal and plastic
+drill press operator :: drilling and boring machine tool setters, operators, and tenders, metal and plastic
+cylindrical grinder operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+grinding machine operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+surface grinding machine operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+tool grinder :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+metal polisher :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+deburring machine operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+filing machine operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+abrasive blasting operator :: grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+lathe and turning machine operator :: lathe and turning machine tool setters, operators, and tenders, metal and plastic
+computer numerical control machine operator :: lathe and turning machine tool setters, operators, and tenders, metal and plastic
+screw machine operator :: lathe and turning machine tool setters, operators, and tenders, metal and plastic
+metal planer operator :: lathe and turning machine tool setters, operators, and tenders, metal and plastic
+metalworking lathe operator :: lathe and turning machine tool setters, operators, and tenders, metal and plastic
+computer numerical control machine operator :: milling and planing machine setters, operators, and tenders, metal and plastic
+milling machine operator :: milling and planing machine setters, operators, and tenders, metal and plastic
+metal planer operator :: milling and planing machine setters, operators, and tenders, metal and plastic
+gear machinist :: machinists
+lathe and turning machine operator :: machinists
+metal planer operator :: machinists
+fitter and turner :: machinists
+computer numerical control machine operator :: machinists
+screw machine operator :: machinists
+milling machine operator :: machinists
+tool and die maker :: machinists
+metal furnace operator :: metal-refining furnace operators and tenders
+foundry operative :: pourers and casters, metal
+coquille casting worker :: pourers and casters, metal
+casting mould maker :: model makers, metal and plastic
+model maker :: model makers, metal and plastic
+moulding machine operator :: foundry mold and coremakers
+foundry moulder :: foundry mold and coremakers
+moulding machine operator :: molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic
+casting machine operator :: molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic
+blow moulding machine operator :: molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic
+optical disc moulding machine operator :: molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic
+swaging machine operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+deburring machine operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+metal nibbling operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+screw machine operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+punch press operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+gear machinist :: multiple machine tool setters, operators, and tenders, metal and plastic
+straightening machine operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+drill press operator :: multiple machine tool setters, operators, and tenders, metal and plastic
+fitter and turner :: multiple machine tool setters, operators, and tenders, metal and plastic
+tool and die maker :: tool and die makers
+solderer :: welders, cutters, solderers, and brazers
+spot welder :: welders, cutters, solderers, and brazers
+brazier :: welders, cutters, solderers, and brazers
+welder :: welders, cutters, solderers, and brazers
+pipe welder :: welders, cutters, solderers, and brazers
+wave soldering machine operator :: welding, soldering, and brazing machine setters, operators, and tenders
+laser beam welder :: welding, soldering, and brazing machine setters, operators, and tenders
+oxy fuel burning machine operator :: welding, soldering, and brazing machine setters, operators, and tenders
+plasma cutting machine operator :: welding, soldering, and brazing machine setters, operators, and tenders
+spark erosion machine operator :: welding, soldering, and brazing machine setters, operators, and tenders
+metal furnace operator :: heat treating equipment setters, operators, and tenders, metal and plastic
+plastic heat treatment equipment operator :: heat treating equipment setters, operators, and tenders, metal and plastic
+heat treatment furnace operator :: heat treating equipment setters, operators, and tenders, metal and plastic
+electroplating machine operator :: plating machine setters, operators, and tenders, metal and plastic
+dip tank operator :: plating machine setters, operators, and tenders, metal and plastic
+coating machine operator :: plating machine setters, operators, and tenders, metal and plastic
+enameller :: plating machine setters, operators, and tenders, metal and plastic
+anodising machine operator :: plating machine setters, operators, and tenders, metal and plastic
+tool grinder :: tool grinders, filers, and sharpeners
+chain making machine operator :: metal workers and plastic workers, all other
+metal additive manufacturing operator :: metal workers and plastic workers, all other
+metal furniture machine operator :: metal workers and plastic workers, all other
+scrap metal operative :: metal workers and plastic workers, all other
+imagesetter :: prepress technicians and workers
+prepress operator :: prepress technicians and workers
+typesetter :: prepress technicians and workers
+prepress technician :: prepress technicians and workers
+gravure press operator :: printing press operators
+flexographic press operator :: printing press operators
+offset printer :: printing press operators
+paper embossing press operator :: printing press operators
+screen printer :: printing press operators
+lithographer :: printing press operators
+digital printer :: printing press operators
+hot foil operator :: printing press operators
+bindery operator :: print binding and finishing workers
+book-sewing machine operator :: print binding and finishing workers
+laundry worker :: laundry and dry-cleaning workers
+laundry ironer :: pressers, textile, garment, and related materials
+wearing apparel presser :: pressers, textile, garment, and related materials
+embroidery machine operator :: sewing machine operators
+sewing machinist :: sewing machine operators
+sewing machine operator :: sewing machine operators
+leather goods stitching machine operator :: sewing machine operators
+leather goods manufacturing technician :: shoe and leather workers and repairers
+footwear hand sewer :: shoe and leather workers and repairers
+leather goods hand stitcher :: shoe and leather workers and repairers
+bespoke footwear technician :: shoe and leather workers and repairers
+leather goods manual operator :: shoe and leather workers and repairers
+shoemaker :: shoe and leather workers and repairers
+leather goods artisanal worker :: shoe and leather workers and repairers
+leather goods machine operator :: shoe and leather workers and repairers
+shoe repairer :: shoe and leather workers and repairers
+hand lasting operator :: shoe and leather workers and repairers
+pre-lasting operator :: shoe and leather workers and repairers
+sole and heel operator :: shoe machine operators and tenders
+lasting machine operator :: shoe machine operators and tenders
+footwear production machine operator :: shoe machine operators and tenders
+footwear stitching machine operator :: shoe machine operators and tenders
+pre-stitching machine operator :: shoe machine operators and tenders
+footwear hand sewer :: sewers, hand
+leather goods hand stitcher :: sewers, hand
+mattress maker :: sewers, hand
+milliner :: tailors, dressmakers, and custom sewers
+tailor :: tailors, dressmakers, and custom sewers
+protective clothing apparel manufacturer :: tailors, dressmakers, and custom sewers
+dressmaker :: tailors, dressmakers, and custom sewers
+textile dyer :: textile bleaching and dyeing machine operators and tenders
+textile dyeing technician :: textile bleaching and dyeing machine operators and tenders
+finishing textile technician :: textile bleaching and dyeing machine operators and tenders
+cutting machine operator :: textile cutting machine setters, operators, and tenders
+weaving machine operator :: textile knitting and weaving machine setters, operators, and tenders
+knitting textile technician :: textile knitting and weaving machine setters, operators, and tenders
+knitting machine operator :: textile knitting and weaving machine setters, operators, and tenders
+weaving machine supervisor :: textile knitting and weaving machine setters, operators, and tenders
+weaving textile technician :: textile knitting and weaving machine setters, operators, and tenders
+carpet weaver :: textile knitting and weaving machine setters, operators, and tenders
+tufting operator :: textile knitting and weaving machine setters, operators, and tenders
+twisting machine operator :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+spinning machine operator :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+winding machine operator :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+braiding machine operator :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+braiding textile technician :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+man-made fiber spinner :: textile winding, twisting, and drawing out machine setters, operators, and tenders
+fibre machine tender :: extruding and forming machine setters, operators, and tenders, synthetic and glass fibers
+nonwoven  textile technician :: extruding and forming machine setters, operators, and tenders, synthetic and glass fibers
+nonwoven filament machine operator :: extruding and forming machine setters, operators, and tenders, synthetic and glass fibers
+wearing apparel patternmaker :: fabric and apparel patternmakers
+furniture upholsterer :: upholsterers
+marine upholsterer :: upholsterers
+motor vehicle upholsterer :: upholsterers
+upholsterer :: upholsterers
+railway car upholsterer :: upholsterers
+canvas goods assembler :: textile, apparel, and furnishings workers, all other
+clothing process control technician :: textile, apparel, and furnishings workers, all other
+clothing quality inspector :: textile, apparel, and furnishings workers, all other
+clothing technologist :: textile, apparel, and furnishings workers, all other
+glove maker :: textile, apparel, and furnishings workers, all other
+leather measuring operator :: textile, apparel, and furnishings workers, all other
+leather production machine operator :: textile, apparel, and furnishings workers, all other
+made-up textile articles manufacturer :: textile, apparel, and furnishings workers, all other
+mattress making machine operator :: textile, apparel, and furnishings workers, all other
+nonwoven staple machine operator :: textile, apparel, and furnishings workers, all other
+printing textile technician :: textile, apparel, and furnishings workers, all other
+sectional belt mould assembler :: textile, apparel, and furnishings workers, all other
+spinning textile technician :: textile, apparel, and furnishings workers, all other
+tanner :: textile, apparel, and furnishings workers, all other
+textile colourist :: textile, apparel, and furnishings workers, all other
+textile finishing machine operator :: textile, apparel, and furnishings workers, all other
+textile machine operator :: textile, apparel, and furnishings workers, all other
+wooden furniture machine operator :: cabinetmakers and bench carpenters
+cabinet maker :: cabinetmakers and bench carpenters
+furniture restorer :: furniture finishers
+band saw operator :: sawing machine setters, operators, and tenders, wood
+table saw operator :: sawing machine setters, operators, and tenders, wood
+chipper operator :: woodworking machine setters, operators, and tenders, except sawing
+planer thicknesser operator :: woodworking machine setters, operators, and tenders, except sawing
+nailing machine operator :: woodworking machine setters, operators, and tenders, except sawing
+wood boring machine operator :: woodworking machine setters, operators, and tenders, except sawing
+wood router operator :: woodworking machine setters, operators, and tenders, except sawing
+wooden furniture machine operator :: woodworking machine setters, operators, and tenders, except sawing
+engineered wood board machine operator :: woodworking machine setters, operators, and tenders, except sawing
+woodturner :: woodworking machine setters, operators, and tenders, except sawing
+wood pallet maker :: woodworking machine setters, operators, and tenders, except sawing
+wood treater :: woodworking machine setters, operators, and tenders, except sawing
+cooper :: woodworkers, all other
+wood fuel pelletiser :: woodworkers, all other
+nuclear reactor operator :: nuclear power reactor operators
+power production plant operator :: nuclear power reactor operators
+electrical power distributor :: power distributors and dispatchers
+electrical transmission system operator :: power distributors and dispatchers
+geothermal power plant operator :: power plant operators
+offshore renewable energy plant operator :: power plant operators
+steam turbine operator :: power plant operators
+hydroelectric plant operator :: power plant operators
+fossil-fuel power plant operator :: power plant operators
+power production plant operator :: power plant operators
+power plant control room operator :: power plant operators
+biogas technician :: biomass plant technicians
+hydropower technician :: hydroelectric plant technicians
+steam engineer :: stationary engineers and boiler operators
+boiler operator :: stationary engineers and boiler operators
+steam plant operator :: stationary engineers and boiler operators
+wastewater treatment operator :: water and wastewater treatment plant and system operators
+water treatment systems operator :: water and wastewater treatment plant and system operators
+desalination technician :: water and wastewater treatment plant and system operators
+soap tower operator :: chemical plant and system operators
+air separation plant operator :: chemical plant and system operators
+nitrator operator :: chemical plant and system operators
+chemical plant control room operator :: chemical plant and system operators
+soap drier operator :: chemical plant and system operators
+nitroglycerin separator operator :: chemical plant and system operators
+chemical mixer :: chemical plant and system operators
+chemical processing plant controller :: chemical plant and system operators
+gas station operator :: gas plant operators
+gas processing plant control room operator :: gas plant operators
+oil refinery control room operator :: petroleum pump system operators, refinery operators, and gaugers
+gauger :: petroleum pump system operators, refinery operators, and gaugers
+petroleum pump system operator :: petroleum pump system operators, refinery operators, and gaugers
+incinerator operator :: plant and system operators, all other
+coagulation operator :: chemical equipment operators and tenders
+froth flotation deinking operator :: chemical equipment operators and tenders
+granulator machine operator :: chemical equipment operators and tenders
+varnish maker :: chemical equipment operators and tenders
+centrifuge operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+distillation operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+beverage filtration technician :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+clarifier :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+cellar operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+cider fermentation operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+dairy processing operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+dairy products manufacturing worker :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+digester operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+fermenter operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+germination operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+hydrogenation machine operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+pulp control operator :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+pulp technician :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+vermouth manufacturer :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+wine fermenter :: separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders
+cylindrical grinder operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+surface grinding machine operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+grinding machine operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+mineral crushing operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+mineral processing operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+distillery miller :: crushing, grinding, and polishing machine setters, operators, and tenders
+liquor grinding mill operator :: crushing, grinding, and polishing machine setters, operators, and tenders
+soap chipper :: crushing, grinding, and polishing machine setters, operators, and tenders
+stone polisher :: grinding and polishing workers, hand
+glass polisher :: grinding and polishing workers, hand
+tool grinder :: grinding and polishing workers, hand
+metal polisher :: grinding and polishing workers, hand
+wood sander :: grinding and polishing workers, hand
+tracer powder blender :: mixing and blending machine setters, operators, and tenders
+paint mixer :: mixing and blending machine setters, operators, and tenders
+fertiliser mixer :: mixing and blending machine setters, operators, and tenders
+pesticide mixer :: mixing and blending machine setters, operators, and tenders
+blender operator :: mixing and blending machine setters, operators, and tenders
+chemical mixer :: mixing and blending machine setters, operators, and tenders
+extract mixer tester :: mixing and blending machine setters, operators, and tenders
+blending plant operator :: mixing and blending machine setters, operators, and tenders
+slate mixer :: mixing and blending machine setters, operators, and tenders
+kettle tender :: mixing and blending machine setters, operators, and tenders
+carbonation operator :: mixing and blending machine setters, operators, and tenders
+colour sampling operator :: mixing and blending machine setters, operators, and tenders
+lacquer maker :: mixing and blending machine setters, operators, and tenders
+nitroglycerin neutraliser :: mixing and blending machine setters, operators, and tenders
+perfume production machine operator :: mixing and blending machine setters, operators, and tenders
+leather goods hand cutting operator :: cutters and trimmers, hand
+clothing cutter :: cutters and trimmers, hand
+rubber cutting machine tender :: cutting and slicing machine setters, operators, and tenders
+automated cutting machine operator :: cutting and slicing machine setters, operators, and tenders
+veneer slicer operator :: cutting and slicing machine setters, operators, and tenders
+cutting machine operator :: cutting and slicing machine setters, operators, and tenders
+paper cutter operator :: cutting and slicing machine setters, operators, and tenders
+water jet cutter operator :: cutting and slicing machine setters, operators, and tenders
+fibre machine tender :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+extrusion machine operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+glass forming machine operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+cake press operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+auger press operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+candy machine operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+chocolate moulding operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+oilseed presser :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+plodder operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+record press operator :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+v-belt builder :: extruding, forming, pressing, and compacting machine setters, operators, and tenders
+coking furnace operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+kiln firer :: furnace, kiln, oven, drier, and kettle operators and tenders
+lime kiln operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+metal annealer :: furnace, kiln, oven, drier, and kettle operators and tenders
+tunnel kiln operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+glass annealer :: furnace, kiln, oven, drier, and kettle operators and tenders
+clay products dry kiln operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+wood drying kiln operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+clay kiln burner :: furnace, kiln, oven, drier, and kettle operators and tenders
+drawing kiln operator :: furnace, kiln, oven, drier, and kettle operators and tenders
+battery test technician :: inspectors, testers, sorters, samplers, and weighers
+cigar inspector :: inspectors, testers, sorters, samplers, and weighers
+clothing quality inspector :: inspectors, testers, sorters, samplers, and weighers
+electrical equipment inspector :: inspectors, testers, sorters, samplers, and weighers
+footwear quality controller :: inspectors, testers, sorters, samplers, and weighers
+leather goods quality controller :: inspectors, testers, sorters, samplers, and weighers
+leather sorter :: inspectors, testers, sorters, samplers, and weighers
+metal product quality control inspector :: inspectors, testers, sorters, samplers, and weighers
+product assembly inspector :: inspectors, testers, sorters, samplers, and weighers
+textile quality inspector :: inspectors, testers, sorters, samplers, and weighers
+silversmith :: jewelers and precious stone and metal workers
+jewellery mounter :: jewelers and precious stone and metal workers
+goldsmith :: jewelers and precious stone and metal workers
+jewellery repairer :: jewelers and precious stone and metal workers
+jewellery assembler :: jewelers and precious stone and metal workers
+jeweller :: jewelers and precious stone and metal workers
+filigree maker :: jewelers and precious stone and metal workers
+jewellery designer :: jewelers and precious stone and metal workers
+precious stone setter :: gem and diamond workers
+precious stone cutter :: gem and diamond workers
+gemmologist :: gem and diamond workers
+dental technician :: dental laboratory technicians
+prosthetic-orthotics technician :: medical appliance technicians
+dental technician :: medical appliance technicians
+audiology technician :: medical appliance technicians
+prosthetist-orthotist :: medical appliance technicians
+optical technician :: ophthalmic laboratory technicians
+packaging and filling machine operator :: packaging and filling machine operators and tenders
+canning and bottling line operator :: packaging and filling machine operators and tenders
+leather goods packing operator :: packaging and filling machine operators and tenders
+glass painter :: painting, coating, and decorating workers
+decorative painter :: painting, coating, and decorating workers
+porcelain painter :: painting, coating, and decorating workers
+furniture finisher :: painting, coating, and decorating workers
+wood painter :: painting, coating, and decorating workers
+leather goods finishing operator :: painting, coating, and decorating workers
+rustproofer :: coating, painting, and spraying machine setters, operators, and tenders
+transport equipment painter :: coating, painting, and spraying machine setters, operators, and tenders
+dip tank operator :: coating, painting, and spraying machine setters, operators, and tenders
+lacquer spray gun operator :: coating, painting, and spraying machine setters, operators, and tenders
+coating machine operator :: coating, painting, and spraying machine setters, operators, and tenders
+electroplating machine operator :: coating, painting, and spraying machine setters, operators, and tenders
+marine painter :: coating, painting, and spraying machine setters, operators, and tenders
+electronic equipment assembler :: semiconductor processing technicians
+semiconductor processor :: semiconductor processing technicians
+motion picture film developer :: photographic process workers and processing machine operators
+photographic developer :: photographic process workers and processing machine operators
+tool and die maker :: computer numerically controlled tool operators
+metal planer operator :: computer numerically controlled tool operators
+deburring machine operator :: computer numerically controlled tool operators
+milling machine operator :: computer numerically controlled tool operators
+lathe and turning machine operator :: computer numerically controlled tool operators
+gear machinist :: computer numerically controlled tool operators
+screw machine operator :: computer numerically controlled tool operators
+computer numerical control machine operator :: computer numerically controlled tool operators
+numerical tool and process control programmer :: computer numerically controlled tool programmers
+wood products assembler :: adhesive bonding machine operators and tenders
+wash deinking operator :: cleaning, washing, and metal pickling equipment operators and tenders
+refining machine operator :: cleaning, washing, and metal pickling equipment operators and tenders
+cacao beans cleaner :: cleaning, washing, and metal pickling equipment operators and tenders
+clarifier :: cleaning, washing, and metal pickling equipment operators and tenders
+tumbling machine operator :: cleaning, washing, and metal pickling equipment operators and tenders
+metal engraver :: etchers and engravers
+engraving machine operator :: etchers and engravers
+stone engraver :: etchers and engravers
+printmaker :: etchers and engravers
+glass engraver :: etchers and engravers
+screen making technician :: etchers and engravers
+jewellery engraver :: etchers and engravers
+casting mould maker :: molders, shapers, and casters, except metal and plastic
+pottery and porcelain caster :: molders, shapers, and casters, except metal and plastic
+precast moulder :: molders, shapers, and casters, except metal and plastic
+stonemason :: stone cutters and carvers, manufacturing
+stone engraver :: stone cutters and carvers, manufacturing
+glass polisher :: glass blowers, molders, benders, and finishers
+glass forming machine operator :: glass blowers, molders, benders, and finishers
+glass artist :: glass blowers, molders, benders, and finishers
+drawing kiln operator :: glass blowers, molders, benders, and finishers
+ceramicist :: potters, manufacturing
+hand brick moulder :: potters, manufacturing
+dry press operator :: potters, manufacturing
+auger press operator :: potters, manufacturing
+clay products dry kiln operator :: potters, manufacturing
+paper bag machine operator :: paper goods machine setters, operators, and tenders
+paper stationery machine operator :: paper goods machine setters, operators, and tenders
+tissue paper perforating and rewinding operator :: paper goods machine setters, operators, and tenders
+corrugator operator :: paper goods machine setters, operators, and tenders
+print folding operator :: paper goods machine setters, operators, and tenders
+absorbent pad machine operator :: paper goods machine setters, operators, and tenders
+envelope maker :: paper goods machine setters, operators, and tenders
+artisan papermaker :: paper goods machine setters, operators, and tenders
+bindery operator :: paper goods machine setters, operators, and tenders
+bleacher operator :: paper goods machine setters, operators, and tenders
+paper pulp moulding operator :: paper goods machine setters, operators, and tenders
+tyre builder :: tire builders
+factory hand :: helpers--production workers
+brush maker :: production workers, all other
+cigarette making machine operator :: production workers, all other
+coagulation operator :: production workers, all other
+cosmetics production machine operator :: production workers, all other
+leather finishing operator :: production workers, all other
+mattress maker :: production workers, all other
+record press operator :: production workers, all other
+soap maker :: production workers, all other
+textile printer :: production workers, all other
+v-belt builder :: production workers, all other
+v-belt coverer :: production workers, all other
+v-belt finisher :: production workers, all other
+aircraft cargo operations coordinator :: aircraft cargo handling supervisors
+stevedore superintendent :: first-line supervisors of helpers, laborers, and material movers, hand
+recycling specialist :: recycling coordinators
+waste management supervisor :: recycling coordinators
+waste broker :: recycling coordinators
+crane crew supervisor :: first-line supervisors of material-moving machine and vehicle operators
+chief conductor :: first-line supervisors of passenger attendants
+cabin crew manager :: first-line supervisors of passenger attendants
+airline transport pilot :: airline pilots, copilots, and flight engineers
+co-pilot :: airline pilots, copilots, and flight engineers
+second officer :: airline pilots, copilots, and flight engineers
+commercial pilot :: airline pilots, copilots, and flight engineers
+aircraft pilot :: airline pilots, copilots, and flight engineers
+flight instructor :: airline pilots, copilots, and flight engineers
+astronaut :: airline pilots, copilots, and flight engineers
+aircraft pilot :: commercial pilots
+commercial pilot :: commercial pilots
+helicopter pilot :: commercial pilots
+aircraft dispatcher :: air traffic controllers
+air traffic controller :: air traffic controllers
+aeronautical information service officer :: air traffic controllers
+aeronautical information specialist :: air traffic controllers
+airport operations officer :: airfield operations specialists
+flight attendant :: flight attendants
+steward/stewardess :: flight attendants
+emergency ambulance driver :: ambulance drivers and attendants, except emergency medical technicians
+motorcycle delivery person :: driver/sales workers
+car and van delivery driver :: driver/sales workers
+dangerous goods driver :: heavy and tractor-trailer truck drivers
+cargo vehicle driver :: heavy and tractor-trailer truck drivers
+refuse vehicle driver :: heavy and tractor-trailer truck drivers
+rail intermodal equipment operator :: heavy and tractor-trailer truck drivers
+concrete pump operator :: heavy and tractor-trailer truck drivers
+cargo vehicle driver :: light truck drivers
+moving truck driver :: light truck drivers
+bus driver :: bus drivers, school
+bus driver :: bus drivers, transit and intercity
+trolley bus driver :: bus drivers, transit and intercity
+school bus attendant :: bus drivers, transit and intercity
+patient transport services driver :: shuttle drivers and chauffeurs
+hearse driver :: shuttle drivers and chauffeurs
+private chauffeur :: shuttle drivers and chauffeurs
+taxi driver :: taxi drivers
+train driver :: locomotive engineers
+shunter :: rail yard engineers, dinkey operators, and hostlers
+rail switchperson :: railroad brake, signal, and switch operators and locomotive firers
+level crossing signalperson :: railroad brake, signal, and switch operators and locomotive firers
+rail traffic controller :: railroad conductors and yardmasters
+chief conductor :: railroad conductors and yardmasters
+tram driver :: subway and streetcar operators
+engine minder :: sailors and marine oilers
+ordinary seaman :: sailors and marine oilers
+matrose :: sailors and marine oilers
+sailor :: sailors and marine oilers
+decksman :: sailors and marine oilers
+deck officer :: sailors and marine oilers
+boatswain :: sailors and marine oilers
+ship captain :: captains, mates, and pilots of water vessels
+skipper :: captains, mates, and pilots of water vessels
+maritime pilot :: captains, mates, and pilots of water vessels
+helmsman :: captains, mates, and pilots of water vessels
+deck officer :: captains, mates, and pilots of water vessels
+fisheries boatman :: motorboat operators
+ship duty engineer :: ship engineers
+bridge construction supervisor :: bridge and lock tenders
+underwater construction supervisor :: bridge and lock tenders
+parking valet :: parking attendants
+roadside vehicle technician :: automotive and watercraft service attendants
+vehicle maintenance attendant :: automotive and watercraft service attendants
+greaser :: automotive and watercraft service attendants
+aircraft fuel system operator :: automotive and watercraft service attendants
+aircraft fuel system operator :: aircraft service attendants
+rolling stock inspector :: transportation inspectors
+marine cargo inspector :: transportation inspectors
+dangerous goods safety adviser :: transportation inspectors
+freight inspector :: transportation inspectors
+marine surveyor :: transportation inspectors
+rolling stock assembly inspector :: transportation inspectors
+aviation inspector :: aviation inspectors
+aircraft assembly inspector :: aviation inspectors
+rolling stock inspector :: transportation vehicle, equipment and systems inspectors, except aviation
+motor vehicle assembly inspector :: transportation vehicle, equipment and systems inspectors, except aviation
+rolling stock engine inspector :: transportation vehicle, equipment and systems inspectors, except aviation
+vessel assembly inspector :: transportation vehicle, equipment and systems inspectors, except aviation
+vessel engine inspector :: transportation vehicle, equipment and systems inspectors, except aviation
+railway passenger service agent :: passenger attendants
+steward/stewardess :: passenger attendants
+ship steward/ship stewardess :: passenger attendants
+flight attendant :: passenger attendants
+train attendant :: passenger attendants
+ground steward/ground stewardess :: passenger attendants
+automated cable vehicle controller :: transportation workers, all other
+container crane operator :: crane and tower operators
+rigger :: crane and tower operators
+mobile crane operator :: crane and tower operators
+tower crane operator :: crane and tower operators
+production plant crane operator :: crane and tower operators
+dredge operator :: dredge operators
+forklift operator :: industrial truck and tractor operators
+vehicle cleaner :: cleaners of vehicles and equipment
+stevedore :: laborers and freight, stock, and material movers, hand
+materials handler :: laborers and freight, stock, and material movers, hand
+mover :: laborers and freight, stock, and material movers, hand
+sorter labourer :: recycling and reclamation workers
+hazardous waste technician :: recycling and reclamation workers
+recycling worker :: recycling and reclamation workers
+animal feed operator :: machine feeders and offbearers
+hand packer :: packers and packagers, hand
+warehouse worker :: stockers and order fillers
+petroleum pump system operator :: pump operators, except wellhead pumpers
+pipeline pump operator :: pump operators, except wellhead pumpers
+petroleum pump system operator :: wellhead pumpers
+refuse collector :: refuse and recyclable material collectors
+petroleum pump system operator :: tank car, truck, and ship loaders

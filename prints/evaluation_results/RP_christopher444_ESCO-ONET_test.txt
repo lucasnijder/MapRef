@@ -1,0 +1,27 @@
+Overall Accuracy: 51 %
+Confusion Matrix:
+                    Predicted exactMatch  Predicted broadMatch  ...  Predicted cohyphonym  Predicted negative
+Actual exactMatch                   1390                    92  ...                   349                 187
+Actual broadMatch                    460                     1  ...                    15                  11
+Actual narrowMatch                   142                     1  ...                    32                  16
+Actual partOf                          0                     0  ...                     0                   0
+Actual hasPart                         0                     0  ...                     0                   0
+Actual cohyphonym                      0                     0  ...                     0                   0
+Actual negative                        0                     0  ...                     0                   0
+
+[7 rows x 7 columns]
+Classification Report:
+              precision    recall  f1-score   support
+
+  exactMatch       0.70      0.68      0.69      2053
+  broadMatch       0.01      0.00      0.00       498
+ narrowMatch       0.44      0.16      0.23       227
+      partOf       0.00      0.00      0.00         0
+     hasPart       0.00      0.00      0.00         0
+  cohyphonym       0.00      0.00      0.00         0
+    negative       0.00      0.00      0.00         0
+
+   micro avg       0.51      0.51      0.51      2778
+   macro avg       0.16      0.12      0.13      2778
+weighted avg       0.55      0.51      0.53      2778
+

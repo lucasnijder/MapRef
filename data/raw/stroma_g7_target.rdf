@@ -1,0 +1,452 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.semanticweb.org/the08eot/ontologies/2015/2/BookIndustryCommunicatio#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/the08eot/ontologies/2015/2/BookIndustryCommunicatio">
+    <rdfs:comment>aus dem WWW am 23/03/15: http://editeur.dyndns.org/bic_categories</rdfs:comment>
+  </owl:Ontology>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories/Memoirs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management/Finance_and_accounting">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_reference_material">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Language"/>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Transport_general_interest">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Health_and_personal_development"/>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Crime_and_mystery">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Architecture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning/Regional_and_area_planning">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/Literature_history_and_criticism">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Sports_and_outdoor_recreation">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Psychology">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management/Business_and_management">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Chemistry">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Historical_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Art_treatments_and_subjects">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning/Geography">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Veterinary_medicine">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Special_features">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Humanities/Arachaeology">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Humanities"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Home_and_house_maintenance">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Technology_general_issues">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Language/Language_reference_and_general">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Language"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Language/Language_teaching_and_learning">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Language"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Education">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Language/Linguistics">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Language"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Other_technologies_and_applied_sciences">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Basic_sciences_of_pre_clinical_medicine">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Humanities/History">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Humanities"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories/Biography_general">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/Poetry">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Digital_lifestyle">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Museology_and_heritage_studies">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Classic_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Law/Jurisprudence_and_gernal_issues">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/Law"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Society_and_culture_general_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Library_and_information_sciences">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Warfare_and_defence">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Personal_and_social_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Humour">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Dance_and_other_performing_arts">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management/Industry_and_industrial_studies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Handicrafts_and_decorative_arts_and_crafts">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Electronics_and_communications_engineering">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Industrial_OR_commcercial_art_and_design">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Natural_history">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Graphic_novels">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Picture_books_and_activity_books_and_early_learning_material">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Mathematics">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Gardening">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Sagas">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Environmental_science_and_egineering_and_technology">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_hardware">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Hobbies_and_quizzes_and_games">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Encyclopaedias_and_reference_works">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Science_general_issuses">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Horror_and_ghost_stories">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Theatre_studies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Photography_and_photographs">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_stationery_and_miscellaneous_items">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Music">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories/True_stories">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Adventure">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Science_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Graphical_and_digital_media_applications">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Art_forms">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Fantasy">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Humanities/Religion_and_beliefs">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Humanities"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/Anthologies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Thriller_and_suspense">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories/Collected_biographies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_programming_and_software_development">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Biochemical_engineering">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/Film_and_TV_and_radio">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Modern_and_contemporary_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Complementary_medicine">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning/The_environment">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/History_of_art_OR_art_and_design_styles">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Interdisciplinary_studies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Civil_engineering_and_surveying_and_building">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/Classical_texts">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_certification">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Medical_study_and_revision_guides_and_reference_material">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/English_language_teaching/ELT_background_and_reference_material">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://bookIndustryCommunication.com/English_language_teaching"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Humanities/Philosophy">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Humanities"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/Plays_and_playscripts">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_networking_and_communications">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_poetry_and_anthologies_and_annuals">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Fiction_related_items">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Mechanical_engineering_and_materials">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Agriculture_and_farming">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Erotic_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Sociology_and_anthropology">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Medicine_general_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Politics_and_government">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_general_non_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Transport_technology_and_trades">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects/Research_and_information_general_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Reference_and_information_and_interdisciplinary_subjects"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Surgery">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Health_and_personal_development/Family_and_health">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Health_and_personal_development"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Myth_and_legend_told_as_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Children_s_and_teenage_fiction_and_true_stories">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational/Edudcational_material">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Children_s_and_teenage_and_educational"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Law/Laws_of_Specific_jurisdictions">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Law"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Operating_systems">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Travel_and_holiday">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Law/Law_study_and_revision_guides">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Law"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_security">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Computer_science">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Religious_and_spiritual_fiction">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Literature_and_literary_studies/non_fiction_Prose">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Literature_and_literary_studies"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Astronomy_and_space_and_time">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture/Industrial_chemistry_and_manufacturing_technologies">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Technology_and_egineering_and_agriculture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/English_language_teaching/ELT_learning_material_and_coursework">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/English_language_teaching"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Antiques_and_collectables">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Nursing_and_ancillary_services">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Clinical_and_intermal_medicine">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/The_arts/The_arts_general_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/The_arts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Information_technology_general_issues">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Databases">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Law/International_law">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Law"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management/Economics">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Economics_and_finance_and_business_and_management"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Computing_and_information_technology/Business_applications">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Computing_and_information_technology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Lifestyle_and_personcal_style_guides">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Fiction_and_related_items/Romance">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Fiction_and_related_items"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning/Earth_sciences">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Earth_sciences_and_geography_and_environment_and_planning"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Biography_and_True_Stories/Diaries_and_letters_and_journals">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Biography_and_True_Stories"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Local_interest_and_familiy_history_and_nostalgia">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Society_and_social_sciences/Social_services_and_welfare_and_criminology">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Society_and_social_sciences"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Biology_and_life_sciences">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Medicine/Other_branches_of_medicine">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Medicine"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Health_and_personal_development/Selfhelp_and_personal_development">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Health_and_personal_development"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Cookery_and_food_and_drink_etc">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/English_language_teaching/English_for_specific_purposes">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/English_language_teaching"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure/Miscellaneous_items">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Lifestyle_and_sport_and_leisure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Mathematics_and_science/Physics">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Mathematics_and_science"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://bookIndustryCommunication.com/Health_and_personal_development/Mind_and_Body_and_Spirit">
+    <rdfs:subClassOf rdf:resource="http://bookIndustryCommunication.com/Health_and_personal_development"/>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+</rdf:RDF>

@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Salsas,_Dips_&amp;_Spreads"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Rice_Cakes,_Chips_&amp;_Crackers"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Water_Flavor_Enhancers"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Iced_Tea_&amp;_Lemonade"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Oils"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Oils"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Popcorn"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Chocolates"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Vegetables"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Beans"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Pie_Crusts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Mushrooms_&amp;_Truffles"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Chocolate_Truffels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Hard_Candy_&amp;_Lollipops"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Suckers_&amp;_Lollipops"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Nuts_&amp;_Seeds"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Nuts_&amp;_Seeds"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Glazes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Meat,_Poultry_&amp;_Seafood"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Seafood_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Marinades_&amp;_Seasoning_Mixes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Marmalades"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pretzels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruits"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Fruit_Leather"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Water_Flavor_Enhancers"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Water/Flavored_&amp;_Enhanced_Water"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Hot_Cocoa"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Non-Stick_Cooking_Oil_Sprays"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruits"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Fruits"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Party_Mix"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Gravies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Meat,_Poultry_&amp;_Seafood"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Meat_&amp;_Seafood"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Dessert_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Ice_Cream_Cones_&amp;_Toppings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Spices_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Snack_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Chocolate_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/International_Food"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Mexican_Dinner_Kits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Fruit_Snacks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Oils"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Oils,_Vinegars_&amp;_Salad_Dressings"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Pudding"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Meal_Replacement_Drinks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Bread"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Breads"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Meat,_Poultry_&amp;_Seafood"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Jerky_&amp;_Dried_Meats"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee_&amp;_Soda_Syrups"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Flavoring_Syrup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee_&amp;_Soda_Syrups"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Syrup,_Sugars_&amp;_Sweeteners"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/International_Food"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Indian_Dishes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Rice_Dishes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Cakes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Hard_Candy_&amp;_Lollipops"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Hard_Candy"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Condiments"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/International_Food"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Asian_Dishes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee/Coffee_Beans"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coffee/Unroasted_Beans"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Puffed_Snacks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Marshmallow_Spread"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cereals_&amp;_Breakfast_Food"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Breakfast_Foods"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruits"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruits,_Nuts_&amp;_Snacks/Fruits_"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Water"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Water/Sparkling_&amp;_Mineral_Water"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewing_Gum"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Chewing_Gum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Grains_&amp;_Rice"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Pudding"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Water"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Water/Seltzer_&amp;_Tonic_Water"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Jams,_Jellies_&amp;_Preserves"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Wasabi"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Licorice"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Licorice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Muffins"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Fondant_&amp;_Gum_Paste"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Food_Coloring"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Potatoes_&amp;_Stuffings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Thickeners"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Candy_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Leaveners_&amp;_Yeasts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewy_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Caramels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Pancakes_&amp;_Waffles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Protein_Drinks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Jelly_Beans"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Jelly_Beans"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Cocoa"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Honey_&amp;_Syrup_&amp;_Sweeteners"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Sugar_Substitutes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Seasonal_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Sugar_Free_Candy_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Biscuits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Sauces"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruits"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Dried_Fruit_&amp;_Raisins"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Pie_&amp;_Pastry_Fillings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Breadcrumbs_&amp;_Seasoned_Coatings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Steak_Sauce"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pretzels"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Chips"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coconut_Water"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coconut_Water"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Vinegars"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Soups_&amp;_Stews"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Soups,_Stews_&amp;_Chili"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Wine"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Wine"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee/Ground_Coffee"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coffee/Ground_Coffee"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Vegetables"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Peas"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Glazes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee_&amp;_Soda_Syrups"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Soda_Syrups"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Brownies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/International_Food"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Dried_Seaweed_&amp;_Nori"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Vegetables"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Beans_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruit_Juices"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Juices/Fruit_Juice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cheese"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Cheese_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Gummy_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Gummy_Candy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Juices/Ciders"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewy_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Gummy_Candy"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Energy_Drinks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Flours_&amp;_Meals"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Fruit_Butters"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Mints"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Mints"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Trail_Mix"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Trail_Mix"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Honey_&amp;_Syrup_&amp;_Sweeteners"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes/Pancakes_&amp;_Waffles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Baking_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Mixes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Tartar_Sauce"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Fudge"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fudge"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Pudding_&amp;_Gelatin"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Condiments,_Pickles_&amp;_Relishes/Worcestershire_Sauce"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Coconut_Flakes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Baking_Chocolates,_Carob_&amp;_Cocoa/Carob"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Vegetables"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Dried_Beans,_Grains_&amp;_Rice/Lentils"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Dried_Fruit_&amp;_Raisins"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Cookies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Nuts_&amp;_Seeds"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Wasabi_Peas"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations/Frostings_&amp;_Icings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Oils"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Lard_&amp;_Shortening"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Pectin"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Powdered_Drink_Mixes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewy_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Fruit_Candy"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee/Coffee_Beans"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coffee/Whole_Beans"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Hot_Sauces"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Condiments"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Cooking_Oils,_Vinegars_&amp;_Sprays/Vinegars"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Milk_&amp;_Non-Dairy_Milks"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Condensed_&amp;_Powdered_Milk"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Buffalo,_Beef_&amp;_Turkey_Jerky"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Jerky_&amp;_Dried_Meats"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Marzipan_&amp;_Almond_Paste"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Doughs,_Shells_&amp;_Crusts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Dessert_Syrups_&amp;_Sauces"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Pasta_&amp;_Noodle_Dinner_Kits"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Pasta_&amp;_Noodles"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Tea"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Tea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Wine"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Wine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee/Coffee_Pods_&amp;_K-Cups"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Sauces_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Chewy_Candy"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Candy_&amp;_Chocolate/Taffy"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Pie_&amp;_Pastry_Fillings"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Jams_&amp;_Preserves_Gifts_"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Iced_Tea_&amp;_Lemonade"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Cookies_&amp;_Biscotti"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Nut_Butters"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Fruits"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Fruit_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Grains_&amp;_Pasta"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Packaged_Meals_&amp;_Side_Dishes/Macaroni_&amp;_Cheese"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Nuts_&amp;_Seeds"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Nuts,_Seeds"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Marinades_&amp;_Seasoning_Mixes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Sports_Drinks"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Soft_Drinks"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Soft_Drinks"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Sauces"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Glazes"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Drink_Mixes"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Juices/Smoothies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Soups_&amp;_Stews"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Canned_&amp;_Jarred_Food/Stocks,_Broths_&amp;_Bouillon"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate/Fondant_&amp;_Gum_Paste"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Cooking_&amp;_Baking/Frosting,_Icing_&amp;_Decorations"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Candy,_Gum_&amp;_Chocolate"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Nut_Butters"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee/Flavored_Coffee"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Beverages/Coffee"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Spices,_Seasonings_&amp;_Extracts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Sauces,_Gravies_&amp;_Marinades/Gravies"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Tea"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Tea_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Trail_Mix"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Granola_&amp;_Trail_Mix"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Desserts"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods/Pudding_&amp;_Gelantine/Gelantine"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Snack_Foods"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Snack_Foods"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Jams,_Jellies_&amp;_Preserves"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Canned,_Dry_&amp;_Packaged_Foods/Jams,_Jellies_&amp;_Sweet_Spreads/Hazelnut_Spread"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://amazonGroceries.com/Coffee"/>
+      <entity2 rdf:resource="http://ebayGroceries.com/Gourmet_Gifts/Coffee_Gifts"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

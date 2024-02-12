@@ -1,0 +1,350 @@
+anaphylactic shock :: allergic reactions
+canker sores :: oral
+depressive disorders :: depression
+thrombocytopenia absent radius tar syndrome :: thrombocytopenia absent radius syndrome
+essential tremor :: essential tremor
+bronchitis :: bronchitis
+creutzfeldt jakob disease cjd :: creutzfeldt jakob disease
+achromatopsia :: achromatopsia
+tetanus :: tetanus
+cancers :: cancer
+epilepsy :: epilepsy
+cirrhosis of liver :: cirrhosis
+photosensitive epilepsy :: photosensitive
+adrenoleukodystrophy :: adrenoleukodystrophy
+thrombosis :: thrombosis
+aphasia :: aphasia
+oppositional defiant disorder :: oppositional defiant disorder
+interstitial cystitis :: interstitial cystitis
+river blindness :: onchocerciasis
+schools :: schools
+botulism :: botulism
+sleep paralysis :: sleep paralysis
+thalassemia :: thalassemia
+ectodermal dysplasia :: ectodermal dysplasia
+dengue fever :: dengue fever
+anxiety disorders :: anxiety
+neurofibromatosis :: neurofibromatosis
+cervical cancer :: cervical
+cataract :: cataract
+gastroesophageal reflux disease gerd :: reflux disease
+hantavirus :: hantavirus
+endometriosis :: endometriosis
+sudden infant death syndrome sids :: sids
+parry romberg syndrome :: parry rombergs syndrome
+chronic hives urticaria :: hives
+bone cancer :: bone
+marburg hemorrhagic fever :: marburg
+night terrors :: night terrors
+food allergies :: food
+scurvy :: scurvy
+melanoma :: melanoma
+asbestosis :: asbestosis
+dry eyes :: dry eye
+ortho bionomy :: ortho bionomy
+urine therapy :: urine therapy
+eating disorders :: eating
+klinefelter syndrome :: klinefelter syndrome
+leukemia :: leukemia
+latex allergies :: latex
+hydrocephalus :: hydrocephalus
+porphyria :: porphyrias
+uterine fibroids :: fibroids
+celiac disease :: celiac disease
+rosen method :: rosen method
+heart failure :: congestive failure
+heart murmur :: murmurs
+migraine :: migraine
+homeopathy :: homeopathy
+borderline personality disorder bpd :: borderline
+gynecomastia :: gynecomastia
+stroke :: stroke
+severe acute respiratory syndrome sars :: sars
+myasthenia gravis :: myasthenia gravis
+digestion and nutrition disorders :: digestive disorders
+stomach gastric cancer :: stomach
+giardiasis :: giardiasis
+schizophrenia :: schizophrenia
+insulin resistance :: insulin resistance
+aneurysm :: aneurysm
+aicardi syndrome :: aicardi syndrome
+temporo mandibular joint syndrome tmj :: temporomandibular joint syndrome
+rickets :: rickets
+proteus syndrome :: proteus syndrome
+pellagra :: pellagra
+high cholesterol :: cholesterol
+oral cancer :: head and neck
+insomnia :: insomnia
+carpal tunnel syndrome :: carpal tunnel
+metabolic diseases :: metabolic
+trepanation :: trepanation
+prosopagnosia :: agnosia
+eczema :: eczema
+whooping cough :: whooping cough
+breast cancer :: breast
+esophageal varices :: varices
+treacher collins syndrome :: treacher collins syndrome
+foodborne illnesses :: food and water borne
+beriberi :: beriberi
+gall bladder disease :: gallstones
+strep throat :: strep throat
+tuberculosis :: tuberculosis
+antisocial personality disorder :: antisocial
+barth syndrome :: barth syndrome
+scleroderma :: scleroderma
+malaria :: malaria
+plantar fasciitis :: plantar fasciitis and heel spurs
+apert syndrome :: apert syndrome
+hepatitis :: hepatitis
+ebola :: ebola
+glioma :: brain stem gliomas
+trichotillomania :: trichotillomania
+batten disease :: batten disease
+galactosemia :: galactosemia
+prostatitis :: prostatitis
+cerebral palsy :: cerebral palsy
+ataxia telangiectasia :: ataxia
+thyroid diseases :: thyroid
+myeloma :: multiple myeloma
+respiratory distress syndrome :: ards
+lymphogranuloma venereum lgv :: lymphogranuloma venereum
+breathwork :: breathwork
+conjunctivitis pink eye :: conjunctivitis
+staph infection :: staphylococcal
+irritable bowel syndrome ibs :: irritable bowel syndrome
+lupus :: lupus
+goiter :: goiter
+smoking addiction :: tobacco
+allergies :: allergies
+polycystic kidney disease pkd :: polycystic kidney
+aromatherapy :: aromatherapy
+burns :: burns
+nystagmus :: nystagmus
+typhoid fever :: typhoid fever
+guillain barre syndrome :: guillain barre syndrome
+anemia :: anemia
+syphilis :: syphilis
+altitude illness :: altitude sickness
+personality disorders :: personality
+hyperthyroidism :: hyperthyroidism
+conduct disorder :: conduct disorder
+dystonia :: dystonia
+phobias :: phobias
+leptospirosis :: leptospirosis
+head lice :: head lice
+craniosynostosis :: craniosynostosis
+blood disorders :: blood disorders
+internet addiction :: internet
+amenorrhea :: amenorrhea
+scoliosis :: scoliosis
+organizations :: associations
+microphthalmia and anophthalmia :: microphthalmia
+sarcoidosis :: sarcoidosis
+flower essences :: essences
+bladder cancer :: bladder
+salmonellosis :: salmonellosis
+tuberous sclerosis :: tuberous sclerosis
+methicillin resistant staphylococcus aureus mrsa :: mrsa
+lactose intolerance :: lactose intolerance
+narcissistic personality disorder :: narcissistic
+strep throat :: streptococcal
+macular degeneration :: macular degeneration
+sleep disorders :: sleep disorders
+rubinstein taybi syndrome :: rubinstein taybi syndrome
+osteoarthritis :: osteoarthritis
+yeast infections :: yeast
+atrial fibrillation :: atrial fibrillation
+apitherapy :: apitherapy
+pectus excavatum :: pectus excavatum
+shyness :: social anxiety
+tinnitus :: tinnitus
+sensory integration dysfunction :: sensory integration
+blepharospasm :: blepharospasm
+heartburn :: heartburn
+stomach and duodenal peptic ulcers :: peptic ulcer
+pemphigus vulgaris :: pemphigus
+long qt syndrome :: long qt syndrome
+institutes :: disease control and prevention
+colon cancer :: colorectal
+intermittent explosive disorder :: intermittent explosive disorder
+web directories :: directories
+sinus infection :: sinusitis
+post traumatic stress disorder ptsd :: post traumatic stress
+down syndrome :: down syndrome
+peripheral vascular disease pvd :: peripheral vascular disease
+appendicitis :: appendicitis
+prostate diseases :: prostate
+obsessive compulsive disorder ocd :: obsessive compulsive
+meningitis :: meningitis
+cluster headaches :: cluster
+neuroblastoma :: neuroblastoma
+dental phobia :: dentophobia
+colonic cleansing :: fasting and cleansing
+amyloidosis :: amyloidosis
+hypochondria :: hypochondria
+gout :: gout
+cystic fibrosis :: cystic fibrosis
+gestational diabetes :: gestational diabetes
+rubella :: rubella
+hyperhidrosis :: hyperhidrosis
+neutropenia :: neutropenia
+multiple sclerosis ms :: multiple sclerosis
+lewy body disease :: lewy body
+gulf war syndrome :: gulf war syndrome
+gemstone therapy :: crystals
+cholesteatoma :: cholesteatoma
+avoidant personality disorder :: avoidant
+polycystic ovarian syndrome pcos :: polycystic ovarian syndrome
+vitiligo :: vitiligo
+panic disorder :: panic
+diverticulitis :: diverticulitis
+endocarditis :: endocarditis
+lymphedema :: lymphedema
+hidradenitis suppurativa :: hidradenitis suppurativa
+epidermolysis bullosa :: epidermolysis bullosa
+hemochromatosis :: hemochromatosis
+myeloproliferative disorders :: chronic myeloproliferative disorders
+amebiasis :: amebiasis
+applied kinesiology :: kinesiology
+pancreatic cancer :: pancreatic
+craniofacial anomalies :: cleft lip and palate
+vulvodynia :: vulvodynia
+menorrhagia :: menorrhagia
+myeloproliferative disorders :: myelodysplastic syndromes
+mental health disorders :: psychiatry
+congenital heart disease :: congenital
+eye conditions :: ophthalmology
+attention deficit disorder add :: add and adhd
+mononucleosis :: infectous mononucleosis
+neurological disorders :: neurological disorders
+rett syndrome :: rett syndrome
+polarity therapy :: polarity therapy
+essential tremor :: movement disorders
+dyspraxia :: dyspraxia apraxia
+chicken pox :: chickenpox
+muscular dystrophy md :: muscular dystrophies
+sciatica :: sciatica
+dysphagia :: dysphagia
+syringomyelia :: syringomyelia
+spinal muscular atrophy sma :: spinal muscular atrophy
+spina bifida :: spina bifida
+gambling addiction :: pathological gambling
+coronary artery disease :: coronary artery disease
+thyroiditis :: thyroiditis
+fanconi anemia :: fanconi
+atresia :: biliary atresia
+thyroid cancer :: thyroid
+rosacea :: rosacea
+mitochondrial disease :: mitochondrial
+bacterial vaginosis :: infections
+chondromalacia patellae :: chondromalacia
+arthritis :: arthritis
+impulse control disorders :: impulse control
+cri du chat syndrome :: cri du chat syndrome
+hyperlexia :: hyperlexia
+schistosomiasis :: schistosomiasis
+postpartum depression :: postpartum depression
+rheumatic fever :: rheumatic fever
+diphtheria :: diphtheria
+morning sickness :: morning sickness
+mesothelioma :: mesothelioma
+tularemia :: tularemia
+diarrhea :: diarrhea
+prostate cancer :: prostate
+escherichia coli infection e coli infection :: e coli
+dehydration :: water balance
+gynecologic cancers :: gynecologic
+niemann pick disease :: niemann pick
+keratoconus :: keratoconus
+hemophilia :: hemophilia
+lymphoma :: lymphoma
+krabbe disease :: krabbe disease
+nephrogenic diabetes insipidus :: diabetes insipidus
+anal cancer :: anal
+encephalitis :: encephalitis
+postural orthostatic tachycardia syndrome :: postural orthostatic tachycardia syndrome
+spinal cord injury :: spinal cord injury
+cholera :: cholera
+rocky mountain spotted fever :: rocky mountain spotted fever
+psoriasis :: psoriasis
+organizations :: organizations
+selective mutism :: selective mutism
+mumps :: mumps
+hypertension :: hypertension
+heart diseases :: heart disease
+bodywork :: bodywork
+achilles tendinitis :: tendonitis
+pyromania :: pyromania
+shingles :: herpes zoster
+lyme disease :: lyme disease
+seasonal affective disorder :: seasonal affective
+multiple chemical sensitivity mcs :: multiple chemical sensitivity
+helicobacter pylori :: helicobacter pylori
+hellerwork :: hellerwork
+tourette syndrome :: tourette syndrome
+chronic fatigue syndrome :: chronic fatigue syndrome
+respiratory diseases :: respiratory disorders
+fibromyalgia :: fibromyalgia
+leukodystrophies :: leukodystrophy
+osteogenesis imperfecta :: osteogenesis imperfecta
+color therapy :: color therapies
+scabies :: scabies
+charcot marie tooth disease cmt :: charcot marie tooth disease
+bulimia nervosa :: bulimia
+cervical dysplasia :: cervical dysplasia
+lung cancer :: lung
+antiphospholipid syndrome aps :: antiphospholipid syndrome
+anorexia nervosa :: anorexia
+hypothermia :: hypothermia
+ovarian cysts :: ovarian cysts
+west nile virus infection :: west nile virus
+norovirus infections :: noroviruses
+glomerulonephritis :: glomerulonephritis
+leishmaniasis :: leishmaniasis
+albinism :: albinism
+fetal alcohol syndrome fas :: fetal alcohol syndrome
+sports injuries :: wounds and injuries
+restless legs syndrome :: restless legs syndrome
+body dysmorphic disorder :: body dysmorphic
+ectopic pregnancy :: ectopic pregnancy
+sexually transmitted diseases stds :: sexually transmitted diseases
+feldenkrais method :: feldenkrais
+bruxism :: bruxism
+mitral valve prolapse :: mitral valve prolapse syndrome
+narcolepsy :: narcolepsy
+spasmodic torticollis :: torticollis
+anosmia :: anosmia
+toxoplasmosis :: toxoplasmosis
+campylobacteriosis :: campylobacteriosis
+pregnancy complications :: complications
+skin cancer :: skin
+bipolar disorder manic depression :: bipolar disorder
+birthmarks :: birthmarks
+canavan disease :: canavan
+fragile x syndrome :: fragile x syndrome
+sanfilippo syndrome :: sanfilippo syndrome
+addiction and recovery :: addictions
+naturopathy :: naturopathy
+chronic myelogenous leukemia :: chronic myelogenous
+fifth disease :: fifth disease
+allergic rhinitis hay fever :: rhinitis
+osteoporosis :: osteoporosis
+hair loss :: hair loss
+hypoglycemia :: hypoglycemia
+chronic obstructive pulmonary disease copd :: chronic obstructive pulmonary disease
+reflex sympathetic dystrophy :: reflex sympathetic dystrophy
+institutes :: education
+insect bites and stings :: bites and stings
+hypospadias :: hypospadias
+gonorrhea :: gonorrhea
+strabismus :: squint
+bodywork :: massage therapy and bodywork
+shy drager syndrome sds :: shy drager syndrome
+reactive attachment disorder :: attachment disorder
+premenstrual syndrome pms :: premenstrual syndrome
+preeclampsia :: preeclampsia
+maple syrup urine disease msud :: maple syrup urine disease
+colic :: infant colic
+ovarian cancer :: ovarian
+scarlet fever :: scarlet fever
+therapeutic touch :: therapeutic touch

@@ -1,0 +1,570 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://www.semanticweb.org/ontologies/2014/8/Ontology1411736970577.owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2014/8/Ontology1411736970577.owl"/>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_/Slim_Fit_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear/Bathrobes">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats/Down_Coats">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Coats"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Denim_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear/Bikinis">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Shirts_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Mini_Skirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Cardigans_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Winter_Coats_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Denim_Dresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Gilets_&amp;_Waistcoats_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Leg_Warmers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Suit_Jackets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Joggers_&amp;_Sweats_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Winter_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Underwear">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Socks_/Sports_Socks_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Socks_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Short_Coats_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Cargo_Trousers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Leggings_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Swimwear_/Swimming_Trunks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Swimwear_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Suits">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Underwear/Nightwear_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Underwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Dressing_Gowns">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats/Trench_Coats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Coats"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Denim_Skirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Underwear/Vests">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Underwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Socks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Hoodies">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Shapewear">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Pencil_Skirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_/Print_T-Shirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Blazers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear/Swimsuits">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Swimwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_/Basic_T-Shirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_/Loose_Fit_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jeans_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Athletic_Jackets__">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Parkas">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Coats_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Jersey_Dresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Blouses_&amp;_Tunics">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans/Denim_Shorts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Knee_High_Socks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Down_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Shirts_/Casual">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Shirts_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tops/Tops_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tops"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Cardigans">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Suit_Jackets_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Denim_Jackets_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Socks_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Athletic_Jackets___">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Shirts_/Business">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Shirts_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats/Wool_Coats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Coats"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Swimwear/Beach_Accessories">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Swimwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Sweatshirts_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats/Winter_Coats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Coats"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Tigh_High_Socks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Fleece_Jackets_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tops/T-Shirts">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tops"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Hoodies_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans/Bootcut">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Leather_Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Skirts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Fleece_Jumpers_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Suspenders">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Bras">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Socks_/Socks__">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Socks_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Joggers_&amp;_Sweats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Socks_/Knee_high_socks">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Socks_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Shorts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Shirt_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans/Straight_Leg">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Wool_Coats_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Coats_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Outdoor_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Casual_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans/Loose_Fit">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans/Slim_Fit">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Playsuits_&amp;_Jumpsuits">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Business_Shirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/A-Line_Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Skirts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Trench_Coats_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Coats_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Pleated_Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Skirts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Sweatshirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Lightweight_Jackets_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Trousers_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Nightwear">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jeans">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Suit_Trousers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Underwear/Dressing_Gowns_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Underwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Lightweight_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_/Denim_Shorts_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jeans_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Sports_Socks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Blouses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Swimwear_/Dressing_Gowns__">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Men/Swimwear_"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_/Bootcut_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jeans_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Underwear/Underpants">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Underwear"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Athletic_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Tights">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_/Polo_Shirts_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/T-Shirts_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tops">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Fleece_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Waistcoats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Fleece_Jumpers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Cocktail_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Knitted_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jeans_/Straight_Leg_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jeans_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tops/Polo_Shirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Tops"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Gilets_&amp;_Waistcoats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/T-Shirts_/Long_Sleeve_Tops_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/T-Shirts_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Trousers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Capes">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Maxi_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Leggings">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Dresses/Work_Dresses">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Dresses"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Athletic_Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_/Knitted_Jumpers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jumpers_&amp;_Cardigans_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tops/Long_Sleeve_Tops">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Tops"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Coats/Short_Coats">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Coats"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Tunics">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Shorts_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Leather_Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jackets_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Trousers_&amp;_Leggings/Chinos">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Trousers_&amp;_Leggings"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Tights_&amp;_Socks/Suspenders_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Tights_&amp;_Socks"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Vests_&amp;_Camisoles">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Down_Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jackets_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Outdoor_Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jackets_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Swimwear_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Jackets_/Winter_Jackets_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Jackets_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jackets/Leather_Jackets">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jackets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Coats_/Down_Coats_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Coats_"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware/Knickers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Suits_&amp;_Ties/Ties_&amp;_Accessories">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Suits_&amp;_Ties"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Bubble_Hem_Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Skirts"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans/Jumpers">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Jumpers_&amp;_Cardigans"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Men/Trousers_&amp;_Chinos/Chinos_">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Men/Trousers_&amp;_Chinos"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Blouses_&amp;_Tunics/Shirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Blouses_&amp;_Tunics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Lingerie_&amp;_Nightware">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayClothing.com/Women/Skirts/Maxi_Skirts">
+    <rdfs:subClassOf rdf:resource="http://ebayClothing.com/Women/Skirts"/>
+  </owl:Class>
+</rdf:RDF>

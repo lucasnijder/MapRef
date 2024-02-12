@@ -1,0 +1,139 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:untitled-ontology-12="http://www.semanticweb.org/marcel/ontologies/2013/10/untitled-ontology-12#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/marcel/ontologies/2013/10/untitled-ontology-12"/>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Screens_&amp;_Room_Dividers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Screens_&amp;_Room_Dividers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Beds_&amp;_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Beds_&amp;_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Trunks_&amp;_Chests">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Trunks_&amp;_Chests</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Sideboards_&amp;_Buffets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Sideboards_&amp;_Buffets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Sofas,_Loveseats_&amp;_Chaises">
+    <rdfs:label xml:lang="de">Sofas,_Loveseats_&amp;_Chaises</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Chairs">
+    <rdfs:label xml:lang="de">Chairs</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Vanities_&amp;_Makeup_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Vanities_&amp;_Makeup_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Futons,_Frames_&amp;_Covers">
+    <rdfs:label xml:lang="de">Futons,_Frames_&amp;_Covers</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Desks_&amp;_Home_Office_Furniture">
+    <rdfs:label xml:lang="de">Desks_&amp;_Home_Office_Furniture</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Benches_&amp;_Stools">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Benches_&amp;_Stools</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Entertainment_Units,_TV_Stands">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Entertainment_Units,_TV_Stands</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Nightstands">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://ebayFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Nightstands</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture">
+    <rdfs:label xml:lang="de">Furniture</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Armoires_&amp;_Wardrobes">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Armoires_&amp;_Wardrobes</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Ottomans,_Footstools_&amp;_Poufs">
+    <rdfs:label xml:lang="de">Ottomans,_Footstools_&amp;_Poufs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Cabinets_&amp;_Cupboards">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Cabinets_&amp;_Cupboards</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Bean_Bags_&amp;_Inflatables">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Bean_Bags_&amp;_Inflatables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Slipcovers">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Slipcovers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Dressers_&amp;_Chests_of_Drawers">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Dressers_&amp;_Chests_of_Drawers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Bookcases">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Bookcases</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Bedroom_Sets">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Bedroom_Sets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Tables">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/CD_&amp;_Video_Racks">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">CD_&amp;_Video_Racks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Dining_Sets">
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Dining_Sets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://ebayFurniture.com/Furniture/Bar_Stools">
+    <rdfs:label xml:lang="de">Bar_Stools</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://ebayFurniture.com/Furniture"/>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#OWLDatatypeImpl_00000948044288974613">
+    <rdfs:label xml:lang="de">PlainLiteral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#OWLAnnotationPropertyImpl_00000948070288685465">
+    <rdfs:label xml:lang="de">label</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

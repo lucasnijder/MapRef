@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Perlen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Perlen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Waffen/Schusswaffen/Luft-und-Gasdruck"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Waffen/Schusswaffen/Softair-Waffen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schreibwaren-und-Buerobedarf/Materialien-und-Zubehoer/Stempel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Bedarf-und-Zubehoer/Stempel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Sondergroessen/Damen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Spezialgroessen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Peripherie/Drucker/Verbrauchsmaterial"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Drucker/Tinte_Toner-und-Spezialpapier"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Europaeisch/Franzoesisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Franzoesischer-Wein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Ayurveda"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Ayurveda"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Pflanzen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Blumen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Regionale-Spezialitaeten/Europaeisch/Franzoesisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten/Franzoesisch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Kuechen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Kuechen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst/Malerei"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Malerei-und-Bildhauerei"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation/Handys"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation/Handy-und-SMS/Geraete"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Paintball"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Paintball"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Motorsport/Kart"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Motorsport/Kartsport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Schiesssport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Schiessen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Duefte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Parfuem-und-Duefte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Outdoor-und-Camping/Bekleidung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Bekleidung-und-Ausruestung"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Outdoor-und-Camping"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Herren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Herrenbekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Keramik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Keramik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Reitbedarf/Saettel-und-Zaumzeug"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung/Saettel"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Wassersport/Surfen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Windsurfen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Saiteninstrumente"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Saiteninstrumente"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Klima-Geraete/Kamine"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Kacheloefen-und-Kamine"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Antiquariate"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Antiquariate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Handarbeiten/Naehen/Patchworken-und-Quilten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Patchwork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Wintersport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Wintersport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Recht"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Recht"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Design"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Moebel/Designermoebel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Fanartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Fanartikel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Wassersport/Bootszubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Boote-und-Schiffe/Ausruestung-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Speichermedien"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Speichermodule"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Krankheiten-und-Beschwerden"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Krankheiten-und-Beschwerden"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Kunst"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Kunst-und-Handwerk"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Gartendekoration"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartendekoration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Religion-und-Spiritualitaet/Yoga"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Yoga"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Laufsport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Laufen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Spiele"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Computerspiele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Kaese"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Milchprodukte/Kaese"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Gesundheit"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Gesundheit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Biowein"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Oekologischer-Anbau"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Hautpflege"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Kosmetik/Hautpflege"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Aussenanlagen/Gartenhaeuser"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartenhaeuser-und-Gewaechshaeuser"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Computer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Computer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Fahrzeuge"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Sport-und-Freizeit/Kraftfahrzeuge"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Gewuerze-und-Kraeuter"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Wuerzmittel-und-Saucen"/>
+      <relation>Related</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Moebel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Edelmetalle/Silber"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Edelmetalle/Silber"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Schiesssport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Jagen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Accessoires/Krawatten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Accessoires/Krawatten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Religion-und-Spiritualitaet/Christentum"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Religion/Christentum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Haushaltsbedarf/Haushaltsgeraete/Getreidemuehlen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Geraete-und-Zubehoer/Getreidemuehlen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Freizeit-und-Garten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartenmoebel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Basteln/Window-Color"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Bedarf-und-Zubehoer/Window-Color"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Angeln"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Angeln"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Spirituosen/Absinth"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Absinth"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Software"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Software"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Krankheiten-und-Beschwerden/Diabetes"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Krankheiten-und-Beschwerden/Diabetes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Holz"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Holzspielzeug"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wasser"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Trinkwasser"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Freizeit-und-Sport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Sport-und-Freizeit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Magnetfeldtherapie"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Magnetfeldtherapie"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Motorsport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Motorsport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Gebrauchte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Gebrauchtgeraete"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Geschenke/Personalisiert/Literatur"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Kinderbuecher/Personalisierte-Kinderbuecher"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Honig"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Zucker-und-Suessstoffe/Honig"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Tabak/Zigarren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Tabakwaren/Zigarren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Ernaehrung/Nahrungsergaenzung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Ernaehrung/Nahrungsergaenzungsmittel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Kopfbedeckungen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Accessoires/Huete-und-Muetzen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Backwaren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Backwaren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Regionale-Spezialitaeten/Asiatisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kulturen-und-Gruppen/Asiatische"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Berufsbekleidung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Berufsbekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Lampen-und-Leuchten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Lampen-und-Leuchten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Blasinstrumente"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Blasinstrumente"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Hoeren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Hoerakustik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Fitness"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Fitness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Tabak/Zigarren/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Tabakwaren/Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Noten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Noten-und-Tabulaturen"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Haltung-und-Pflege/Hufpflege"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung/Hufpflege"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Reitbedarf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Unterwaesche/Damen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Unterwaesche-und-Dessous"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Reiki"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Reiki"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Zubehoer"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Homoeopathie"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Homoeopathie"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Unterwaesche"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Unterwaesche-und-Dessous"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Sondergroessen/Herren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Herrenbekleidung/Spezialgroessen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Drogen/Hanf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Produkte/Ethnobotanische-Produkte/Hanf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Tennis"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Tennis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Biografien"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Genres/Biographien"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst/Material-und-Zubehoer/Rahmen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Bedarf-und-Zubehoer/Bilderrahmen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Unterwaesche/Socken-und-Struempfe"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Strumpfwaren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Behandlungen-und-Pflege/Massage"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Behandlungen-und-Untersuchungen/Massage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Wassersport/Tauchen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Tauchen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Musik/Genres/Klassik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/CDs_Schallplatten-und-Kassetten/Musikgenre-spezialisierter-Fachhandel/Klassische-Musik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Grillen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Grill-Bedarf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Zaubern"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Zauberei"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation/Handys/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation/Handy-und-SMS/Geraete/Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau/Schiffe"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau/Schiffe"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Autogramme"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Autogramme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Naegel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Nagelpflege"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Regionale-Spezialitaeten/Europaeisch/Italienisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten/Italienisch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Schwimmbaeder-und-Whirlpools"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Schwimmbaeder-und-Saunas"/>
+      <relation>Related</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Motorsport/Fanartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Motorsport/Fanartikel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Behinderte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Bekleidung-fuer-Behinderte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Geschichte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Geschichte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Fahrraeder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Radsport"/>
+      <relation>HasA</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Schuhe"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Schuhe"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Cocktails"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Partyservice-und-Catering/Cocktails"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau/Eisenbahnen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau/Eisenbahn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Eintrittskarten/Sport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Eintrittskarten/Sport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Kaffee-und-Tee/Kaffee"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Kaffee"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Biowein"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Weingueter/Oekologischer-Anbau"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Tischtennis"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Tischtennis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Kostueme/Karneval-Fasching"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Kostueme/Karneval-und-Halloween"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Ersatzteile-und-Zubehoer/Elektronik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Auto-Tuning/Elektronik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Blasinstrumente/Didgeridoo"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Blasinstrumente/Didjeridu"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Kinder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Kinderbekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Spiele/Kartenspiele"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Kartenspiele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Haltung-und-Pflege/Stallbau"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung/Stall-und-Weide"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Accessoires"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Accessoires"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Koerperschmuck"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Intimschmuck"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Kostueme"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Kostueme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Handarbeiten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Handarbeiten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst/Reproduktionen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Malerei-und-Bildhauerei/Reproduktionen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Freizeit-und-Garten/Haengematten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Moebel/Haengematten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Edel-und-Schmucksteine/Bernstein"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Edelsteine/Bernsteine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Essig-und-Oel/Olivenoel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Oele/Olivenoel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Ersatzteile-und-Zubehoer/Raeder-und-Reifen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Auto-Tuning/Felgen-und-Raeder"/>
+      <relation>Related</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Ersatzteile-und-Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Ersatzteile-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Laenderkunde-und-Ethnologie"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Laender-und-Kulturen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Badminton"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Badminton"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst/Material-und-Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Bedarf-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder/Bekleidung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder/Ersatzteile-und-Zubehoer/Bekleidung-und-Helme"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Gartengeraete"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartengeraete"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder/Kleinanzeigen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder/Kleinanzeigen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Jahreswagen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Kleinanzeigen/Gebrauchtwagen/Jahreswagen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Audio"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Hoerspiele-und-Tonbuecher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Spirituosen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Fahrraeder/Mountainbikes"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Radsport/Mountain-Biking"/>
+      <relation>HasA</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Saiteninstrumente/Gitarre"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Saiteninstrumente/Gitarren-und-Baesse"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Komplettsysteme/Notebooks"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Notebooks"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Waffen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Waffen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/T-Shirts"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/T-Shirts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Auszeichnungen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pokale-und-Vereinsbedarf"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Video"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Video"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Herren/Oberhemden"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Herrenbekleidung/Hemden"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Hochzeit"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Trauringe"/>
+      <relation>HasA</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau/Fahrzeuge/Autos"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau/Autos"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Edelmetalle"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Edelmetalle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Komponenten/Speicher"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Speichermodule"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Bluetentherapie"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Bluetentherapie"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Waffen/Schusswaffen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Waffen/Schusswaffen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau/Flugzeuge-und-Helikopter/Flugzeuge"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau/Flugzeuge"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Ersatzteile-und-Zubehoer/Schmierstoffe"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Ersatzteile-und-Zubehoer/Filter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Kleinanzeigen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Kleinanzeigen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Drogen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Tabakwaren/Wasserpfeifen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Haare/Pflege"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Haare/Haarpflege"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Haustechnik/Saunas-und-Dampfbaeder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Schwimmbaeder-und-Saunas"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Partys"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Partys-und-Veranstaltungen"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Ernaehrung/Diaet"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Abnehmen/Diaeten-und-Kurse"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Schuhe/Sondergroessen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Schuhe/Spezialgroessen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Autos/Ersatzteile-und-Zubehoer/Traegersysteme"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Ersatzteile-und-Zubehoer/Traegersysteme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation/Funktechnik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation/Funktechnik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Aussenanlagen/Zaeune-und-Tore"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartenzaeune-und-Gartentore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Haushaltsbedarf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Haushaltswaren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Sport/Badesport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Bademoden"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Aussenanlagen/Gewaechshaeuser"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartenhaeuser-und-Gewaechshaeuser"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Badezimmer-und-WC"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Bad"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Wirtschaft"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Wirtschaft"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Geschenke/Scherzartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Partys-und-Veranstaltungen/Scherzartikel-und-Partygags"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Fremdsprachige-Literatur"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Sprachen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Trachten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Trachten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Pflanzen/Bonsai"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Bonsais"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Postkarten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Karten"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/TCM-und-Akupunkturbedarf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Akupunktur"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Film-und-Fernsehen/Poster-und-Plakate"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunstdruck/Poster"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Dekorationsartikel/Kunstblumen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Zimmer-und-Dekorationspflanzen/Kuenstliche-Blumen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Regionale-Spezialitaeten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kulturen-und-Gruppen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Naturtextilien"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Stoffe-und-Textilien/Naturtextilien"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Suesswaren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Suesswaren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation/Handys/Kleinanzeigen-und-Flohmaerkte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation/Handy-und-SMS/Geraete/Gebrauchte-Handys"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Multimedia/Audio/DJ-Technik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Diskjockeys/Ausruestung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Eintrittskarten/Kultur"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Eintrittskarten/Musik"/>
+      <relation>PartOf</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fest-und-Feiertage/Weihnachten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Weihnachten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Historische-Wertpapiere"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Wertpapiere"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Sporternaehrung/Nahrungsergaenzung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Ernaehrung/Nahrungsergaenzungsmittel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Europaeisch/Italienisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Italienischer-Wein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Tasteninstrumente"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Klaviere_Orgeln-und-Synthesizer"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Krankheiten-und-Beschwerden/Allergien"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Krankheiten-und-Beschwerden/Allergien"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Spiele/Puzzles"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Puzzles"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Delikatessen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten/Delikatessen-und-Feinkost"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Drogen/Hanf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Stoffe-und-Textilien/Hanf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Turnen-und-Gymnastik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Turnen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Handarbeiten/Sticken"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Handarbeiten/Stickmuster-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Tretroller"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Tretroller"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Puppen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Puppen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Uhren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Uhren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunst/Reproduktionen/Poster-und-Drucke"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunstdruck/Poster"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Kinder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Kinderbuecher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Ballsport/Fussball"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Fussball"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Modellbau/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Modellbau/Werkzeug-und-Zubehoer"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Basteln/Malen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Malerei-und-Bildhauerei"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Glas"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Glas"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Essig-und-Oel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Oele"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Fleisch-und-Wurst"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Fleisch-und-Gefluegel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Schlafzimmer/Wasserbetten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Betten/Wasserbetten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Kosmetik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Kosmetik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Wassersport/Segeln"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Boote-und-Schiffe/Segeln"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Europaeisch/Spanisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Spanischer-Wein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Dekorationsartikel/Kerzen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Haushaltswaren/Kerzen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Sporternaehrung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Ernaehrung/Nahrungsergaenzungsmittel/Sporternaehrung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Handarbeiten/Naehen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Naehen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Haushaltsbedarf/Haushaltsgeraete"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Haushaltsgeraete"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Teiche-und-Wassergaerten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Teiche-und-Springbrunnen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Musik/Vinyl"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/CDs_Schallplatten-und-Kassetten/Vinyl_Schellack-und-Second-Hand-Haendler"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Haare/Ersatz"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Haare/Haarersatz"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Ballsport/Fussball/Fanartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Fussball/Fanartikel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Fanartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Fanartikel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Nischenprodukte/Tanz"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Tanz"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Damen/Mutterschaft/Umstandsmode"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Umstandsmode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Handarbeiten/Stricken-und-Haekeln"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Stricken-und-Haekeln"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein/Europaeisch/Oesterreichisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein/Oesterreichischer-Wein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Nischenprodukte/Tanz/Schuhe"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Tanz/Bedarf-und-Zubehoer/Tanzschuhe"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Bier"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Bier"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Tabak"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Tabakwaren"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Outdoor-und-Camping/Jagd"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Jagen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Regionale-Spezialitaeten/Europaeisch/Spanisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten/Spanisch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Damen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Essen-und-Trinken"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Kochbuecher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Religion-und-Spiritualitaet"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Religion"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Kampfsport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Kampfsport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Komplettsysteme/Handhelds"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/PDAs-und-Handhelds"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Comics"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Comics"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Software"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Software"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Sehen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Augenoptik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Sehen/Kontaktlinsen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Augenoptik/Kontaktlinsen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Zahnmedizin"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Zahnmedizin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Edelmetalle/Gold"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Edelmetalle/Gold"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Alternative-Medizin/Bluetentherapie/Bachblueten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Alternativmedizin/Bluetentherapie/Produkte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Spiele/Brettspiele"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Brettspiele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Kundenspezifisch/Textildruck/T-Shirts"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/T-Shirts"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Tabak/Feuerzeuge"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Haushaltswaren/Feuerzeuge"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Peripherie/Monitore"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Monitore-und-Displays"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Religion-und-Spiritualitaet/Islam"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Religion/Islam"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Wissenschaft"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Naturwissenschaft-und-Technik"/>
+      <relation>Related</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Haushaltsbedarf/Glas-und-Porzellan"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Haushaltswaren/Geschirr-und-Porzellan"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Bier/Heimbrauen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Bier/Selbst-brauen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Waffen/Schusswaffen/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Waffen/Schusswaffen/Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Moebel/Schlafzimmer/Bettzeug"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Betten/Bettwaesche"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Stofftiere"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Stofftiere"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Kaffee-und-Tee/Tee"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Tee"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Artistik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Jonglieren"/>
+      <relation>PartOf</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Musik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Musik/Genres"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/CDs_Schallplatten-und-Kassetten/Musikgenre-spezialisierter-Fachhandel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Behandlungen-und-Pflege"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Behandlungen-und-Untersuchungen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Religion-und-Spiritualitaet"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Religion"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder/Trikes"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder/Trikes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Backwaren/Weihnachtsgebaeck"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Backwaren/Stollen"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Damen/Brautmode"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Brautmoden"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Haare"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Haare"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Fahrraeder/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Radsport/Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Restauration-und-Format-Transfer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/CDs_Schallplatten-und-Kassetten/Klang-Restaurierung"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder/Motorroller"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder/Roller"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Muenzen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Muenzen-und-Waehrungen"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Telekommunikation/Handys/Logos-und-Klingeltoene"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Telekommunikation/Handy-und-SMS/SMS/Logos-und-Klingeltoene"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Ernaehrung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Ernaehrung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Spielwaren/Spiele/Brettspiele/Schach"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Brettspiele/Schach"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Speichermedien"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Zubehoer/Speichermedien"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Geraete-und-Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Geraete-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Lesben,-Schwule-und-Bisexuelle"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Lesben_Schwule-und-Bisexuelle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Peripherie/Drucker"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Drucker"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Leder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Leder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Accessoires/Guertel-und-Hosentraeger"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Accessoires/Guertel-und-Hosentraeger"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Outdoor-und-Camping/Zelte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Camping"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Tiefkuehlkost"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Tiefkuehlkost"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Eintrittskarten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Eintrittskarten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Holz"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kunsthandwerk/Holzkunst-und-Schnitzereien"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Fisch-und-Meeresfruechte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Fische-und-Meeresfruechte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Gesundheit/Ernaehrung/Diaet"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Gesundheit/Ernaehrung/Spezialernaehrung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Gartenmaerkte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Gartencenter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Vegetarisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Naturkost/Vegetarisch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder/Teile-und-Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder/Ersatzteile-und-Zubehoer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Jeans"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Jeans"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Elektronik/Sicherheit"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Sicherheitstechnik-und-systeme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Kunsthandwerk/Regionale-Spezialitaeten/Afrikanisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Kulturen-und-Gruppen/Afrikanische"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Religion-und-Spiritualitaet/Buddhismus"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Religion/Buddhismus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Schuhe/Kinder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Kinderbekleidung/Kinderschuhe"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Golf"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Golf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Video/DVD/Verleih"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Unterhaltung/Video/Einzelhaendler/DVD-Shops_Video-Fachhandel/Verleih"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Regionale-Spezialitaeten/Asiatisch"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten/Asiatisch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sammelbare-Objekte/Briefmarken"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Antiquitaeten-und-Sammeln/Briefmarken"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Hardware/Tuning"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Hardware/Tuning"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schmuck/Edel-und-Schmucksteine"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Schmuck/Edelsteine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Reinigung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Reinigung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Billard-und-Dart"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Billard-und-Dart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Instrumente/Schlaginstrumente"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Instrumente/Trommeln-und-Schlagzeug"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Unterwaesche/Herren"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Herrenbekleidung/Unterwaesche"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Waffen/Bogen-und-Armbrust"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Bogenschiessen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Haus-und-Garten/Dekorationsartikel/Zimmerbrunnen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Teiche-und-Springbrunnen/Zimmerspringbrunnen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Regionale-Spezialitaeten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Regionale-Spezialitaeten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Reitbedarf/Westernreiten"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung/Westernreiten"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Spirituosen/Whisky"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Whisky"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Musik/Geraete-und-Zubehoer/Karaoke"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Karaoke"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Vegetarisch/Vegan"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Naturkost/Vegetarisch/Vegan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Blumen"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Haus-und-Garten/Garten-und-Pflanzen/Blumen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Computer/Software/Lernsoftware"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Computer/Software/Sprachen/Lernsoftware"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Basteln/Stempeltechnik"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kunst-und-Kunsthandwerk/Bedarf-und-Zubehoer/Stempel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Essen-und-Trinken/Getraenke/Wein"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Essen-und-Trinken/Getraenke/Alkohol-und-Spirituosen/Wein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Fanartikel"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Fanartikel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Schoenheit/Hautpflege/Sonnenschutz"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Koerperpflege/Kosmetik/Hautpflege/Sonnenschutz-und-Braeunungsmittel"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Drachensport"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Outdoors/Drachen-und-Gleitschirmfliegen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Freizeit/Lebendige-Geschichte"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Spiele-und-Spielzeug/Rollenspiele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Publikationen/Buecher/Natur-und-Tiere"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Buecher/Buchhandel/Naturwissenschaft-und-Technik/Tiere"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Sport/Pferdesport/Bekleidung"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Sport/Pferdesport/Ausruestung/Reitbekleidung"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Fahrzeuge/Motorraeder"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Kraftfahrzeuge/Motorraeder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Unterhaltung/Bild-und-Tontraeger/Musik/Soundfiles"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Musik/Anbieter-digitaler-Musikformate/Gebuehrenpflichtige-Downloads"/>
+      <relation>&gt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Unterwaesche/Korsetts"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Damenbekleidung/Unterwaesche-und-Dessous/Korsetts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://google.com/World_Deutsch/Online-Shops/Bekleidung/Schuhe/Zubehoer"/>
+      <entity2 rdf:resource="http://yahoo.com/Firmen/Bekleidung/Schuhe/Pflege-und-Zubehoer"/>
+      <relation>&lt;</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

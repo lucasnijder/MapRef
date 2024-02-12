@@ -1,0 +1,909 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:untitled-ontology-13="http://www.semanticweb.org/marcel/ontologies/2013/10/untitled-ontology-13#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/marcel/ontologies/2013/10/untitled-ontology-13"/>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Hypoallergenic_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Hypoallergenic_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Stools/Folding_Stools">
+    <rdfs:label xml:lang="de">Folding_Stools</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Stools"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Standing_Shelf_Units">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Standing_Shelf_Units</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets/Wall-Mounted_Cabinets">
+    <rdfs:label xml:lang="de">Wall-Mounted_Cabinets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Quilt_Stands">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Quilt_Stands</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">File_Cabinets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Lounge_&amp;_Recreation_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Directors_Chairs">
+    <rdfs:label xml:lang="de">Directors_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets/Freestanding_Cabinets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Freestanding_Cabinets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Bookcase_Ladders">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bookcase_Ladders</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Bean_Bags">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bean_Bags</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Cradles">
+    <rdfs:label xml:lang="de">Cradles</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Mirrors/Countertop_Vanity_Mirrors">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Mirrors"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Countertop_Vanity_Mirrors</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Bar_Furniture/Bars_&amp;_Wine_Cabinets">
+    <rdfs:label xml:lang="de">Bars_&amp;_Wine_Cabinets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Bar_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Stacking_Chairs">
+    <rdfs:label xml:lang="de">Stacking_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Trunks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Trunks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Bookcases">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bookcases</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks/Standing_Baker&apos;s_Racks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Standing_Baker's_Racks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Bed_Frames,_Headboards_&amp;_Footboards">
+    <rdfs:label xml:lang="de">Bed_Frames,_Headboards_&amp;_Footboards</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bedroom_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs/Adjustable_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Adjustable_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Desks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Desks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Stools">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Stools</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Media_Storage">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Media_Storage</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Computer_Armoires_&amp;_Hutches">
+    <rdfs:label xml:lang="de">Computer_Armoires_&amp;_Hutches</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Armchairs">
+    <rdfs:label xml:lang="de">Armchairs</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Desk_Chairs">
+    <rdfs:label xml:lang="de">Desk_Chairs</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Bookcases,_Cabinets_&amp;_Shelves">
+    <rdfs:label xml:lang="de">Bookcases,_Cabinets_&amp;_Shelves</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Bassinets">
+    <rdfs:label xml:lang="de">Bassinets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Panel_Screens">
+    <rdfs:label xml:lang="de">Panel_Screens</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Plush_Mattresses">
+    <rdfs:label xml:lang="de">Plush_Mattresses</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/Coffee_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Coffee_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Home_Office_Desk_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Stools/Footstools">
+    <rdfs:label xml:lang="de">Footstools</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Stools"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Mobile_File_Cabinets">
+    <rdfs:label xml:lang="de">Mobile_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Curio_Cabinets">
+    <rdfs:label xml:lang="de">Curio_Cabinets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Rocking_Chairs">
+    <rdfs:label xml:lang="de">Rocking_Chairs</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Portable_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Portable_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Storage_Ottomans">
+    <rdfs:label xml:lang="de">Storage_Ottomans</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Folding_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Folding_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Firm_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Firm_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Furniture_Sets">
+    <rdfs:label xml:lang="de">Home_Office_Furniture_Sets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Mirrors">
+    <rdfs:label xml:lang="de">Bathroom_Mirrors</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Nightstands">
+    <rdfs:label xml:lang="de">Nightstands</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Benches">
+    <rdfs:label xml:lang="de">Benches</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Sofas">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Sofas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Beds_&amp;_Bed_Frames">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Beds_&amp;_Bed_Frames</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs/Folding_Chairs">
+    <rdfs:label xml:lang="de">Folding_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Lounge_&amp;_Recreation_Chairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Cradle_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Cradle_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Hampers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Hampers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Rocking_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Rocking_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Storage_Benches">
+    <rdfs:label xml:lang="de">Storage_Benches</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Living_Room_Sets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Living_Room_Sets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons/Futon_Frames">
+    <rdfs:label xml:lang="de">Futon_Frames</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Crib_Mattresses">
+    <rdfs:label xml:lang="de">Crib_Mattresses</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Cabinets">
+    <rdfs:label xml:lang="de">Home_Office_Cabinets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Nightstands">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Nightstands</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Recliners">
+    <rdfs:label xml:lang="de">Recliners</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Lateral_File_Cabinets">
+    <rdfs:label xml:lang="de">Lateral_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Other_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Ottomans">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Ottomans</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Specialty_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Specialty_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Home_Office_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Vertical_File_Cabinets">
+    <rdfs:label xml:lang="de">Vertical_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Stools/Step_Stools">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Stools"/>
+    <rdfs:label xml:lang="de">Step_Stools</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Medicine_Cabinets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Medicine_Cabinets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattress_&amp;_Box_Spring_Sets">
+    <rdfs:label xml:lang="de">Mattress_&amp;_Box_Spring_Sets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Furniture_Warranties">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Furniture_Warranties</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Television_Stands_&amp;_Entertainment_Centers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Television_Stands_&amp;_Entertainment_Centers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables">
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Extendable_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Extendable_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Dining_Room_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Hanging_Organizers">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Hanging_Organizers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Flat_File_Cabinets">
+    <rdfs:label xml:lang="de">Flat_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Nursery_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Toddler_Beds">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Toddler_Beds</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Gliders,_Ottomans_&amp;_Rocking_Chairs">
+    <rdfs:label xml:lang="de">Gliders,_Ottomans_&amp;_Rocking_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Step_Stools">
+    <rdfs:label xml:lang="de">Step_Stools</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Chest_File_Cabinets">
+    <rdfs:label xml:lang="de">Chest_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Vanities">
+    <rdfs:label xml:lang="de">Vanities</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Drafting_Tables">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+    <rdfs:label xml:lang="de">Drafting_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Travel_Beds">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Travel_Beds</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Futons</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Furniture_Sets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bathroom_Furniture_Sets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Game_Tables">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Game_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Dining_Chairs">
+    <rdfs:label xml:lang="de">Dining_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Toy_Chests">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Toy_Chests</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Bathroom_Sets">
+    <rdfs:label xml:lang="de">Bathroom_Sets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/Pedestal_Tables">
+    <rdfs:label xml:lang="de">Pedestal_Tables</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desks">
+    <rdfs:label xml:lang="de">Home_Office_Desks</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Nesting_Tables">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables"/>
+    <rdfs:label xml:lang="de">Nesting_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks/Corner_Baker&apos;s_Racks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Corner_Baker's_Racks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Box_Springs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Box_Springs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs/Swivel_Chairs">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Home_Office_Desk_Chairs"/>
+    <rdfs:label xml:lang="de">Swivel_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Dressers_&amp;_Chests_of_Drawers">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Dressers_&amp;_Chests_of_Drawers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Tables/Breakfast_Trays">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture/Tables"/>
+    <rdfs:label xml:lang="de">Breakfast_Trays</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons/Futon_Mattresses">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Futons"/>
+    <rdfs:label xml:lang="de">Futon_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Futons</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Armoires,_Chests_&amp;_Dressers">
+    <rdfs:label xml:lang="de">Armoires,_Chests_&amp;_Dressers</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Tables">
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Step_Stools">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Step_Stools</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Changing_Tables">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Changing_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/Sofa_&amp;_Console_Tables">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables"/>
+    <rdfs:label xml:lang="de">Sofa_&amp;_Console_Tables</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Mirrors/Lighted_Vanity_Mirrors">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bathroom_Furniture/Bathroom_Mirrors"/>
+    <rdfs:label xml:lang="de">Lighted_Vanity_Mirrors</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization/Storage_Baskets">
+    <rdfs:label xml:lang="de">Storage_Baskets</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bathroom_Furniture">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Bathroom_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets/Card_File_Cabinets">
+    <rdfs:label xml:lang="de">Card_File_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture/File_Cabinets"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Baker&apos;s_Racks">
+    <rdfs:label xml:lang="de">Baker's_Racks</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Nursery_Storage_&amp;_Organization">
+    <rdfs:label xml:lang="de">Nursery_Storage_&amp;_Organization</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Speaker_Stands">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Speaker_Stands</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture">
+    <rdfs:label xml:lang="de">Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Office_Furniture/Bookcases">
+    <rdfs:label xml:lang="de">Bookcases</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Home_Office_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Dining_Tables">
+    <rdfs:label xml:lang="de">Dining_Tables</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Kitchen_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons/Futon_Frames">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons"/>
+    <rdfs:label xml:lang="de">Futon_Frames</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses/Portable_Crib_Mattresses">
+    <rdfs:label xml:lang="de">Portable_Crib_Mattresses</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Memory_Foam_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Memory_Foam_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Bedroom_Sets">
+    <rdfs:label xml:lang="de">Bedroom_Sets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Storage_Chests">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    <rdfs:label xml:lang="de">Storage_Chests</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Vanities_&amp;_Vanity_Benches">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Vanities_&amp;_Vanity_Benches</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Panel_Screens">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Panel_Screens</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Bean_Bags">
+    <rdfs:label xml:lang="de">Bean_Bags</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Cribs_&amp;_Nursery_Beds</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Quilt_Stands">
+    <rdfs:label xml:lang="de">Quilt_Stands</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chaise_Lounges">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Chaise_Lounges</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Coat_Racks">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    <rdfs:label xml:lang="de">Coat_Racks</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Bedroom_Armoires">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Bedroom_Armoires</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Living_Room_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Pillowtop_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Pillowtop_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs/Oversized_Chairs">
+    <rdfs:label xml:lang="de">Oversized_Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Chairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Cribs">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds"/>
+    <rdfs:label xml:lang="de">Cribs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Entertainment_Armoires">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Entertainment_Armoires</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Headboards">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Headboards</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Armoires">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Armoires</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Ottomans">
+    <rdfs:label xml:lang="de">Ottomans</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Chests_&amp;_Dressers">
+    <rdfs:label xml:lang="de">Chests_&amp;_Dressers</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Mattresses_&amp;_Box_Springs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Folding_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Folding_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Inner_Spring_Mattresses">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Inner_Spring_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Dining_Room_Sets">
+    <rdfs:label xml:lang="de">Dining_Room_Sets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Footboards">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture"/>
+    <rdfs:label xml:lang="de">Footboards</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Sofas_&amp;_Couches">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture"/>
+    <rdfs:label xml:lang="de">Sofas_&amp;_Couches</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Stools">
+    <rdfs:label xml:lang="de">Stools</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Mattresses">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Video_Game_Chairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Video_Game_Chairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Tables">
+    <rdfs:label xml:lang="de">Tables</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Serving_Carts">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture"/>
+    <rdfs:label xml:lang="de">Serving_Carts</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs/Armchairs">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Armchairs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses">
+    <rdfs:label xml:lang="de">Mattresses</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Sets">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Sets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds/Moses_Baskets">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture/Cribs_&amp;_Nursery_Beds"/>
+    <rdfs:label xml:lang="de">Moses_Baskets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/China_Cabinets">
+    <rdfs:label xml:lang="de">China_Cabinets</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Bar_Furniture/Barstools">
+    <rdfs:label xml:lang="de">Barstools</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Bar_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Matresses_&amp;_Box_Springs">
+    <rdfs:label xml:lang="de">Matresses_&amp;_Box_Springs</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture/Audio-Video_Shelving">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="de">Audio-Video_Shelving</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Chairs">
+    <rdfs:label xml:lang="de">Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Cabinets">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+    <rdfs:label xml:lang="de">Cabinets</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Kids'_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Furniture_Collections">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+    <rdfs:label xml:lang="de">Furniture_Collections</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons/Futon_Mattresses">
+    <rdfs:label xml:lang="de">Futon_Mattresses</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Futons"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Nursery_Furniture/Bed_Rails">
+    <rdfs:label xml:lang="de">Bed_Rails</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Nursery_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture/Chairs">
+    <rdfs:label xml:lang="de">Chairs</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Kids&apos;_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses/Foam_Mattresses">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Bedroom_Furniture/Mattresses_&amp;_Box_Springs/Mattresses"/>
+    <rdfs:label xml:lang="de">Foam_Mattresses</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Bar_Furniture">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Home_Bar_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Other_Furniture/Gliders">
+    <rdfs:label xml:lang="de">Gliders</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Other_Furniture"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Kitchen_Furniture/Storage_Carts">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Kitchen_Furniture"/>
+    <rdfs:label xml:lang="de">Storage_Carts</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables/End_Tables">
+    <rdfs:label xml:lang="de">End_Tables</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Living_Room_Furniture/Tables"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Buffets,_Credenzas_&amp;_Sideboards">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+    <rdfs:label xml:lang="de">Buffets,_Credenzas_&amp;_Sideboards</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Home_Entertainment_Furniture">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture"/>
+    <rdfs:label xml:lang="de">Home_Entertainment_Furniture</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://amazonFurniture.com/Furniture/Dining_Room_Furniture/Drop-Leaf_Tables">
+    <rdfs:subClassOf rdf:resource="http://amazonFurniture.com/Furniture/Dining_Room_Furniture"/>
+    <rdfs:label xml:lang="de">Drop-Leaf_Tables</rdfs:label>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#OWLAnnotationPropertyImpl_00000613958551137236">
+    <rdfs:label xml:lang="de">label</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#OWLDatatypeImpl_00000613958546636059">
+    <rdfs:label xml:lang="de">PlainLiteral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#OWLDatatypeImpl_00000613854411217921">
+    <rdfs:label xml:lang="de">PlainLiteral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#OWLAnnotationPropertyImpl_00000613854405737176">
+    <rdfs:label xml:lang="de">label</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
